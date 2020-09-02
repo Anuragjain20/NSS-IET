@@ -158,7 +158,7 @@
     
     <div class="card-deck">
     <div class="card bg-light ">
-    <img src="../images/Team/volunteer icon.png"alt="image" class=" card-img-i" >
+    <img src="images/Team/volunteer icon.png"alt="image" class=" card-img-i" >
   
     
     <div class="card-body">
