@@ -28,6 +28,8 @@
     <div class="heading-team">
      Current Team
     </div>
+          
+          <!--- Faculties-->
     <div class="container">
         <div class="container subheading">Faculty Advisers</div>
           <br>
@@ -57,10 +59,9 @@
               </div>
                 </div>
         </div>
-
-
-
-    </div>
+ </div>
+          
+          <!---head- Volunteers-->
     <div class="container">
  <div class="container subheading">Head Volunteers</div>
           <br>
@@ -122,11 +123,15 @@
 </div>
 <br>
 <br>
+          
+         <!---button for  all volunteers list --> 
 <div style="text-align: center" class="conatiner bg-light"  >
     <a href="#"><button class="vbutton"><b><i>Volunteers </i></b></button></a>  
     </div>
       <br>
       <br>
+          
+          <!---buttons for teams of different years --> 
     <div class="conatiner bg-light"style="text-align: center"  >
         
     <a href="#"><button class="button-team">Current</button></a>
@@ -143,6 +148,8 @@
   
     <hr>
     <br><br>
+          
+          <!---Our Reach --> 
     <div class=heading-team> Our Reach</div>
     <br>
     <br>
