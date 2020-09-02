@@ -12,15 +12,16 @@
           
           <!--social media icons-->
             <div style="text-align: center;">
-              <a href="mailto:nssietdavv@gmail.com" data-toggle="tooltip" title="Mail us" ><i ><button class="fa fa-envelope-o foot-icons foot-button" style="font-size:25px" ></button></i></a>
-              <a href="https://www.facebook.com/NSSIET" data-toggle="tooltip" title="Connect on facebook"><i><button class= "fa fa-facebook-official foot-icons foot-button " style="font-size:25px;" ></button></i></a>
-              <a href="https://www.youtube.com/channel/UCS3vch09BK4Zvf8GoIjlmMw/featured" data-toggle="tooltip" title="Watch us on Youtube"  ><i><button class="fa fa-youtube foot-icons foot-button" style="font-size:25px" ></button></i></a>
-             </div>
+               <button onclick="document.location='mailto:nssietdavv@gmail.com'" class="fa fa-envelope-o icons button" style="font-size:25px" data-toggle="tooltip" title="Mail us" ></button>  
+              <button onclick="document.location= 'https://www.facebook.com/NSSIET'" class= "fa fa-facebook-official icons button " style="font-size:25px;"  data-toggle="tooltip" title="Connect on facebook"></button>
+              <button onclick="document.location= 'https://www.youtube.com/channel/UCS3vch09BK4Zvf8GoIjlmMw/featured'" class="fa fa-youtube icons button" style="font-size:25 data-toggle="tooltip" title="Watch us on Youtube"></button>
+              </div>
            <br>
             <div style="text-align: center;">
-             <a href="https://www.instagram.com/nss_ietchapter/" data-toggle="tooltip" title="With Instagram"  ><i><button class="fa fa-instagram foot-icons foot-button" style="font-size:25px" ></button> </i></a>
-             <a href=# data-toggle="tooltip" title="With Twitter"  ><i ><button class="fa fa-twitter foot-icons foot-button" style="font-size:25px" ></button></i></a>
-             <a href=# data-toggle="tooltip" title="With Wordpress"  ><i><button class="fa fa-wordpress foot-icons foot-button" style="font-size:25px" ></button></i></a>
+             <button onclick="document.location='https://www.instagram.com/nss_ietchapter'"  class="fa fa-instagram foot-icons foot-button" style="font-size:25px" data-toggle="tooltip" title="With Instagram" ></button>
+             <button onclick="document.location='#'"  class="fa fa-twitter foot-icons foot-button" style="font-size:25px" data-toggle="tooltip" title="With Twitter" ></button>
+             <button onclick="document.location='#'"  class="fa fa-wordpress foot-icons foot-button" style="font-size:25px" data-toggle="tooltip" title="With Wordpress" ></button>
+             
            </div>    
            <br>
       <br>
@@ -39,13 +40,13 @@
                      <ul style="list-style-type:none;float:right">
                         <li><a href="team.php"  class="foot-quicklinks">Team</a></li>
                         <li style="margin-top:6px"><a href="contact-us.php" class="foot-quicklinks">Contact us</a></li>
-                        <li style="margin-top:6px"><a href="#"class="foot-quicklinks">Developers</a></li>
+                        <li style="margin-top:6px"><a href="#" class="foot-quicklinks">Developers</a></li>
                       </ul>
                   </div>
                   
                 <div class="col-6 pl-3  ">
                     <ul style="list-style-type:none;float:left">
-                         <li><a href="gallery.php"class="foot-quicklinks" >Gallery</a></li>
+                         <li><a href="gallery.php" class="foot-quicklinks" >Gallery</a></li>
                           <li style="margin-top:6px;"><a href="events.php" class="foot-quicklinks">Events</a></li>
                            <li style="margin-top:6px"><a href="#" class="foot-quicklinks">Feedback</a></li>
                      </ul>
