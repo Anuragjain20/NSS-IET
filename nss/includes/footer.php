@@ -41,7 +41,7 @@
                         <li style="margin-top:6px"><a href="contact-us.php" class="foot-quicklinks">Contact us</a></li>
                         <li style="margin-top:6px"><a href="#"class="foot-quicklinks">Developers</a></li>
                       </ul>
-                   </div>
+                  </div>
                   
                 <div class="col-6 pl-3  ">
                     <ul style="list-style-type:none;float:left">
@@ -50,20 +50,19 @@
                            <li style="margin-top:6px"><a href="#" class="foot-quicklinks">Feedback</a></li>
                      </ul>
                 </div>
-                
-               </div>
-            </div>
-          </div>
+             </div>
+            
+        </div>
       </div>
+   </div>
 
-
+       <!--copyright-->
       <div style="background-color:#123c69;color:white;text-align:center">
         Developed and managed by NSS IET-DAVV <br> 
         ©Copyright 2020
         </div>
-    
-    
-      </footer>
+  
+</footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
