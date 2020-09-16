@@ -4,7 +4,7 @@
   
     <!--external css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link  rel="stylesheet" href="css files/contact us.css ">
+    <link  rel="stylesheet" href="css/contact us.css ">
     
        <!--head php-->
        <?php include 'includes/head.php';?>

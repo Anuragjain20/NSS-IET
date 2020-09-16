@@ -3,7 +3,7 @@
   <head>
        
        <!--gallery css-->
-       <link rel="stylesheet" href="css files/gallery.css">
+       <link rel="stylesheet" href="css/gallery.css">
 
          <!--head php-->
        <?php include 'includes/head.php';?> 

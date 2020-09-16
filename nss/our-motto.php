@@ -4,7 +4,7 @@
    
     <!--external css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link  rel="stylesheet" href="css files/our motto.css ">
+    <link  rel="stylesheet" href="css/our motto.css ">
 
     
    <!--head php-->

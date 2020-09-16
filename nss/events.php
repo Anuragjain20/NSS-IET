@@ -5,7 +5,7 @@
     
     <!--external css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link  rel="stylesheet" href="css files/events.css ">
+    <link  rel="stylesheet" href="css/events.css ">
     
        <!--head php-->
        <?php include 'includes/head.php';?>

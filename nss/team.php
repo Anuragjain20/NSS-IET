@@ -2,7 +2,7 @@
 <html lang="en">
 <head>    
         <!--team css-->
-        <link rel="stylesheet" href="css files/team.css">
+        <link rel="stylesheet" href="css/team.css">
 
         <!--head php-->
        <?php include 'includes/head.php';?>

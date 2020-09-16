@@ -2,7 +2,7 @@
 <html>
     <head>
 
-        <link rel="stylesheet" href="css files/messages.css">
+        <link rel="stylesheet" href="css/messages.css">
      
         <!--head php-->
        <?php include 'includes/head.php';?>

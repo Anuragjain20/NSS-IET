@@ -10,13 +10,13 @@
     <!--external css-->
          
         <!--external carousel css-->
-        <link rel="stylesheet" href="css files/carousel.css">
+        <link rel="stylesheet" href="css/carousel.css">
         <!--notices css-->
-       <link rel="stylesheet" href="css files/notices.css">
+       <link rel="stylesheet" href="css/notices.css">
        <!--eventhp css-->
-       <link rel="stylesheet" href="css files/event-hp.css">
+       <link rel="stylesheet" href="css/event-hp.css">
         <!--youtube css-->
-       <link rel="stylesheet" href="css files/youtubeembeds.css">
+       <link rel="stylesheet" href="css/youtubeembeds.css">
 
       
 
