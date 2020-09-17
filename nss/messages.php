@@ -35,7 +35,7 @@
   <div class="card mb-3 mx-auto my-5" style="max-width: 700px;">
     <div class="row   cont-mssg no-gutters">
       <div class="col-md-4 my-auto ">
-        <div class="text-center"><img src="images/message/image.jfif" class="card-img " alt="image"></div>
+        <div class="text-center"><img src="images/message/image.jfif" class="card-t-img " alt="image"></div>
       </div>
       <div class="col-md-8">
         <div class="card-body">

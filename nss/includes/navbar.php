@@ -34,6 +34,7 @@
                     <a class="dropdown-item" href="#">Camp Guidelines</a>
                     <a class="dropdown-item" href="#">NSS Geet</a>
                     <a class="dropdown-item" href="#">Calender</a>
+                    <a class="dropdown-item" href="#">Reports</a>
                   </div>
                 </li>
                 <li class="nav-item">
