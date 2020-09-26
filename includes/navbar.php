@@ -50,10 +50,10 @@
               <!--navbar  button on right-->
               <ul class="navbar-nav ml-auto">
                 <li class="nav-item active">
-                  <a class="nav-link" href="#"><button type="button" class="btn btn-danger">Login</button></a>
+                  <a class="nav-link" href="http://nssietdavv.epizy.com/login.php"><button type="button" class="btn btn-danger">Login</button></a>
                 </li>
                 <li class="nav-item active">
-                  <a class="nav-link" href="#"><button type="button" class="btn btn-danger">Register</button></a>
+                  <a class="nav-link" href="http://nssietdavv.epizy.com/"><button type="button" class="btn btn-danger">Register</button></a>
                 </li>
             </ul>
             </div>
