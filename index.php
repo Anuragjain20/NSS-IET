@@ -12,7 +12,7 @@
         <!--external carousel css-->
         <link rel="stylesheet" href="css/carousel.css">
         <!--notices css-->
-       <link rel="stylesheet" href="css/notices.css">
+     <!--  <link rel="stylesheet" href="css/notices.css"> -->
        <!--eventhp css-->
        <link rel="stylesheet" href="css/event-hp.css">
         <!--youtube css-->
