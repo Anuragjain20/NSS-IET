@@ -1,5 +1,5 @@
 .event-mainhead{
-    background-color: peru;
+    background-color:rgb(243, 115, 115);
     color: white;
     font-size: 40px;
     margin-bottom: 30px;
@@ -13,7 +13,9 @@ height: auto;
 width: 80px;
 }
 
-
+.subheadings {
+    color:rgb(243, 115, 115);
+}
 
 
 
@@ -99,7 +101,7 @@ width: 80px;
 
 .description{
     padding: 1rem;
-    background: white;
+    background:rgb(240, 232, 232);
     position: relative;
     z-index: 1;
 }
@@ -186,7 +188,7 @@ width: 80px;
     .description::before{
         transform: skewX(-3deg);
         content: "";
-        background: white;
+        background:rgb(240, 232, 232;
         width: 30px;
         position: absolute;
         left: -10;

@@ -8,7 +8,7 @@
 
 
 .pagename {
-    background-color: peru;
+    background-color:rgb(243, 115, 115);
     color: white;
     font-size: 40px;
     margin-bottom: 30px;
@@ -26,7 +26,7 @@
 .cont-mssg {
     border-radius: 1% ;
     padding: 10px;
-    background-color: #ffb5558c;
+    background-color:rgb(240, 232, 232);
     box-shadow: 10px 10px 10px black;
 }
 
