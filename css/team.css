@@ -1,0 +1,75 @@
+
+.cardcontent{
+ 
+  text-align:center;
+  font-size: 20px ;
+  color:grey ;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-img-i{
+  width:100px;height:120px; padding-top:10px;margin:auto;
+  border: 4px solid grey;
+  border-radius: 30%;
+  margin-top: 30px;
+}
+.img-p{
+  width:60%;height:250px; padding-top:20px;margin: auto;border-radius:10px;margin-top: 30px ;
+  border: 5px solid #555;
+  border-radius: 25px;
+
+
+}
+.card-title{
+  text-align:center;
+  color:darkblue;
+}
+ 
+
+.heading-team{
+  background-color:rgb(243, 115, 115);
+  color: white;
+  font-size: 40px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: bold;
+   
+}
+.subheading{
+    font-size: 30px;
+    color:rgb(243, 115, 115);
+    text-align:center;
+   font-weight: bold;
+   margin-top: 30px ;
+ 
+}
+.button-team {
+    background-image:linear-gradient(to bottom right,rgb(240, 232, 232),#ec6662) ;
+    color:black;
+  font-size: 15px;
+  padding: 16px 16px;
+  border: solid  2px black;
+  border-radius:12px;
+  margin:auto;
+  margin-left: 5px;
+  margin-top: 10px;
+  width:120px;
+  height:80px;
+  font-weight: 600;
+
+  
+}
+.vbutton{
+    font-size:20px;
+    color:black;
+    border:2px solid black;
+    vertical-align:baseline;
+    background-image:linear-gradient(to bottom right, rgb(240, 232, 232),#ec6662) ;
+    padding: 16px 32px;
+    
+    border-radius:12px;
+    
+    margin: auto;
+
+}
+

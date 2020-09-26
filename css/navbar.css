@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #123c69;
+    
+    
+}
+
+.dropdown-menu {
+background-color: #123c69;
+
+box-shadow: 6px 6px 10px 7px black;
+font-size: 1.2rem;
+} 
+.dropdown-item{
+    color: white;
+}
+.nav-item {
+
+padding-left: 10px;
+padding-right: 10px;
+font-size: 1.2rem;
+
+
+}
+.btn{
+font-size: 1.2rem;
+}
+.nav-link{
+    color: white !important;
+}
