@@ -38,7 +38,7 @@
 
 
      <!--notice-->
-     <?php include 'includes/notices.php';?>
+   <!--  <?php include 'includes/notices.php';?>-->
 
      <!--events-hp-->
      <?php include 'includes/event-index.php';?>
