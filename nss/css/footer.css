@@ -28,14 +28,17 @@
  
 }
 .footlinks li{
-  margin-top: 15px;
-  margin-bottom: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   color: black!important;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
   
 }
 .footlinks li:hover{
   color: blue!important;
-  
+  font-weight: 300;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .footlinks:hover{
   text-decoration: none;
@@ -72,11 +75,13 @@
  }
  .developers{
    color: black;
+  font-family:cursive;
 
  }
  .developers:hover{
    color: blue;
    text-decoration: none;
+  font-family:cursive;
  }
 
 .iconsfoot{
@@ -85,7 +90,6 @@
 
 .iconsfoot a{
   margin: 3px;
- 
 
 }
 

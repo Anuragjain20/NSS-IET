@@ -27,23 +27,24 @@
  
 
 .heading-team{
-    font-size: 40px;
-    color:white;
-    text-align:center;
-   font-weight: bold;
-   background-color: peru;
+  background-color:#d9534f;
+  color: white;
+  font-size: 40px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: bold;
    
 }
 .subheading{
     font-size: 30px;
-    color:peru;
+    color:#d9534f;
     text-align:center;
    font-weight: bold;
    margin-top: 30px ;
  
 }
 .button-team {
-    background-image:linear-gradient(to bottom right,rgba(143, 140, 146, 0),rgba(143, 140, 146, 1 ))  ;
+    background-image:linear-gradient(to bottom right,rgb(240, 232, 232),#ec6662) ;
     color:black;
   font-size: 15px;
   padding: 16px 16px;
@@ -54,16 +55,16 @@
   margin-top: 10px;
   width:120px;
   height:80px;
-  
+  font-weight: 600;
 
   
 }
 .vbutton{
     font-size:20px;
-    color:peru;
+    color:black;
     border:2px solid black;
     vertical-align:baseline;
-    background-image:linear-gradient(to bottom right,rgba(219, 211, 211, 0.3)  ,rgba(219, 211, 211, 1)) ;
+    background-image:linear-gradient(to bottom right, rgb(240, 232, 232),#ec6662) ;
     padding: 16px 32px;
     
     border-radius:12px;
