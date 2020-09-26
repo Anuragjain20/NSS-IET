@@ -30,11 +30,11 @@
                     Downloads
                   </a>
                   <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#">NSS Diary </a>
-                    <a class="dropdown-item" href="#">Camp Guidelines</a>
-                    <a class="dropdown-item" href="#">NSS Geet</a>
+                    <a class="dropdown-item" href="https://drive.google.com/file/d/1-nybr8Zu27U5dnX1mDZRdD7nW-zRv2v-/view">NSS Diary </a>
+                    <a class="dropdown-item" href="http://www.nss.dauniv.ac.in/camp-guide_nss.php">Camp Guidelines</a>
+                    <a class="dropdown-item" href="http://www.nss.dauniv.ac.in/songs.php">NSS Geet</a>
                     <a class="dropdown-item" href="#">Calender</a>
-                    <a class="dropdown-item" href="#">Reports</a>
+                    <a class="dropdown-item" href="https://drive.google.com/file/d/1e8BW1QkxqdmYfLORdK4J5DaSGVwHnbgW/view">Reports</a>
                   </div>
                 </li>
                 <li class="nav-item">
