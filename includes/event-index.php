@@ -4,14 +4,14 @@
 <div class="container-fluid background" >
         <div class="row my-5">
           <!-- celebration-->
-         <div class="col-sm-4">
+         <div class="col-sm-4 my-4">
             <img src="images/event-section-homepage/celebration2.jpg"class="image" style="width:50%">
             <div class="middle">
                 <a href="events.php#celebration"><button class="text">CELEBRATIONS</button></a>
             </div>
         </div>
                  <!-- Health-->
-        <div class="col-sm-4">
+        <div class="col-sm-4 my-4">
 
             <img src="images/event-section-homepage/health2.jpg" class="image" style="width:50%" >
             <div class="middle">
@@ -19,7 +19,7 @@
             </div>
         </div>
                  <!-- Awareness-->
-      <div class="col-sm-4">
+      <div class="col-sm-4 my-4">
             
             <img src="images/event-section-homepage/awareness 2.png" class="image" style="width:50% ">
             <div class="middle">
