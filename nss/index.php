@@ -17,8 +17,8 @@
        <link rel="stylesheet" href="css/event-hp.css">
         <!--youtube css-->
        <link rel="stylesheet" href="css/youtubeembeds.css">
-
-      
+     
+       <link rel="stylesheet" href="css/footer.css">
 
 </head>
 <body>
@@ -48,7 +48,7 @@
      
      <!--footer-->
      <?php include 'includes/footer.php';?>
-
+     
 
 
 
