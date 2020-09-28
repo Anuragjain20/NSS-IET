@@ -1,10 +1,12 @@
 .nss{
     font-size: 3.3vw;
- 
+    font-family: 'Prata', serif;
+    font-weight: 900;
 }
 .institute{
     font-size: 1.8vw;
-    
+    font-family: 'Prata', serif;
+    font-weight: 900; 
 }
 .head-logo{
     height: auto;
@@ -20,7 +22,7 @@
 
   @media only screen and (max-width: 576px) {
     .nss{
-        font-size: 3.5vw;
+        font-size: 3.3vw;
     
     }
     .institute{

@@ -4,6 +4,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <!--external css-->
         <!--header css-->
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,700|Prata" rel="stylesheet">
         <link rel="stylesheet" href="css/header.css">
         <!--navbar css-->
         <link rel="stylesheet" href="css/navbar.css">
