@@ -21,7 +21,7 @@
  <link rel="stylesheet" href="css/footer.css">
 
  <link href="css/aos.css" rel="stylesheet">
- <script src="aos.js"></script>
+ <script src="js/aos.js"></script>
  <style type="text/css">
    body{
     overflow-x: hidden;

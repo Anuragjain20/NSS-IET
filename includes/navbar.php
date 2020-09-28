@@ -4,7 +4,7 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarlinks" aria-controls="navbarlinks" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
-          <!--links of navbar in left-->
+            <!--links of navbar in left-->
             <div class="collapse navbar-collapse" id="navbarlinks">
               <ul class="navbar-nav mr-auto ">
                 <li class="nav-item">
@@ -13,17 +13,17 @@
                 
                 <!-- About US {Dropdown} -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                      About Us
-                    </a>
-                    <div class="dropdown-menu">
-                      <a class="dropdown-item" href="our-motto.php">Our motto </a>
-                      <a class="dropdown-item" href="team.php">Our Team</a>
-                      <a class="dropdown-item" href="#">NSS Camps</a>
-                      <a class="dropdown-item" href="messages.php">Messages</a>
-                    </div>
-                  </li>
-            
+                  <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                    About Us
+                  </a>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="our-motto.php">Our Motto </a>
+                    <a class="dropdown-item" href="team.php">Our Team</a>
+                    <a class="dropdown-item" href="#">NSS Camps</a>
+                    <a class="dropdown-item" href="messages.php">Messages</a>
+                  </div>
+                </li>
+                
                 <!-- Downloads {Dropdown} -->
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
@@ -38,14 +38,14 @@
                   </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="events.php">Events</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="gallery.php">Gallery</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="contact-us.php">Contact Us</a>
-                  </li>
+                  <a class="nav-link" href="events.php">Events</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="gallery.php">Gallery</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact-us.php">Contact Us</a>
+                </li>
               </ul>
               <!--navbar  button on right-->
               <ul class="navbar-nav ml-auto">
@@ -55,9 +55,9 @@
                 <li class="nav-item active">
                   <a class="nav-link" href="http://nssietdavv.epizy.com/"><button type="button" class="btn btn-danger">Register</button></a>
                 </li>
-            </ul>
+              </ul>
             </div>
-    
-    
+            
+            
           </div>
         </nav>
