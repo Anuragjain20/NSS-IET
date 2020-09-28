@@ -3,8 +3,9 @@
 <head>
   
     <!--external css-->
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+   
     <link  rel="stylesheet" href="css/contact us.css ">
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
     
        <!--head php-->
        <?php include 'includes/head.php';?>
@@ -20,107 +21,61 @@
       <!--nav-bar-->
       <?php include 'includes/navbar.php';?>
   
-  
-    <!--form-->
-
-    <section class="contact py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7 mx-auto">
-                    <div class="card">
-                        <div class="card-body">
-                          <div class="row pb-3">
-                              <div class="col-lg-12">
-                                  <div class="heading-contact text-center py-3">
-                                      <h3 class="head-contact">Contact Us</h3>
-                                  </div>
-                              </div>
-                          </div>
-                          <div class="form p-3">
-                              <div class="row my-5 ">
-                                  <div class="col-lg-12">
-                                      <input type="text" class="effect-1" placeholder="Full Name" required>
-                                       
-                                  </div>
-                     
-                               </div>
-                               <div class="row my-5">
-                                   <div class="col-lg-12">
-                                    
-                                        <input type="email" class="effect-1" placeholder="Your E-mail" required>
-                                        
-                                      
-                                   </div>
-                               </div>
-                              <div class="row ">
-                                  <div class="col-lg-12">
-                                    <textarea name="message" placeholder="Your Message" class="effect-1" required ></textarea>
-                                   
-                                  </div>
-                              </div>
-                              <div class="row my-5 ">
-                                <div class="col-lg-12  text-center  ">
-                                    <button type="submit" class="btn btn-primary " style="font-size: 15px;">Send Message</button>
-                                </div>
-
-                          </div>
-
-                        </div>
-                    </div>
-                </div>
+      <!--contact us-->
+      <div class="heading-contact text-center">Contact Us</div>
+       
+     <div class="container my-5">
+       <div class="row">
+         <div class="col-lg-5 col-md-7 col-sm-9 my-5 px-4 mx-auto">
+          <div class="card px-4 contact-card">
+            <img src="images/team/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
+            <div class="cont-text text-center py-3">
+              <p ><h3>Full Name</h3></p>
+              <p><h5>Designation</h5></p>
+              <p><i class='fas fa-phone-alt'></i>&nbsp;:&nbsp;836972973</p>
+              <p><i class="fa fa-envelope" aria-hidden="true"></i></i>&nbsp;:&nbsp;123nss@gmail.com</p>
             </div>
-        </div>
-    </section>
-    
-<!-- form end-->
-
-
-
-<!--CONTACT-->
-<div class="container my-5  py-5 contact-box">
-    <div class="row">
-      <!--address-->
-      <div class="col-md-5 ">
-          <div class="row my-2"><i class="material-icons mx-auto " style="font-size:3rem;color:red">place</i></div>
-          
-        
-          <div class="row my-auto"><p class="mx-auto text-center">Institute of Engineering and Technology<br>
-              Devi Ahilya Vishwavidyalaya<br>
-              Khandwa Road Indore-452017 (M.P.)</p>
           </div>
-          
-      </div>
-  
-      <!--phone-->
-      <div class="col-md-3 ">
-          <div class="row my-2"><i class="material-icons  mx-auto" style="font-size:3rem;color:blue">local_phone</i></div>
-          
-        
-          <div class="row my-4"><p class="mx-auto text-center">0731-2361116 / 2361117
-            </p>
+         </div>
+       </div>
+       <div class="row mx-auto my-5">
+         <div class="col-lg-5 col-md-6 col-sm-9 px-4 my-5 mx-auto">
+          <div class="card px-4 contact-card">
+            <img src="images/team/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
+            <div class="cont-text text-center py-3">
+              <p ><h3>Full Name</h3></p>
+              <p><h5>Designation</h5></p>
+              <p><i class='fas fa-phone-alt'></i>&nbsp;:&nbsp;836972973</p>
+              <p><i class="fa fa-envelope" aria-hidden="true"></i></i>&nbsp;:&nbsp;123nss@gmail.com</p>  
+            </div>
           </div>
-          
-      </div>
-    <!--email-->
-    <div class="col-md-4 ">
-      <div class="row my-2"><i class="material-icons   mx-auto" style="font-size:3rem;color:black">local_post_office</i></div>
-      
-    
-      <div class="row my-4"><p class="mx-auto text-center">nssietdavv@gmail.com
-        </p>
-      </div>
-      
+         </div>
+         <div class="col-lg-5 col-md-6 col-sm-9 px-4 my-5 mx-auto">
+          <div class="card px-4 contact-card">
+            <img src="images/team/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
+            <div class="cont-text text-center py-3">
+             <p ><h3>Full Name</h3></p>
+              <p><h5>Designation</h5></p>
+              <p><i class='fas fa-phone-alt'></i>&nbsp;:&nbsp;836972973</p>
+              <p><i class="fa fa-envelope" aria-hidden="true"></i></i>&nbsp;:&nbsp;123nss@gmail.com</p>
+            </div>
+          </div>
+         </div>
+       </div>
+
+
      </div>
-     
-    
   
-  
-  
-   </div>
-  
-  
-  
-</div>
+<!--address-->
+ <div class="mx-5 py-4 cont-address text-center my-5">
+ <h5>Address</h5>
+ <p>IET-DAVV,Khandwa Road,Indore,452017(M.P.)<br>
+ Email : <a href="mailto:nssietdavv@gmail.com">nssietdavv@gmail.com</a><br><br>
+ </p><button type="button" class="btn btn-danger">Feedback</button>
+ </div>     
+
+
+
 
 
      <!--footer-->
