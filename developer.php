@@ -28,7 +28,9 @@
       <?php include 'includes/navbar.php';?>
 
       <!--head image of developer page-->
-<div class="img-fluid" ><img src="images/Team/devlop.jpg" style ="width:100%" alt="developer image"></div>
+      <div class="text-center my-5">
+      <img src="images/Team/devlop.jpg" alt="developer image" class=" img-fluid">
+      </div>
 
     
 
