@@ -8,7 +8,7 @@
        <?php include 'includes/head.php';?>
     
     <!--external css-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
         <!--external carousel css-->
         <link rel="stylesheet" href="css/developer.css">
 
@@ -45,7 +45,7 @@
           
                         </div>
                         <ul class="social-dev">
-                          <li><a href=""><i class="fa fa-github"></i></a></li>
+                          <li><a href=""><i class="fab fa-github"></i></a></li>
                           <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
           
                           <li><a href=""><i class='fas fa-envelope'></i></a></li>
@@ -63,7 +63,7 @@
           
                         </div>
                         <ul class="social-dev">
-                          <li><a href=""><i class="fa fa-github"></i></a></li>
+                          <li><a href=""><i class="fab fa-github"></i></a></li>
                           <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
           
                           <li><a href=""><i class='fas fa-envelope'></i></a></li>
@@ -83,7 +83,7 @@
           
                         </div>
                         <ul class="social-dev">
-                          <li><a href=""><i class="fa fa-github"></i></a></li>
+                          <li><a href=""><i class="fab fa-github"></i></a></li>
                           <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
           
                           <li><a href=""><i class='fas fa-envelope'></i></a></li>
@@ -101,7 +101,7 @@
           
                         </div>
                         <ul class="social-dev">
-                          <li><a href=""><i class="fa fa-github"></i></a></li>
+                          <li><a href=""><i class="fab fa-github"></i></a></li>
                           <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
           
                           <li><a href=""><i class='fas fa-envelope'></i></a></li>
@@ -119,7 +119,7 @@
           
                         </div>
                         <ul class="social-dev">
-                          <li><a href=""><i class="fa fa-github"></i></a></li>
+                          <li><a href=""><i class="fab fa-github"></i></a></li>
                           <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
           
                           <li><a href=""><i class='fas fa-envelope'></i></a></li>
