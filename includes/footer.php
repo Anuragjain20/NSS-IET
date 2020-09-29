@@ -43,15 +43,16 @@
               <ul class="footcol-21 ">
                 <a href="gallery.php" class="footlinks"><li>Gallery</li></a>
                 <a href="team.php" class="footlinks"><li>Team</li></a>
-                <a href="https://www.dauniv.ac.in/" class="footlinks" target="_blank"><li>DAVV</li></a>
-                
+                <a href="contact-us.php" class="footlinks"><li>Contact Us</li></a>
+                <a href="#" class="footlinks"><li>Feedback</li></a>
               </ul>
             </div>
             <div class="footcol-2" >
               <ul class="footcol-22 " >
-                <a href="events.php" class="footlinks"><li>Events</li></a>             
-                <a href="contact-us.php" class="footlinks"><li>Contact Us</li></a>
-                <a href="https://nss.gov.in/" class="footlinks" target="_blank"><li>NSS India</li></a>
+                <a href="events.php" class="footlinks"><li>Events</li></a> 
+                <a href="https://nss.gov.in/" class="footlinks" target="_blank"><li>NSS India</li></a>            
+                <a href="https://www.dauniv.ac.in/" class="footlinks" target="_blank"><li>DAVV</li></a>
+                <a href="http://www.ietdavv.edu.in/" class="footlinks"><li>IET</li></a>
               </ul>
             </div>
             
