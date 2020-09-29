@@ -1,4 +1,4 @@
-        <nav class="navbar navbar-expand-lg navbar-dark sticky-top  navicustom">
+        <nav class="navbar navbar-expand-lg navbar-dark sticky-top  navicustom text-center">
           <div class="container-fluid">
             
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarlinks" aria-controls="navbarlinks" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,12 +12,12 @@
                 </li>
                 
                 <!-- About US {Dropdown} -->
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown ">
                   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                     About Us
                   </a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="our-motto.php">Our Motto </a>
+                  <div class="dropdown-menu text-center">
+                    <a class="dropdown-item" href="our-motto.php">Our Motto</a>
                     <a class="dropdown-item" href="team.php">Our Team</a>
                     <a class="dropdown-item" href="#">NSS Camps</a>
                     <a class="dropdown-item" href="messages.php">Messages</a>
@@ -25,11 +25,11 @@
                 </li>
                 
                 <!-- Downloads {Dropdown} -->
-                <li class="nav-item dropdown">
+                <li class="nav-item dropdown ">
                   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                     Downloads
                   </a>
-                  <div class="dropdown-menu">
+                  <div class="dropdown-menu text-center">
                     <a class="dropdown-item" href="https://drive.google.com/file/d/1-nybr8Zu27U5dnX1mDZRdD7nW-zRv2v-/view " target="_blank">NSS Diary </a>
                     <a class="dropdown-item" href="http://www.nss.dauniv.ac.in/songs.php"   target="_blank" >NSS Geet</a>
                     <a class="dropdown-item" href="http://www.nss.dauniv.ac.in/camp-guide_nss.php" target="_blank">Camp Guidelines</a>
