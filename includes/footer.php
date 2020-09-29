@@ -76,7 +76,7 @@
          
          <div class="row my-2">
           <div class="col-12 ">
-            <div class=" h4 text-center "><a href="#" class="developers">Developers</a></div>
+            <div class=" h4 text-center "><a href="developer.php" class="developers">Developers</a></div>
 
           </div>
 

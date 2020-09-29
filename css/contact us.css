@@ -1,22 +1,30 @@
-
-
+.contact-card{
+   border-radius: 15px 50px!important;
+   box-shadow: -3px 6px 6px 0px rgb(195 200 229);
+   background-color: rgb(240, 232, 232)!important;
+  
+}
+.cont-img{
+   margin-top: -30px;
+   border-radius: 50%;
+   border: 2px solid black;
+   height: auto;
+   width: 150px;
+   
+}
 
  .heading-contact{
-     background-color:rgb(243, 115, 115);
-     border-radius: 5px;
-     margin-top: -40px;
+    background-color: rgb(243, 115, 115);
+    color: white;
+    font-size: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
 
  } 
 
- .effect-1{
-     
-     width: 100%;
-     padding: 7px 0;
-     border: 1px solid #ccc;
-     border-radius: 10px;
-     padding-left: 10px;
- }
-
- .head-conatact{
-     font-size: 2vw!important;
- }
+.cont-address{
+   border-radius: 15px !important;
+   box-shadow: -3px 6px 6px 0px rgb(195 200 229);
+   background-color: rgb(240, 232, 232)!important;
+}
