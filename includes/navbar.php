@@ -19,7 +19,7 @@
                   <div class="dropdown-menu text-center">
                     <a class="dropdown-item" href="our-motto.php">Our Motto</a>
                     <a class="dropdown-item" href="team.php">Our Team</a>
-                    <a class="dropdown-item" href="#">NSS Camps</a>
+                    
                     <a class="dropdown-item" href="messages.php">Messages</a>
                   </div>
                 </li>
