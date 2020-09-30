@@ -87,12 +87,13 @@
        <div class="col-md-4 my-4 text-center">
         <div class="profile cont-mssg mx-1">
           <img src="images/message/image.jfif" alt="images" class="card-t-img">
-          <h5 class="my-2">Name</h5>
-          <blockquote>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-             Magni nesciunt tempora reprehenderit sunt molestias sit. Beatae
-              laudantium tempora, delectus molestias nam illum. 
-            Exercitationem dolorem veniam optio id placeat veritatis cum.
-          </blockquote>
+          <h5 class="my-2">Deepika Mukati</h5>
+          <blockquote> As an active volunteer, all the NSS meetings, activities (plantation drives,
+              blood donation camps, unit camps, Traffic control, Population control rallies etc.) 
+              helped me in developing a better connection with the society and social issues. 
+              It made me confident, developed leadership skills, and gaining knowledge 
+              about different people from different walks of life.
+           </blockquote>
           
         </div>
        </div>
