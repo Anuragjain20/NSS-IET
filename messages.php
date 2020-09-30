@@ -86,7 +86,7 @@
      <div class="row my-4">
        <div class="col-md-4 my-4 text-center">
         <div class="profile cont-mssg mx-1">
-          <img src="images/message/image.jfif" alt="images" class="card-t-img">
+          <img src="images/message/Deepika ma'am.jpeg" alt="Deepika Mukati" class="card-t-img">
           <h5 class="my-2">Deepika Mukati</h5>
           <blockquote> As an active volunteer, all the NSS meetings, activities (plantation drives,
               blood donation camps, unit camps, Traffic control, Population control rallies etc.) 
