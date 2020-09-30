@@ -17,7 +17,7 @@
                       About Us
                     </a>
                     <div class="dropdown-menu">
-                      <a class="dropdown-item" href="our-motto.php">Our motto </a>
+                      <a class="dropdown-item" href="our-motto.php">About NSS</a>
                       <a class="dropdown-item" href="team.php">Our Team</a>
                       <a class="dropdown-item" href="#">NSS Camps</a>
                       <a class="dropdown-item" href="messages.php">Messages</a>
