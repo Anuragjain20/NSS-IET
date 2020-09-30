@@ -1,0 +1,32 @@
+.parallax {
+    /* The image used */
+    background-image: url("../images/Nss2.jpeg");
+   ;
+    /* Set a specific height */
+    height: 100%; 
+
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat: repeat-y;
+    background-size:cover;
+
+  }
+
+
+  .spad {
+      padding-top: 90px;
+      padding-bottom: 90px;
+  }
+  .htext{
+      color:red;
+      font-weight: 700;
+}
+  .dtext{
+    color:black;
+    font-weight: 900;
+
+
+}

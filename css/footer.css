@@ -34,15 +34,15 @@
   margin-top: 10px;
   margin-bottom: 10px;
   color: black!important;
-  font-family: 'Times New Roman', Times, serif;
-  font-weight: 500;
+  
+  
   list-style-type:none;
   
 }
 .footlinks li:hover{
   color: blue!important;
-  font-weight: 300;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  
 }
 .footlinks:hover{
   text-decoration: none;

@@ -47,8 +47,14 @@
   <!--notice-->
   <!--  <?php include 'includes/notices.php';?>-->
 
+  
+
+
   <!--events-hp-->
   <?php include 'includes/event-index.php';?>
+
+    <!--About-->
+    <?php include 'includes/about-hp.php';?>
 
   <!--youtubeembbeds-->
   <?php include 'includes/youtubeembed.php';?>

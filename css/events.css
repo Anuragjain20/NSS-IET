@@ -1,6 +1,5 @@
 .event-mainhead{
-    background-color:rgb(243, 115, 115);
-    color: white;
+
     font-size: 40px;
     margin-bottom: 30px;
     text-align: center;
@@ -14,7 +13,7 @@ width: 80px;
 }
 
 .subheadings {
-    color:rgb(243, 115, 115);
+    color:black
 }
 
 
@@ -188,7 +187,7 @@ width: 80px;
     .description::before{
         transform: skewX(-3deg);
         content: "";
-        background:rgb(240, 232, 232;
+        background:rgb(240, 232, 232);
         width: 30px;
         position: absolute;
         left: -10;

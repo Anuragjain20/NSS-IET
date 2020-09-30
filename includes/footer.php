@@ -28,7 +28,7 @@
                 <i class="fas fa-envelope-open"></i>
               </td>
               <td>
-                <a  class = "footlinks" href="mailto:nssietdavv@gmail.com"><li>nssietdavv@gmail.com</li></a>
+                <a  class = "footlinks" href="mailto:nssietdavv@gmail.com" target="_blank"><li>nssietdavv@gmail.com</li></a>
               </td>
             </tr>
           </tbody></table>
@@ -52,7 +52,7 @@
                 <a href="events.php" class="footlinks"><li>Activities</li></a> 
                 <a href="https://nss.gov.in/" class="footlinks" target="_blank"><li>NSS India</li></a>            
                 <a href="https://www.dauniv.ac.in/" class="footlinks" target="_blank"><li>DAVV</li></a>
-                <a href="http://www.ietdavv.edu.in/" class="footlinks"><li>IET</li></a>
+                <a href="http://www.ietdavv.edu.in/" class="footlinks" target="_blank"><li>IET</li></a>
               </ul>
             </div>
             

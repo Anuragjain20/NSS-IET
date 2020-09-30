@@ -25,7 +25,7 @@
 
 
       <!--- Team-->
-    <div class="heading-team">
+    <div class="heading-team my-5">
      Current Team
     </div>
           

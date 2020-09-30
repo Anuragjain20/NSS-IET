@@ -31,7 +31,7 @@
 <!--motto-->
    <!--page-name-->
   
-<div class="container-fluid pagename mb-5">MISSION</div>
+<div class="container-fluid pagename my-5">Mission</div>
    
    <!--We NSS family-->
    

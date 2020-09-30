@@ -22,13 +22,13 @@
       <?php include 'includes/navbar.php';?>
   
       <!--contact us-->
-      <div class="heading-contact text-center">Contact Us</div>
+      <div class="heading-contact text-center my-5">Contact Us</div>
        
      <div class="container my-5">
        <div class="row">
          <div class="col-lg-5 col-md-7 col-sm-9 my-5 px-4 mx-auto">
           <div class="card px-4 contact-card">
-            <img src="images/team/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
+            <img src="images/contact-us/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
             <div class="cont-text text-center py-3">
               <p ><h3>Full Name</h3></p>
               <p><h5>Designation</h5></p>
@@ -41,7 +41,7 @@
        <div class="row mx-auto my-5">
          <div class="col-lg-5 col-md-6 col-sm-9 px-4 my-5 mx-auto">
           <div class="card px-4 contact-card">
-            <img src="images/team/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
+            <img src="images/contact-us/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
             <div class="cont-text text-center py-3">
               <p ><h3>Full Name</h3></p>
               <p><h5>Designation</h5></p>
@@ -52,7 +52,7 @@
          </div>
          <div class="col-lg-5 col-md-6 col-sm-9 px-4 my-5 mx-auto">
           <div class="card px-4 contact-card">
-            <img src="images/team/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
+            <img src="images/contact-us/image.jfif"  class="cont-img img-fluid mx-auto " alt="name" >
             <div class="cont-text text-center py-3">
              <p ><h3>Full Name</h3></p>
               <p><h5>Designation</h5></p>
