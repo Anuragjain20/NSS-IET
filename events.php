@@ -23,7 +23,7 @@
          <?php include 'includes/navbar.php';?>
 
 <!--events section-main-->
-<div class="event-mainhead text-center ">EVENTS</div>
+<div class="event-mainhead text-center ">Activities</div>
 
 <!--celebrations-->
 <div class="container-fluid my-3" id="celebration">

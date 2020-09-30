@@ -71,7 +71,7 @@
  <h5>Address</h5>
  <p>IET-DAVV,Khandwa Road,Indore,452017(M.P.)<br>
  Email : <a href="mailto:nssietdavv@gmail.com">nssietdavv@gmail.com</a><br><br>
- </p><button type="button" class="btn btn-danger">Feedback</button>
+ 
  </div>     
 
 

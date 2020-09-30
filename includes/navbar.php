@@ -17,7 +17,7 @@
                     About Us
                   </a>
                   <div class="dropdown-menu text-center">
-                    <a class="dropdown-item" href="our-motto.php">Our Motto</a>
+                    <a class="dropdown-item" href="our-motto.php">About NSS</a>
                     <a class="dropdown-item" href="team.php">Our Team</a>
                     
                     <a class="dropdown-item" href="messages.php">Messages</a>
@@ -38,13 +38,16 @@
                   </div>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="events.php">Events</a>
+                  <a class="nav-link" href="events.php">Activities</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="gallery.php">Gallery</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="contact-us.php">Contact Us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="https://www.dauniv.ac.in/" target="_blank">DAVV</a>
                 </li>
               </ul>
               <!--navbar  button on right-->
