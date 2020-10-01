@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #123c69;
+    padding: .3rem 0.4rem;
+    box-shadow: 0 0 6px #123c69;
+}
+
+.dropdown-menu {
+background-color: #123c69;
+
+box-shadow: 2px 3px 6px 1px black;
+font-size: 1.2rem;
+} 
+.dropdown-item{
+    color: white;
+}
+.nav-item {
+
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 1.2rem;
+
+}
+.navbar-toggler {
+    padding: 0.1rem 0.6rem;
+    font-size: 1.25rem;
+    line-height: 0.5;
+    background-color: transparent;
+    border: 0.5px solid transparent;
+    border-radius: 8px;
+}
+.btn{
+font-size: 1.2rem;
+}
+.nav-link{
+    color: white !important;
+}
+button:focus {
+    outline: 1px;
+    
+}
