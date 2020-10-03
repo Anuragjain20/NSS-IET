@@ -178,7 +178,7 @@
         $x = scandir($dir.$folder);
         $x1 = $x[rand(2,count($x)-1)];
         $x2 = $x[rand(2,count($x)-1)];
-        while($x1!=$x2)
+        while($x1==$x2)
         {
          $x2 = $x[rand(2,count($x)-1)];
        }
