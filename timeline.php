@@ -190,9 +190,9 @@
           <time><?=$folder?></time>
           <a href="gallery.php?year=<?=$folder?>">
             <img class="discovery my-2 img-fluid" alt="<?=$folder?> nss activity pics" data-aos="flip-right" data-aos-duration="1500"
-            src='<?= $dir.'/'.$folder.'/'.$x1.'/'.rawurlencode($y1[rand(2,count($y1)-1)])?>'></img>
+            src='<?= $dir.'/'.$folder.'/'.$x1.'/'.rawurlencode($y1[2])?>'></img>
             <img class="scientist my-2 img-fluid" alt="<?=$folder?> nss activity pics" data-aos="flip-right" data-aos-duration="1500" 
-            src='<?= $dir.'/'.$folder.'/'.$x2.'/'.rawurlencode($y2[rand(2,count($y2)-1)])?>'></img>
+            src='<?= $dir.'/'.$folder.'/'.$x2.'/'.rawurlencode($y2[2])?>'></img>
           </a>
         </div>
       </li>
