@@ -2,6 +2,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--bootstrap css-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <!--google font css-->
+    <link href='https://fonts.googleapis.com/css?family=Rye' rel='stylesheet'>
     <!--external css-->
         <!--header css-->
         <link href="https://fonts.googleapis.com/css?family=Lato:300,700|Prata" rel="stylesheet">
