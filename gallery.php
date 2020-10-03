@@ -1,22 +1,81 @@
+<?php 
+$year = $_GET['year'];
+if(!isset($year)){
+  header("Location:timeline.php");
+}
+
+function display_activity($activity_type, $color)
+{
+
+  $dir = "./images/gallery/" . $activity_type . "/";
+  $folders = scandir($dir);
+  $details = array();
+  foreach ($folders as $folder) {
+    if ($folder !== "." and $folder !== ".." and is_dir($dir . $folder)) {
+      $name_date = explode("_", $folder);
+      $date = end($name_date);
+      $dateTo = "";
+      if(strpos($date,"to")){
+        $datearr = explode("to",$date);
+        $date =  $datearr[0];
+        $dateTo = $datearr[1];
+      }
+      $name = implode(array_slice($name_date,1,count($name_date)-2)," ");
+      $detail = array(
+        "folder" => $dir . $folder . "/", 
+        "name" => $name,
+        "date" => strtotime($date),
+        "dateFrom"=>date_format(date_create($date),"d/m/Y"),
+        "dateTo"=> !empty($dateTo)?" to ".date_format(date_create($dateTo),"d/m/Y"):$dateTo );
+      $details[] = $detail;
+    }
+  }
+
+
+
+  usort($details, function ($a, $b) {
+    return -($a["date"] <=> $b["date"]);
+  });
+
+
+
+  foreach ($details as $detail) {
+
+
+    echo '
+    <div class="col-sm-8 col-md-4 col-lg-4 pl-4 pr-4 my-3" data-aos="zoom-in" data-aos-duration="2000">
+    <div class="card  shadow">
+    <img src="' . $detail["folder"] . scandir($detail["folder"])[2] . '" alt="Avatar" class="image-fluid" style="width:100% ;height:200px">
+    <div class="middle-over">
+    <a href="javascript:void(0)" class="btn btn-' . $color . ' btn-lg" onclick="openNav(\'' . $detail["folder"] . '\',\'' . $detail["name"].' '.$detail["dateFrom"].' '. $detail["dateTo"] . '\')"><i class="fas fa-plus"></i></a>
+    </div>
+    </div>
+    <div class="card-footer shadow text-center"><b>'.$detail["name"].'</b></div>
+    </div>';
+  }
+}
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 
 
+  <title>NSS Gallery</title>
+  <!--head php-->
+  <?php include 'includes/head.php';?>
 
- <!--head php-->
- <?php include 'includes/head.php';?>
+  <!--external css-->
 
- <!--external css-->
-
- <!--external carousel css-->
+  <!--external carousel css-->
 
 
- <link rel="stylesheet" href="css/footer.css">
+  <link rel="stylesheet" href="css/footer.css">
 
- <link href="css/aos.css" rel="stylesheet">
- <script src="js/aos.js"></script>
- <style type="text/css">
+  <link href="css/aos.css" rel="stylesheet">
+  <script src="js/aos.js"></script>
+  <style type="text/css">
    body{
     overflow-x: hidden;
   }
@@ -193,62 +252,8 @@
 
 
 
-
   <!--nav-bar-->
   <?php include 'includes/navbar.php';?>
-
-
-  <?php  function display_activity($activity_type, $color)
-  {
-
-    $dir = "./images/gallery/" . $activity_type . "/";
-    $folders = scandir($dir);
-    $details = array();
-    foreach ($folders as $folder) {
-      if ($folder !== "." and $folder !== ".." and is_dir($dir . $folder)) {
-        $name_date = explode("_", $folder);
-        $date = end($name_date);
-        $dateTo = "";
-        if(strpos($date,"to")){
-          $datearr = explode("to",$date);
-          $date =  $datearr[0];
-          $dateTo = $datearr[1];
-        }
-        $name = implode(array_slice($name_date,1,count($name_date)-2)," ");
-        $detail = array(
-          "folder" => $dir . $folder . "/", 
-          "name" => $name,
-          "date" => strtotime($date),
-          "dateFrom"=>date_format(date_create($date),"d/m/Y"),
-          "dateTo"=> !empty($dateTo)?" to ".date_format(date_create($dateTo),"d/m/Y"):$dateTo );
-        $details[] = $detail;
-      }
-    }
-
-
-
-    usort($details, function ($a, $b) {
-      return -($a["date"] <=> $b["date"]);
-    });
-
-
-
-    foreach ($details as $detail) {
-
-
-      echo '
-      <div class="col-sm-8 col-md-4 col-lg-4 pl-4 pr-4 my-3" data-aos="zoom-in" data-aos-duration="2000">
-      <div class="card  shadow">
-      <img src="' . $detail["folder"] . scandir($detail["folder"])[2] . '" alt="Avatar" class="image-fluid" style="width:100% ;height:200px">
-      <div class="middle-over">
-      <a href="javascript:void(0)" class="btn btn-' . $color . ' btn-lg" onclick="openNav(\'' . $detail["folder"] . '\',\'' . $detail["name"].' '.$detail["dateFrom"].' '. $detail["dateTo"] . '\')"><i class="fas fa-plus"></i></a>
-      </div>
-      </div>
-      <div class="card-footer shadow text-center"><b>'.$detail["name"].'</b></div>
-      </div>';
-    }
-  }
-  ?>
 
 
   <!-- Activities section -->
@@ -261,34 +266,18 @@
 
 
 
-      <h5 class="text-center my-3 py-2">2019-2020</h5>
+      <h5 class="text-center my-3 py-2"><?=$year?></h5>
 
       <hr>
       <div class="row">
-        <?php display_activity("2019-2020", "primary"); ?>
+        <?php display_activity($year, "primary"); ?>
       </div>
 
-
-      <h5 class="text-center my-3  py-2">2018-2019</h5>
-
-      <hr>
-      <div class="row">
-        <?php display_activity("2018-2019", "danger"); ?>
-      </div>
-
-    <!--  <h5 class="text-center my-3  py-2 " >2017-2018</h5>
-
-    <hr>
-    <div class="row">
-    <?php display_activity("2017-2018", "success"); ?>
-  </div> -->
-
-
-</div>
+    </div>
 
 
 
-</div>
+  </div>
 </section>
 <!-- Activities section end-->
 

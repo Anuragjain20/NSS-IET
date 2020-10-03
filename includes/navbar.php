@@ -41,7 +41,7 @@
                   <a class="nav-link" href="events.php">Activities</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="gallery.php">Gallery</a>
+                  <a class="nav-link" href="timeline.php">Gallery</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="contact-us.php">Contact Us</a>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>
+  <title>NSS GALLERY TIMELINE</title>
 
 
   <!--head php-->
@@ -117,6 +117,12 @@
     opacity: 1;
   }
 
+  .timeline ul li div a img{
+    object-fit: scale-down;
+    max-height: 300px;
+    width: calc(100vw - 91px);
+  }
+
   @media screen and (max-width: 900px) {
     .timeline ul li div {
       width: 250px;
@@ -172,24 +178,32 @@
         $x = scandir($dir.$folder);
         $x1 = $x[rand(2,count($x)-1)];
         $x2 = $x[rand(2,count($x)-1)];
-        $y1 = scandir($dir.$folder.'/'.$x1);
-        $y2 = scandir($dir.$folder.'/'.$x2);
-        ?>
-        <li >
-          <div>
-            <time><?=$folder?></time>
-            <img class="discovery my-2" data-aos="flip-right" data-aos-duration="1500" style="width: 250px; height:250px; object-fit: cover;" src='<?= $dir.'/'.$folder.'/'.$x1.'/'.rawurlencode($y1[2])?>'></img>
-            <img class="scientist my-2" data-aos="flip-right" data-aos-duration="1500" style="width: 250px; height:250px; object-fit: cover;"  src='<?= $dir.'/'.$folder.'/'.$x2.'/'.rawurlencode($y2[2])?>'></div></img>
-          </div>
-        </li>
-        <?php
-      }
+        while($x1!=$x2)
+        {
+         $x2 = $x[rand(2,count($x)-1)];
+       }
+       $y1 = scandir($dir.$folder.'/'.$x1);
+       $y2 = scandir($dir.$folder.'/'.$x2);
+       ?>
+       <li >
+        <div>
+          <time><?=$folder?></time>
+          <a href="gallery.php?year=<?=$folder?>">
+            <img class="discovery my-2 img-fluid" alt="<?=$folder?> nss activity pics" data-aos="flip-right" data-aos-duration="1500"
+            src='<?= $dir.'/'.$folder.'/'.$x1.'/'.rawurlencode($y1[rand(2,count($y1)-1)])?>'></img>
+            <img class="scientist my-2 img-fluid" alt="<?=$folder?> nss activity pics" data-aos="flip-right" data-aos-duration="1500" 
+            src='<?= $dir.'/'.$folder.'/'.$x2.'/'.rawurlencode($y2[rand(2,count($y2)-1)])?>'></img>
+          </a>
+        </div>
+      </li>
+      <?php
     }
-    ?>
-  </section>
+  }
+  ?>
+</section>
 
-  <!--footer-->
-  <?php include 'includes/footer.php';?>
+<!--footer-->
+<?php include 'includes/footer.php';?>
 
 
 </body>
