@@ -5,7 +5,7 @@
     
     <!--external css-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link  rel="stylesheet" href="css/events.css ">
+    <link  rel="stylesheet" href="css/activities.css ">
     
        <!--head php-->
        <?php include 'includes/head.php';?>
@@ -32,7 +32,7 @@
   <!--first blog-->
   <div class="blog-card my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic1.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/guru_pornima.jpg);">
   
       </div>
       <ul class="details">
@@ -46,15 +46,15 @@
       <h1>Guru Purnima</h1>
       <p>The auspicious day Guru Purnima is celebrated every year to pay tribute to the selflessness and dedication of the Gurus. The students show their gratefulness towards their teachers through poems songs cards and videos. 
       </p>
-      <p class="read-more">
+  <!--    <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p>-->
     </section>
   </div>
   <!--second blog-->
   <div class="blog-card alt my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic2.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/photowalk.jpeg);">
   
       </div>
       <ul class="details">
@@ -68,15 +68,15 @@
       <h1> Photo Walk</h1>
       <p>Photo Walk is organised one or two days before the NSS day to give students an opportunity to showcase their creativity through photography. It makes them to see the world around them with a different view. 
       </p>
-      <p class="read-more">
+ <!--     <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p>-->
     </section>
   </div>
   <!--third blog-->
-  <div class="blog-card alt my-5">
+  <div class="blog-card  my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic3.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/nss_day.jpeg);">
   
       </div>
       <ul class="details">
@@ -90,15 +90,15 @@
       <h1>NSS Day</h1>
       <p>NSS Day is observed every year on 24th September and each year it is celebrated much enthusiastically and uniquely. It witnesses major public events like Nukkad Natak, visit to villages, interaction with public and much more. 
       </p>
-      <p class="read-more">
+   <!--   <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p>-->
     </section>
   </div>
   <!--fourth blog-->
   <div class="blog-card alt my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic2.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/gandhi_jayanti.jpg);">
   
       </div>
       <ul class="details">
@@ -112,9 +112,9 @@
       <h1> Gandhi Jayanti </h1>
       <p>Along with our national festivals viz Republic Day and Independence Day, we celebrate Gandhi Jayanti with full devotion. Workshops and activities related to cleanliness along with competitions like essay writing, slogan writing, poster making and so on are organised to remember him. 
       </p>
-      <p class="read-more">
+     <!-- <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p>-->
     </section>
   </div>
 </div>
@@ -125,7 +125,7 @@
   <!--first blog-->
   <div class="blog-card alt my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic1.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/blood_donation.jpg);">
   
       </div>
       <ul class="details">
@@ -139,9 +139,9 @@
       
       <p>We believe that every blood Donor is a life saver and following this one day blood donation camp is organised every year in the month of January, during the National Youth week, in collaboration with any steamed local Hospital. Every year we succeed in contributing a good amount of blood to the blood bank. 
       </p>
-      <p class="read-more">
+   <!--   <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p>-->
     </section>
   </div>
   <!--second blog-->
@@ -161,15 +161,15 @@
      
       <p>Health is wealth and we are much concerned about this. One day health check-up camp is organised every year in collaboration with any reputed Hospital in the campus. This check-up includes check up of blood pressure, sugar level and eye sight and providing health Advises regarding the same 
       </p>
-      <p class="read-more">
+  <!--    <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p>-->
     </section>
   </div>
   <!--third blog-->
   <div class="blog-card  my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic2.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/international_yoga_day.jpeg);">
   
       </div>
       <ul class="details">
@@ -183,9 +183,9 @@
       
       <p>We celebrate 21st June i.e. International Yoga Day with full spirit and enthusiasm every year. We celebrated a virtual Yoga Day amid COVID-19 by organising a live session Yoga with family and practicing the same from home. 
       </p>
-      <p class="read-more">
+   <!--   <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p> -->
     </section>
   </div>
   
@@ -198,7 +198,7 @@
   <!--first blog-->
   <div class="blog-card  my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic1.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/world_population_day.jpg);">
   
       </div>
       <ul class="details">
@@ -211,15 +211,15 @@
       <h1>World Population Day</h1>
      <p>World Population Day is observed on 11th July. NSS Volunteers make their contribution by spreading awareness among the public about the growing population issues through rallies and posters. 
       </p>
-      <p class="read-more">
+    <!--  <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p>-->
     </section>
   </div>
   <!--second blog-->
   <div class="blog-card alt my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic2.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/national_youth_Day.jpeg);">
   
       </div>
       <ul class="details">
@@ -233,13 +233,13 @@
       
       <p>Swami Vivekananda's birthday on January 12 is celebrated as National Youth Day and the week commencing from that day is known as the National Youth Week.To remember him and his teachings seminars, art galleries and book-fairs are organised along with several activities throughout the week
       </p>
-      <p class="read-more">
+  <!--    <p class="read-more">
         <a href="#">Read more</a>
-      </p>
+      </p>-->
     </section>
   </div>
   <!--third blog-->
-  <div class="blog-card  my-5">
+    <!-- <div class="blog-card  my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/pic3.jpg);">
   
@@ -250,7 +250,7 @@
       </ul>
     </section>
   
-    <section class="description">
+ <section class="description">
       <h1>Heading</h1>
       <h2>Subheading</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -261,7 +261,7 @@
       <p class="read-more">
         <a href="#">Read more</a>
       </p>
-    </section>
+    </section> -->
   </div>
 </div>
 
