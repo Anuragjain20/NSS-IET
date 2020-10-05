@@ -1,32 +1,56 @@
 .parallax {
-    /* The image used */
-    background-image: url("../images/Nss.jpeg");
-   ;
-    /* Set a specific height */
-    height: 100%; 
+  /* The image used */
+  background-image: url("../images/Nss.jpeg");
+  ;
+  /* Set a specific height */
+  height: 100%; 
 
 
 
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position:center;
-    background-repeat: repeat-y;
-    /*  background-size:cover;*/
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: repeat-y;
+  /*  background-size:cover;*/
 
-  }
-
-
-  .spad {
-      padding-top: 90px;
-      padding-bottom: 90px;
-  }
-  .htext{
-      color:red;
-      font-weight: 700;
 }
-  .dtext{
-    color:black;
-    font-weight: 900;
+
+.enroll-section {
+  position: relative;
+}
+
+.enroll-section:after {
+  position: absolute;
+  content: '';
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: #e91e6396;
+  opacity: 0.4;
+  filter: blur(2px);
+}
+
+.enroll-section .container {
+  position: relative;
+  z-index: 1;
+}
+
+.enroll-section .section-title {
+  margin-bottom: 40px;
+}
+
+.spad {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.htext{
+  color:red;
+  font-weight: 700;
+}
+.dtext{
+  color:black;
+  font-weight: 900;
 
 
 }
