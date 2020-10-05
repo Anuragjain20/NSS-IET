@@ -55,7 +55,7 @@
           <li><a href="https://github.com/Anuragjain20" target="_blank"><i class="fab fa-github"></i></a></li>
           <li><a href="https://www.linkedin.com/in/anurag-jain-62aaa4192/"target="_blank"><i class='fab fa-linkedin-in'></i></a></li>
           
-          <li><a href="mailto:anuragjain2rr@gmail.com"><i class='fas fa-envelope' target="_blank"></i></a></li>
+          <li><a href="mailto:anuragjain2rr@gmail.com" target="_blank"><i class='fas fa-envelope' ></i></a></li>
         </ul>
       </div>
     </div>
@@ -71,9 +71,9 @@
         </div>
         <ul class="social-dev">
           <li><a href="https://github.com/pagare-mansee" target="_blank"><i class="fab fa-github"></i></a></li>
-          <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
+          <li><a href="" target="_blank"><i class='fab fa-linkedin-in'></i></a></li>
           
-          <li><a href=""><i class='fas fa-envelope'></i></a></li>
+          <li><a href="" target="_blank"><i class='fas fa-envelope'></i></a></li>
         </ul>
       </div>
     </div> 
@@ -89,9 +89,9 @@
         </div>
         <ul class="social-dev">
           <li><a href="https://github.com/SAKSHISHASTRI" target="_blank"><i class="fab fa-github"></i></a></li>
-          <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
+          <li><a href="" target="_blank"><i class='fab fa-linkedin-in'></i></a></li>
           
-          <li><a href=""><i class='fas fa-envelope'></i></a></li>
+          <li><a href="" target="_blank"><i class='fas fa-envelope'></i></a></li>
         </ul>
       </div>
     </div>        
@@ -111,9 +111,9 @@
       </div>
       <ul class="social-dev">
         <li><a href="https://github.com/deepamgupta" target="_blank"><i class="fab fa-github"></i></a></li>
-        <li><a href="https://www.linkedin.com/in/deepam-gupta-7a1268151"><i class='fab fa-linkedin-in'></i></a></li>
+        <li><a href="https://www.linkedin.com/in/deepam-gupta-7a1268151" target="_blank"><i class='fab fa-linkedin-in'></i></a></li>
 
-        <li><a href=""><i class='fas fa-envelope'></i></a></li>
+        <li><a href="" target="_blank"><i class='fas fa-envelope'></i></a></li>
       </ul>
     </div>
   </div>
@@ -129,9 +129,9 @@
       </div>
       <ul class="social-dev">
         <li><a href="https://github.com/sumit684" target="_blank"><i class="fab fa-github"></i></a></li>
-        <li><a href="https://www.linkedin.com/in/sumit-singh-56b531159"><i class='fab fa-linkedin-in'></i></a></li>
+        <li><a href="https://www.linkedin.com/in/sumit-singh-56b531159" target="_blank"><i class='fab fa-linkedin-in'></i></a></li>
 
-        <li><a href="mailto:singh.sumit684@gmail.com"><i class='fas fa-envelope'></i></a></li>
+        <li><a href="mailto:singh.sumit684@gmail.com" target="_blank"><i class='fas fa-envelope'></i></a></li>
       </ul>
     </div>
   </div>               
