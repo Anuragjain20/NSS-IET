@@ -45,7 +45,7 @@
      <div class="col-10 col-sm-8 col-md-4 col-lg-3  mx-auto my-3" data-aos="flip-up" data-aos-duration="2000">
       <div class="our-team">
         <div class="pic-dev">
-        <img class="img-fluid" src="images/developer/anurag.jpeg" style="height: inherit;">
+        <img class="img-fluid" src="images/developer/Anurag.jpeg" style="height: inherit;">
         </div>
         <div class="team-content">
           <h3 class="name">Anurag Jain</h3>
@@ -63,7 +63,7 @@
     <div class="col-10 col-sm-8 col-md-4 col-lg-3 mx-auto my-3" data-aos="flip-up" data-aos-duration="2000">
       <div class="our-team">
         <div class="pic-dev">
-          <img class="img-fluid" src="https://picsum.photos/130/130?image=856">
+          <img class="img-fluid" src="https://picsum.photos/130/130?image=856" style="height: inherit;">
         </div>
         <div class="team-content">
           <h3 class="name">Mansee Pagare</h3>
@@ -81,7 +81,7 @@
     <div class="col-10 col-sm-8 col-md-4 col-lg-3 mx-auto my-3" data-aos="flip-up" data-aos-duration="2000">
       <div class="our-team">
         <div class="pic-dev">
-          <img class="img-fluid" src="https://picsum.photos/130/130?image=856">
+          <img class="img-fluid" src="https://picsum.photos/130/130?image=856" style="height: inherit;">
         </div>
         <div class="team-content">
           <h3 class="name">Sakshi Shastri</h3>
@@ -103,7 +103,7 @@
    <div class="col-10 col-sm-8 col-md-4 col-lg-3 mx-auto my-3" data-aos="flip-up" data-aos-duration="2000">
     <div class="our-team">
       <div class="pic-dev">
-        <img class="img-fluid" src="https://picsum.photos/130/130?image=856">
+        <img class="img-fluid" src="https://picsum.photos/130/130?image=856" style="height: inherit;">
       </div>
       <div class="team-content">
         <h3 class="name">Deepam Gupta</h3>
@@ -111,7 +111,7 @@
       </div>
       <ul class="social-dev">
         <li><a href="https://github.com/deepamgupta" target="_blank"><i class="fab fa-github"></i></a></li>
-        <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
+        <li><a href="https://www.linkedin.com/in/deepam-gupta-7a1268151"><i class='fab fa-linkedin-in'></i></a></li>
 
         <li><a href=""><i class='fas fa-envelope'></i></a></li>
       </ul>
@@ -121,7 +121,7 @@
   <div class="col-10 col-sm-8 col-md-4 col-lg-3 mx-auto my-3" data-aos="flip-up" data-aos-duration="2000">
     <div class="our-team">
       <div class="pic-dev">
-        <img class="img-fluid" src="https://picsum.photos/130/130?image=856">
+        <img class="img-fluid" src="images/developer/sumit.jpg" style="height: inherit;">
       </div>
       <div class="team-content">
         <h3 class="name">Sumit Kr Singh</h3>
@@ -129,9 +129,9 @@
       </div>
       <ul class="social-dev">
         <li><a href="https://github.com/sumit684" target="_blank"><i class="fab fa-github"></i></a></li>
-        <li><a href=""><i class='fab fa-linkedin-in'></i></a></li>
+        <li><a href="https://www.linkedin.com/in/sumit-singh-56b531159"><i class='fab fa-linkedin-in'></i></a></li>
 
-        <li><a href=""><i class='fas fa-envelope'></i></a></li>
+        <li><a href="mailto:singh.sumit684@gmail.com"><i class='fas fa-envelope'></i></a></li>
       </ul>
     </div>
   </div>               
