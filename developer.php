@@ -63,7 +63,7 @@
     <div class="col-10 col-sm-8 col-md-4 col-lg-3 mx-auto my-3" data-aos="flip-up" data-aos-duration="2000">
       <div class="our-team">
         <div class="pic-dev">
-          <img class="img-fluid" src=""images/developer/mansee.jpg" style="height: inherit;">
+          <img class="img-fluid" src="images/developer/mansee.jpg" style="height: inherit;">
         </div>
         <div class="team-content">
           <h3 class="name">Mansee Pagare</h3>
@@ -71,9 +71,9 @@
         </div>
         <ul class="social-dev">
           <li><a href="https://github.com/pagare-mansee" target="_blank"><i class="fab fa-github"></i></a></li>
-          <li><a href=""https://www.linkedin.com/in/mansee-pagare-aa17691b8/"" target="_blank"><i class='fab fa-linkedin-in'></i></a></li>
+          <li><a href="https://www.linkedin.com/in/mansee-pagare-aa17691b8/" target="_blank"><i class='fab fa-linkedin-in'></i></a></li>
           
-          <li><a href="mailto:mansipagare13@gmail.com"" target="_blank"><i class='fas fa-envelope'></i></a></li>
+          <li><a href="mailto:mansipagare13@gmail.com" target="_blank"><i class='fas fa-envelope'></i></a></li>
         </ul>
       </div>
     </div> 
@@ -103,7 +103,7 @@
    <div class="col-10 col-sm-8 col-md-4 col-lg-3 mx-auto my-3" data-aos="flip-up" data-aos-duration="2000">
     <div class="our-team">
       <div class="pic-dev">
-        <img class="img-fluid" src="https://picsum.photos/130/130?image=856" style="height: inherit;">
+        <img class="img-fluid" src="images/developer/deepam.jpg" style="height: inherit;">
       </div>
       <div class="team-content">
         <h3 class="name">Deepam Gupta</h3>
@@ -113,7 +113,7 @@
         <li><a href="https://github.com/deepamgupta" target="_blank"><i class="fab fa-github"></i></a></li>
         <li><a href="https://www.linkedin.com/in/deepam-gupta-7a1268151" target="_blank"><i class='fab fa-linkedin-in'></i></a></li>
 
-        <li><a href="" target="_blank"><i class='fas fa-envelope'></i></a></li>
+        <li><a href="mailto:deepam.deepam.gupta@gmail.com" target="_blank"><i class='fas fa-envelope'></i></a></li>
       </ul>
     </div>
   </div>
