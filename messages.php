@@ -165,19 +165,40 @@
                      <div class="card border-0 py-3 px-4">
                         <div class="row justify-content-center"> <img src="images/message/deepika.jpg" alt="program officer boys unit" class="img-fluid profile-pic mb-4 mt-3"> </div>
                         <h4 class="mt-2">Deepika Mukati</h4>
-                        <h6 class="mb-3 ">NSS Head Girl <br> <small>(2018-2019)</small></h6>
+                        <h6 class="mb-3 ">NSS Head Girl</h6>
                         <i class="fa fa-quote-right" style="font-size:40px;"></i>
-                        <p class="content mb-5 mx-2">As an active volunteer, all the NSS meetings, activities(plantation, blood donation camps, unit camps, Traffic control, population control really, etc.) helped me in developing a better connection with the society and social issues. It made me confident, developed leadership skills, and gaining knowledge about different people from different walks of life.</p>
+                        <p class="content mb-5 mx-2">As an active volunteer, all the NSS meetings, activities (plantation, blood donation camps, unit camps, Traffic control, population control really, etc.) helped me in developing a better connection with the society and social issues. It made me confident, developed leadership skills, and gaining knowledge about different people from different walks of life.</p>
                     </div>
 
                 </div>
                 <div class="item next">
                     <div class="card border-0 py-3 px-4">
-                        <div class="row justify-content-center"> <img src="images/message/image.jfif" alt="ex-volunteer" class="img-fluid profile-pic mb-4 mt-3"> </div>
-                        <h4 class=" mt-2">Volunteer 3</h4>
-                        <h6 class="mb-3 ">Ex- volunteer</h6>
+                        <div class="row justify-content-center"> <img src="images/message/rakshita.jfif" alt="ex-volunteer" class="img-fluid profile-pic mb-4 mt-3"> </div>
+                        <h4 class=" mt-2">Rakshita Singhal</h4>
+                        <h6 class="mb-3 ">NSS Head Volunteer</h6>
                         <i class="fa fa-quote-right" style="font-size:40px;"></i>
-                        <p class="content mb-5 mx-2">As an active volunteer, all the NSS meetings, activities(plantation, blood donation camps, unit camps, Traffic control, population control really, etc.) helped me in developing a better connection with the society and social issues. It made me confident, developed leadership skills, and gaining knowledge about different people from different walks of life.</p>
+                        <p class="content mb-5 mx-2">
+
+                            Being a <b>स्वयंसेवक</b> itself is a matter of proud for anyone and
+                            I am fortunate enough to be one since 2016 (my first year of college). 
+                            Since then I have got various opportunities providing services, organising events, attending camps and 
+                            I learned how to be responsible with every little thing I did.
+                            During this course, I attended Two 7-day Unit Level NSS camps held at two different rural areas.
+                            I would not be exaggerating if I say those were some of the best days of my life. 
+                            Apart from the innumerable learnings, bauddhik sessions, services like cleaning weeds, teaching to the unprivileged students, spreading digital literacy, knowledge about various govt schemes to rural areas, organising blood drive donation drives etc, we learned how to work in teams, be kind to each other, how to respect each other and thus made some very beautiful bonds and countless memories which are being cherished till now. 
+                            I want to thank the respected program managers (gurus) and all my fellow swayamsevaks, who helped in shaping my personality and giving me confidence enough to be able to do something for the society. Summing it all here are a few lines -
+                            मुझे एक परिवार मिला
+                            गुरुओं से ज्ञान का भंडार मिला
+                            कई स्वयंसेवकों का स्नेहपूर्ण हाथ मिला
+                            ज़रूरत पढ़ने पर हर जगह साथ मिला
+                            जिम्मेदारी उठाने का हौसला मिला
+                            और उसे निभाने का साहस मिला
+                            खुद को पहचानने का अवसर मिला
+                            खुद को निखारने का अवसर मिला
+                            NSS में अपनों सा प्यार मिला
+                            एक नया परिवार मिला ✔️
+
+                        </p>
                     </div>
                 </div>
 
