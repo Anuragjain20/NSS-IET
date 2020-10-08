@@ -35,10 +35,10 @@
       <div class="photo-blog" style="background-image: url(images/events/guru_pornima.jpg);">
   
       </div>
-      <ul class="details">
+    <!--  <ul class="details">
         <li class="author"><a href="#">Name</a></li>
         <li class="date">August 12, 2020</li>
-      </ul>
+      </ul>-->
     </section>
   
     <section class="description">
@@ -57,10 +57,7 @@
       <div class="photo-blog" style="background-image: url(images/events/photowalk.jpeg);">
   
       </div>
-      <ul class="details">
-        <li class="author"><a href="#">Name</a></li>
-        <li class="date">August 12, 2020</li>
-      </ul>
+   
     </section>
   
     <section class="description">
@@ -79,10 +76,7 @@
       <div class="photo-blog" style="background-image: url(images/events/nss_day.jpeg);">
   
       </div>
-      <ul class="details">
-        <li class="author"><a href="#">Name</a></li>
-        <li class="date">August 12, 2020</li>
-      </ul>
+
     </section>
   
     <section class="description">
@@ -101,10 +95,7 @@
       <div class="photo-blog" style="background-image: url(images/events/gandhi_jayanti.jpg);">
   
       </div>
-      <ul class="details">
-        <li class="author"><a href="#">Name</a></li>
-        <li class="date">August 12, 2020</li>
-      </ul>
+ 
     </section>
   
     <section class="description">
@@ -128,10 +119,7 @@
       <div class="photo-blog" style="background-image: url(images/events/blood_donation.jpg);">
   
       </div>
-      <ul class="details">
-        <li class="author"><a href="#">Name</a></li>
-        <li class="date">August 12, 2020</li>
-      </ul>
+
     </section>
   
     <section class="description">
@@ -145,15 +133,12 @@
     </section>
   </div>
   <!--second blog-->
-  <div class="blog-card alt my-5">
+  <div class="blog-card  my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/pic1.jpg);">
   
       </div>
-      <ul class="details">
-        <li class="author"><a href="#">Name</a></li>
-        <li class="date">August 12, 2020</li>
-      </ul>
+
     </section>
   
     <section class="description">
@@ -167,15 +152,12 @@
     </section>
   </div>
   <!--third blog-->
-  <div class="blog-card  my-5">
+  <div class="blog-card alt  my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/international_yoga_day.jpeg);">
   
       </div>
-      <ul class="details">
-        <li class="author"><a href="#">Name</a></li>
-        <li class="date">August 12, 2020</li>
-      </ul>
+
     </section>
   
     <section class="description">
@@ -201,10 +183,7 @@
       <div class="photo-blog" style="background-image: url(images/events/world_population_day.jpg);">
   
       </div>
-      <ul class="details">
-        <li class="author"><a href="#">Name</a></li>
-        <li class="date">August 12, 2020</li>
-      </ul>
+
     </section>
   
     <section class="description">
@@ -222,10 +201,7 @@
       <div class="photo-blog" style="background-image: url(images/events/national_youth_Day.jpeg);">
   
       </div>
-      <ul class="details">
-        <li class="author"><a href="#">Name</a></li>
-        <li class="date">August 12, 2020</li>
-      </ul>
+
     </section>
   
     <section class="description">
