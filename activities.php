@@ -215,29 +215,26 @@
     </section>
   </div>
   <!--third blog-->
-    <!-- <div class="blog-card  my-5">
+    <div class="blog-card  my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/pic3.jpg);">
   
       </div>
-      <ul class="details">
+    <!--  <ul class="details">
         <li class="author"><a href="#">Name</a></li>
         <li class="date">August 12, 2020</li>
-      </ul>
+      </ul>-->
     </section>
   
  <section class="description">
-      <h1>Heading</h1>
-      <h2>Subheading</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-         Cum vel aspernatur est pariatur beatae deserunt odio
-         enim eaque adipisci doloribus, esse laudantium unde nobis fugit cumque
-          voluptatibus suscipit. Provident, sunt.
+      <h1>World AIDS Day</h1>
+      
+      <p>AIDS day is observed every year on 1st December worldwide. We celebrate this day in association with Red Ribbon Club, IET-DAVV majorly by forming a long human chain, which symbolizes that we stand united in the support of people living with AIDS and to make people aware that HIV doesn't transmit by handshakes or normal physical contacts. We also aware people about precautions and symptoms of AIDS through Nukkad Natak(street play) and posters.
       </p>
-      <p class="read-more">
+   <!--   <p class="read-more">
         <a href="#">Read more</a>
-      </p>
-    </section> -->
+      </p> -->
+    </section>
   </div>
 </div>
 
