@@ -31,7 +31,7 @@
 <!--motto-->
    <!--page-name-->
   
-<div class="container-fluid pagename my-5">Mission</div>
+<div class="container-fluid pagename my-5">About NSS</div>
    
      <!--Motto-->
    
@@ -56,7 +56,7 @@
  <!--WORKS-->
   <div class="container mb-4 py-3 mt-5"  style="background-color:rgb(240, 232, 232);border: 2px solid rgb(240, 232, 232);border-radius: 7px;    box-shadow: 0 0 10px 1px rgb(21 19 43);  ">
         <div class=" s-heading"> OUR SIGNIFICANT WORKS</div>
-     <p>NSS in IET-DAVV was introduced in the year __. The unit has seen active participation since then. Our volunteers aim to make their surroundings a better place to live in with their innovative ideas. Along with social welfare works, we have also organised informational talks, inviting guest speakers and engagement activities like photo walks.
+     <p>NSS in IET-DAVV was introduced in the year ______. The unit has seen active participation since then. Our volunteers aim to make their surroundings a better place to live in with their innovative ideas. Along with social welfare works, we have also organised informational talks, inviting guest speakers and engagement activities like photo walks.
 All the works that we did in recent years can be broadly categorised into :
 </p>
         <br>

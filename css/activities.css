@@ -61,7 +61,7 @@ width: 80px;
     background-position: center;
     transition: all 0.5s ease;
 }
-.details,
+/*.details,
 .details ul{
     margin: auto;
     padding: 0;
@@ -96,11 +96,11 @@ width: 80px;
 .date::before{
    margin-right: 10px;
    content: "";
-}
+}*/
 
 .description{
     padding: 1rem;
-    background:rgb(240, 232, 232);
+    background:white;
     position: relative;
     z-index: 1;
 }
@@ -119,7 +119,7 @@ width: 80px;
     margin: 5px;
     
 }
-.read-more{
+/*.read-more{
     text-align: right;
 }
 
@@ -141,7 +141,7 @@ width: 80px;
     margin-left: 0.55px;
     opacity: 1;
 
-}
+}*/
 
 
 
@@ -187,7 +187,7 @@ width: 80px;
     .description::before{
         transform: skewX(-3deg);
         content: "";
-        background:rgb(240, 232, 232);
+        background:white;
         width: 30px;
         position: absolute;
         left: -10;
