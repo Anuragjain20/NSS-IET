@@ -135,7 +135,7 @@
   <!--second blog-->
   <div class="blog-card  my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic1.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/health_Camp.jpg);">
   
       </div>
 
@@ -217,7 +217,7 @@
   <!--third blog-->
     <div class="blog-card  my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic3.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/Aids_day.JPG);">
   
       </div>
     <!--  <ul class="details">
