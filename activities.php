@@ -136,7 +136,7 @@
   <div class="blog-card  my-5">
     <section class="meta">
 
-      <div class="photo-blog" style="background-image: url(images/events/health_Camp.jpg);">
+      <div class="photo-blog" style="background-image: url(images/events/health_checkup.jpg);">
       </div>
 
     </section>
