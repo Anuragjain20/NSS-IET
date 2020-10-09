@@ -2,47 +2,47 @@
 <html lang="en">
 <head>
 
-    
-    <!--external css-->
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link  rel="stylesheet" href="css/activities.css ">
-    
-       <!--head php-->
-       <?php include 'includes/head.php';?>
-    
+
+  <!--external css-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link  rel="stylesheet" href="css/activities.css ">
+
+  <!--head php-->
+  <?php include 'includes/head.php';?>
+
 </head>
 <body>
-  
-     	  <!-- Header -->
-         <?php include 'includes/header.php';?>
+
+  <!-- Header -->
+  <?php include 'includes/header.php';?>
 
 
 
 
-        <!--nav-bar-->
-         <?php include 'includes/navbar.php';?>
+  <!--nav-bar-->
+  <?php include 'includes/navbar.php';?>
 
-<!--events section-main-->
-<div class="event-mainhead text-center  my-5">Activities</div>
+  <!--events section-main-->
+  <div class="event-mainhead text-center  my-5">Activities</div>
 
-<!--celebrations-->
-<div class="container-fluid my-3" id="celebration">
-  <div class="text-center h1 py-5 subheadings" >Celebrations</div>
+  <!--celebrations-->
+  <div class="container-fluid my-3" id="celebration">
+    <div class="text-center h1 py-5 subheadings" >Celebrations</div>
 
-  <!--first blog-->
-  <div class="blog-card my-5">
-    <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/guru_pornima.jpg);">
-  
-      </div>
+    <!--first blog-->
+    <div class="blog-card my-5">
+      <section class="meta">
+        <div class="photo-blog" style="background-image: url(images/events/guru_pornima.jpg);">
+
+        </div>
     <!--  <ul class="details">
         <li class="author"><a href="#">Name</a></li>
         <li class="date">August 12, 2020</li>
       </ul>-->
     </section>
-  
+
     <section class="description">
-  
+
       <h1>Guru Purnima</h1>
       <p>The auspicious day Guru Purnima is celebrated every year to pay tribute to the selflessness and dedication of the Gurus. The students show their gratefulness towards their teachers through poems songs cards and videos. 
       </p>
@@ -55,13 +55,13 @@
   <div class="blog-card alt my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/photowalk.jpeg);">
-  
+
       </div>
-   
+
     </section>
-  
+
     <section class="description">
-     
+
       <h1> Photo Walk</h1>
       <p>Photo Walk is organised one or two days before the NSS day to give students an opportunity to showcase their creativity through photography. It makes them to see the world around them with a different view. 
       </p>
@@ -73,14 +73,14 @@
   <!--third blog-->
   <div class="blog-card  my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/nss_day.jpeg);">
-  
+      <div class="photo-blog" style="background-image: url(images/events/nss_day.jpg);">
+
       </div>
 
     </section>
-  
+
     <section class="description">
-    
+
       <h1>NSS Day</h1>
       <p>NSS Day is observed every year on 24th September and each year it is celebrated much enthusiastically and uniquely. It witnesses major public events like Nukkad Natak, visit to villages, interaction with public and much more. 
       </p>
@@ -93,11 +93,11 @@
   <div class="blog-card alt my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/gandhi_jayanti.jpg);">
-  
+
       </div>
- 
+
     </section>
-  
+
     <section class="description">
       <!-- <h1>Heading</h1>-->
       <h1> Gandhi Jayanti </h1>
@@ -117,11 +117,11 @@
   <div class="blog-card alt my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/blood_donation.jpg);">
-  
+
       </div>
 
     </section>
-  
+
     <section class="description">
       <h1> Blood Donation camp</h1>
       
@@ -135,15 +135,15 @@
   <!--second blog-->
   <div class="blog-card  my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic1.jpg);">
-  
+      <div class="photo-blog" style="background-image: url(images/events/health_checkup.jpg);">
+
       </div>
 
     </section>
-  
+
     <section class="description">
       <h1>Health Check-up Camp</h1>
-     
+
       <p>Health is wealth and we are much concerned about this. One day health check-up camp is organised every year in collaboration with any reputed Hospital in the campus. This check-up includes check up of blood pressure, sugar level and eye sight and providing health Advises regarding the same 
       </p>
   <!--    <p class="read-more">
@@ -155,11 +155,11 @@
   <div class="blog-card alt  my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/international_yoga_day.jpeg);">
-  
+
       </div>
 
     </section>
-  
+
     <section class="description">
       <h1> International Yoga Day</h1>
       
@@ -181,14 +181,14 @@
   <div class="blog-card  my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/world_population_day.jpg);">
-  
+
       </div>
 
     </section>
-  
+
     <section class="description">
       <h1>World Population Day</h1>
-     <p>World Population Day is observed on 11th July. NSS Volunteers make their contribution by spreading awareness among the public about the growing population issues through rallies and posters. 
+      <p>World Population Day is observed on 11th July. NSS Volunteers make their contribution by spreading awareness among the public about the growing population issues through rallies and posters. 
       </p>
     <!--  <p class="read-more">
         <a href="#">Read more</a>
@@ -199,11 +199,11 @@
   <div class="blog-card alt my-5">
     <section class="meta">
       <div class="photo-blog" style="background-image: url(images/events/national_youth_Day.jpeg);">
-  
+
       </div>
 
     </section>
-  
+
     <section class="description">
       <h1> National Youth Week </h1>
       
@@ -215,18 +215,18 @@
     </section>
   </div>
   <!--third blog-->
-    <div class="blog-card  my-5">
+  <div class="blog-card  my-5">
     <section class="meta">
-      <div class="photo-blog" style="background-image: url(images/events/pic3.jpg);">
-  
+      <div class="photo-blog" style="background-image: url(images/events/world_aids_day.jpg);">
+
       </div>
     <!--  <ul class="details">
         <li class="author"><a href="#">Name</a></li>
         <li class="date">August 12, 2020</li>
       </ul>-->
     </section>
-  
- <section class="description">
+
+    <section class="description">
       <h1>World AIDS Day</h1>
       
       <p>AIDS day is observed every year on 1st December worldwide. We celebrate this day in association with Red Ribbon Club, IET-DAVV majorly by forming a long human chain, which symbolizes that we stand united in the support of people living with AIDS and to make people aware that HIV doesn't transmit by handshakes or normal physical contacts. We also aware people about precautions and symptoms of AIDS through Nukkad Natak(street play) and posters.
@@ -241,8 +241,8 @@
 
 
 
-       <!--footer-->
-       <?php include 'includes/footer.php';?>
+<!--footer-->
+<?php include 'includes/footer.php';?>
 
 
 
