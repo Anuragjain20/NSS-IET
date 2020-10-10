@@ -180,22 +180,22 @@
 
 
 <!---button for  all volunteers list --> 
-<div style="text-align: center" class="conatiner "  >
+<div style="text-align: center" class="container "  >
   <a href="#"><button type="button" class="btn btn-danger btn-lg"><b><i>Volunteers </i></b></button></a>  
 </div>
 <br>
 <br>
 
 <!---buttons for teams of different years --> 
-<div class="conatiner"style="text-align: center"  >
+<div class="container"style="text-align: center"  >
 
-  <a href="#"><button type="button" class="btn btn-danger btn-lg">Current</button></a>
+  <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">Current</button></a>
 
-  <a href="#"><button type="button" class="btn btn-danger btn-lg">2018-2019</button></a>
+  <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">2018-2019</button></a>
 
-  <a href="#"><button type="button" class="btn btn-danger btn-lg">2017-2018</button></a>
+  <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">2017-2018</button></a>
 
-  <a href="#"><button type="button" class="btn btn-danger btn-lg">2016-2017</button></a>
+  <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">2016-2017</button></a>
 
 </div>
 <br>
