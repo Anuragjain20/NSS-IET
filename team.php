@@ -37,7 +37,7 @@
 
   <div class="row">
   
-    <div class=" col-11 col-sm-8 col-md-7 col-lg-5 mx-auto mt-3">
+    <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto mt-3">
      <div class="card text-center" >
 
       <img src="images/Team/sanjiv.jpg" alt="Dr. Sanjiv Tokekar" class="img-s mt-3 img-fluid">
@@ -58,7 +58,7 @@
 <div class="container">
   <div class="row my-3">
      
-  <div class=" col-11 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+  <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
      <div class="card text-center" >
 
       <img src="images/Team/ssk.jpg" alt="image2"class="img-s mt-3 img-fluid">
@@ -71,7 +71,7 @@
   </div>
 
     
-  <div class=" col-11 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+  <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
      <div class="card text-center" >
 
       <img src="images/Team/suwarna.jpg" alt="image2" class="img-s mt-3 img-fluid">
@@ -101,7 +101,7 @@
 <br>
 <div class="container my-4">
   <div class="row">
-         <div class=" col-11 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
+         <div class=" col-12 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
            <div class="card text-center" >
 
            <img src="images/Team/image2.jfif" alt="name" class="img-s mt-3 img-fluid">
@@ -113,7 +113,7 @@
           </div>
         </div>
 
-        <div class=" col-11 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
+        <div class=" col-12 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
           <div class="card text-center" >
 
              <img src="images/Team/image2.jfif" alt="name" class="img-s mt-3 img-fluid">
@@ -125,7 +125,7 @@
           </div>
         </div>
 
-        <div class=" col-11 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
+        <div class=" col-12 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
           <div class="card text-center" >
 
              <img src="images/Team/image2.jfif" alt="name" class="img-s mt-3 img-fluid">
@@ -147,7 +147,7 @@
 <div class="container my-4">
   <div class="row my-3">
      
-  <div class=" col-11 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+  <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
      <div class="card text-center" >
 
       <img src="images/Team/image2.jfif" alt="image2"class="img-s mt-3 img-fluid">
@@ -160,7 +160,7 @@
   </div>
 
     
-  <div class=" col-11 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+  <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
      <div class="card text-center" >
 
       <img src="images/Team/image2.jfif" alt="image2" class="img-s mt-3 img-fluid">
