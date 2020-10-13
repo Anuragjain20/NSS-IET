@@ -1,6 +1,6 @@
         <nav class="navbar navbar-expand-lg navbar-dark sticky-top  navicustom text-center" id ="navmenu">
           <div class="container-fluid">
-            
+
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarlinks" aria-controls="navbarlinks" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -44,10 +44,7 @@
                   <a class="nav-link" href="timeline.php">Gallery</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact-us.php">Contact Us</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="https://www.dauniv.ac.in/" target="_blank">DAVV</a>
+                  <a class="nav-link" href="http://www.ietdavv.edu.in/" target="_blank">IET</a>
                 </li>
               </ul>
               <!--navbar  button on right-->

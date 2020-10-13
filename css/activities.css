@@ -8,8 +8,8 @@
 
 
 .img-head{
-height: auto;
-width: 80px;
+    height: auto;
+    width: 80px;
 }
 
 .subheadings {
@@ -43,7 +43,7 @@ width: 80px;
 
 }
 .blog-card:hover .photo-blog{
-     transform: scale(1.3) rotate(1deg);
+ transform: scale(1.3) rotate(1deg);
 }
 .meta{
     position: relative;
@@ -51,7 +51,7 @@ width: 80px;
 
 }
 .photo-blog{
-    
+
     position: absolute;
     top:0;
     left: 0;
@@ -96,9 +96,9 @@ width: 80px;
 .date::before{
    margin-right: 10px;
    content: "";
-}*/
+   }*/
 
-.description{
+   .description{
     padding: 1rem;
     background:white;
     position: relative;
@@ -141,68 +141,68 @@ width: 80px;
     margin-left: 0.55px;
     opacity: 1;
 
-}*/
+    }*/
 
 
 
-.blog-card p{
-    position: relative;
-    margin: 1rem 0;
+    .blog-card p{
+        position: relative;
+        margin: 1rem 0;
 
-}
-
-.blog-card p:first-of-type{
-    margin-top: 1.25rem;
-}
-
-.blog-card p:first-of-type::before{
-    content: "";
-    position: absolute;
-    height: 5px;
-    background:rgb(59, 10, 192);
-    width: 35px;
-    top: -0.75rem;
-    border-radius: 3px;
-}
-
-.blog-card:hover .details{
-    left: 0%;
-}
-@media(min-width:640px){
-    .blog-card{
-        flex-direction: row;
-       max-width: 700px;
-    }
-    .alt{
-        flex-direction: row-reverse!important;
-    }
-    .meta{
-        flex-basis: 40%;
-        height: auto;
     }
 
-    .description{
-        flex-basis: 60%;
+    .blog-card p:first-of-type{
+        margin-top: 1.25rem;
     }
-    .description::before{
-        transform: skewX(-3deg);
+
+    .blog-card p:first-of-type::before{
         content: "";
-        background:white;
-        width: 30px;
         position: absolute;
-        left: -10;
-        top: 0;
-        bottom: 0;
-        z-index: -1;
+        height: 5px;
+        background:rgb(59, 10, 192);
+        width: 35px;
+        top: -0.75rem;
+        border-radius: 3px;
     }
-}
 
-@media(min-width:740px){
-    .blog-card{
-        flex-direction: row;
-       max-width: 900px;
+    .blog-card:hover .details{
+        left: 0%;
     }
-}
+    @media(min-width:640px){
+        .blog-card{
+            flex-direction: row;
+            max-width: 700px;
+        }
+        .alt{
+            flex-direction: row-reverse!important;
+        }
+        .meta{
+            flex-basis: 40%;
+            height: auto;
+        }
+
+        .description{
+            flex-basis: 60%;
+        }
+        .description::before{
+            transform: skewX(-3deg);
+            content: "";
+            background:white;
+            width: 30px;
+            position: absolute;
+            left: -10;
+            top: 0;
+            bottom: 0;
+            z-index: -1;
+        }
+    }
+
+    @media(min-width:740px){
+        .blog-card{
+            flex-direction: row;
+            max-width: 900px;
+        }
+    }
 
 
 

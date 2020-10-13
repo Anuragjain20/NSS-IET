@@ -30,7 +30,7 @@
  </div>
 
  <!--- patron-->
- <div class="container subheading">Patron</div>
+<!--  <div class="container subheading">Patron</div>
  <br>
  
  <div class="container">
@@ -43,15 +43,15 @@
       <img src="images/Team/sanjiv.jpg" alt="Dr. Sanjiv Tokekar" class="img-s">
       <div class="card-body">
         <h4 class="card-title">Dr. Sanjiv Tokekar</h4>
-        <h6 class="card-text"> Director IET-DAVV</h6>
+        <h6 class="card-text"> Director IET-DAVV</h6>c
         <a href="mailto:stokekar@ietdavv.edu.in">stokekar@ietdavv.edu.in</a>
       </div>
     </div>
   </div>
   <div class=col-md-3></div>
 </div>
-</div>
-<br>
+</div> -->
+<!-- <br> -->
 
 <!--- Program officers-->
 <div class="container subheading">Program Officers</div>

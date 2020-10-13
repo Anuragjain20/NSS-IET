@@ -25,7 +25,7 @@
 .footcol-22{
   list-style-type:none;
   
- 
+
 }
 
 
@@ -69,6 +69,8 @@
   border-radius: .25rem;
   max-width: 100%;
   height: auto;
+  object-fit: cover;
+  object-position: top;
 }
 
 
@@ -76,17 +78,17 @@
   background-color:#123c69;;
   color:white;
   text-align:center
- }
- .developers{
-   color: black;
-  font-family:cursive;
+}
+.developers{
+ color: black;
+ font-family:cursive;
 
- }
- .developers:hover{
-   color: blue;
-   text-decoration: none;
-  font-family:cursive;
- }
+}
+.developers:hover{
+ color: blue;
+ text-decoration: none;
+ font-family:cursive;
+}
 
 .iconsfoot{
   font-size: 35px;
