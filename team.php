@@ -30,171 +30,174 @@
  </div>
 
  <!--- patron-->
-<!--  <div class="container subheading">Patron</div>
- <br>
+<!--
+ <div class="container subheading">Patron</div>
  
  <div class="container">
 
   <div class="row">
-    <div class=col-md-3></div>
-    <div class="col-md-6 mt-3"style="text-align: center;">
-     <div class="card" style="background-color: rgb(240, 232, 232);text-align:center" >
+  
+    <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto mt-3">
+     <div class="card text-center" >
 
-      <img src="images/Team/sanjiv.jpg" alt="Dr. Sanjiv Tokekar" class="img-s">
+      <img src="images/Team/sanjiv.jpg" alt="Dr. Sanjiv Tokekar" class="img-s mt-3 img-fluid">
       <div class="card-body">
-        <h4 class="card-title">Dr. Sanjiv Tokekar</h4>
-        <h6 class="card-text"> Director IET-DAVV</h6>c
+
+        <h5 class="card-title">Dr. Sanjiv Tokekar</h5>
+        <h6 class="card-text"> Director IET-DAVV</h6>
+
         <a href="mailto:stokekar@ietdavv.edu.in">stokekar@ietdavv.edu.in</a>
       </div>
     </div>
   </div>
-  <div class=col-md-3></div>
+ 
 </div>
 </div> -->
 <!-- <br> -->
 
 <!--- Program officers-->
 <div class="container subheading">Program Officers</div>
-<br>
 <div class="container">
+  <div class="row my-3">
+   
+    <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+     <div class="card text-center" >
 
-  <div class="row">
-    <div class="col-md-6 mt-3"style="text-align: center;">
+      <img src="images/Team/ssk.jpg" alt="image2"class="img-s mt-3 img-fluid">
+      <div class="card-body">
+       <h5 class="card-title">Prof. Shailendra Singh Khinchi</h5>
+       <h6 class="card-text"> Faculty, Applied Science Department</h6>
+       <a href="mailto:skhinchi@ietdavv.edu.in">skhinchi@ietdavv.edu.in</a>
+     </div>
+   </div>
+ </div>
 
-      <div class="card" style="background-color: rgb(240, 232, 232);">
+ 
+ <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+   <div class="card text-center" >
 
-        <img src="images/Team/ssk.jpg" alt="image2" class="img-d">
-        <div class="card-body">
-          <h4 class="card-title">Prof. Shailendra Singh Khinchi</h4>
-          <h6 class="card-text"> Faculty, Applied Science Department</h6>
-          <a href="mailto:skhinchi@ietdavv.edu.in">skhinchi@ietdavv.edu.in</a>
-        </div>
-      </div>
-    </div>
+    <img src="images/Team/suwarna.jpg" alt="image2" class="img-s mt-3 img-fluid">
+    <div class="card-body">
+      <h5 class="card-title">Dr. Suwarna Torgal</h4>
+       <h6 class="card-text"> Faculty, Mechanical Engineering Department</h5>
+         <a href="mailto:storgal@ietdavv.edu.in">storgal@ietdavv.edu.in</a>
 
+       </div>
+     </div>
+   </div>
 
-
-    <div class="col-md-6 mt-3"style="text-align: center;">
-      <div class="card" style="background-color: rgb(240, 232, 232);">
-        <img src="images/Team/suwarna.jpg" alt="image2" class="img-d">
-        <div class="card-body">
-          <h4 class="card-title">Dr. Suwarna Torgal</h4>
-          <h6 class="card-text"> Faculty, Mechanical Engineering Department</h6>
-          <a href="mailto:storgal@ietdavv.edu.in">storgal@ietdavv.edu.in</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
+ </div>
 </div>
-</div>
 
-<br>
+
+
+
+
+
+
+
 
 
 <!--- Faculties-->
 <div class="container subheading">Faculty Advisers</div>
 <br>
-<div class="container">
+<div class="container my-4">
   <div class="row">
-    <div class="col-md-4 mt-3" style="text-align: center;">
+   <div class=" col-12 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
+     <div class="card text-center" >
 
-      <div class="card" style="background-color: rgb(240, 232, 232);">
-        <img src="images/Team/image.jfif" alt="image" class="img-fa">
-        <div class="card-body" >
-         <h4 class="card-title">Name</h4>
+       <img src="images/Team/image2.jfif" alt="name" class="img-s mt-3 img-fluid">
+       <div class="card-body">
+         <h5 class="card-title">Full Name</h5>
          <h6 class="card-text"> Designation</h6>
-         <a href="#">abc@xyz.com</a>
+         <a href="mailto:stokekar@ietdavv.edu.in">emailaddress@gmail.com</a>
        </div>
      </div>
    </div>
 
-   <div class="col-md-4 mt-3 "  style="text-align: center;">
+   <div class=" col-12 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
+    <div class="card text-center" >
 
-    <div class="card " style="background-color: rgb(240, 232, 232);">
-      <img src="images/Team/image.jfif" alt="image" class="img-fa">
-      <div class="card-body">
-       <h4 class="card-title">Name</h4>
+     <img src="images/Team/image2.jfif" alt="name" class="img-s mt-3 img-fluid">
+     <div class="card-body">
+       <h5 class="card-title">Full Name</h5>
        <h6 class="card-text"> Designation</h6>
-       <a href="#">abc@xyz.com</a>
+       <a href="mailto:stokekar@ietdavv.edu.in">emailaddress@gmail.com</a>
      </div>
    </div>
  </div>
 
+ <div class=" col-12 col-sm-8 col-md-7 col-lg-4 mx-auto my-3">
+  <div class="card text-center" >
 
- <div class="col-md-4 mt-3" style="text-align: center;">
-  <div class="card" style="background-color: rgb(240, 232, 232);">
-    <img src="images/Team/image.jfif" alt="image" class="img-fa">
-    <div class="card-body">
-     <h4 class="card-title">Name</h4>
+   <img src="images/Team/image2.jfif" alt="name" class="img-s mt-3 img-fluid">
+   <div class="card-body">
+     <h5 class="card-title">Full Name</h5>
      <h6 class="card-text"> Designation</h6>
-     <a href="#">abc@xyz.com</a>
+     <a href="mailto:stokekar@ietdavv.edu.in">emailaddress@gmail.com</a>
    </div>
  </div>
 </div>
+
 </div>
-<br>
+
+</div>
 
 <!---head- Volunteers-->
 
 <div class="container subheading">Head Volunteers</div>
-<br>
-<div class="container">
+<div class="container my-4">
+  <div class="row my-3">
+   
+    <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+     <div class="card text-center" >
 
-  <div class="row">
-    <div class="col-md-6 mt-3"style="text-align: center;">
+      <img src="images/Team/image2.jfif" alt="image2"class="img-s mt-3 img-fluid">
+      <div class="card-body">
+       <h5 class="card-title">Full Name</h5>
+       <h6 class="card-text"> Designation</h6>
+       <a href="mailto:skhinchi@ietdavv.edu.in">emailaddress@gmail.com</a>
+     </div>
+   </div>
+ </div>
 
-      <div class="card" style="background-color: rgb(240, 232, 232);">
+ 
+ <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+   <div class="card text-center" >
 
-        <img src="images/Team/image2.jfif" alt="image2" class="img-d">
-        <div class="card-body">
-          <h4 class="card-title">Name</h4>
-          <h6 class="card-text"> Designation</h6>
-          <a href="#">abc@xyz.com</a>
-        </div>
-      </div>
-    </div>
+    <img src="images/Team/image2.jfif" alt="image2" class="img-s mt-3 img-fluid">
+    <div class="card-body">
+      <h5 class="card-title">Full Name</h4>
+       <h6 class="card-text">Designation</h5>
+         <a href="mailto:storgal@ietdavv.edu.in">emailaddress@gmail.com</a>
 
+       </div>
+     </div>
+   </div>
 
-
-    <div class="col-md-6 mt-3"style="text-align: center;">
-      <div class="card" style="background-color: rgb(240, 232, 232);">
-        <img src="images/Team/image2.jfif" alt="image2" class="img-d">
-        <div class="card-body">
-          <h4 class="card-title">Name</h4>
-          <h6 class="card-text"> Designation</h6>
-          <a href="#">abc@xyz.com</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
+ </div>
 </div>
-</div>
-
-<br>
-<br>
 
 
 
 
 <!---button for  all volunteers list --> 
-<div style="text-align: center" class="conatiner "  >
+<div style="text-align: center" class="container "  >
   <a href="#"><button type="button" class="btn btn-danger btn-lg"><b><i>Volunteers </i></b></button></a>  
 </div>
 <br>
 <br>
 
 <!---buttons for teams of different years --> 
-<div class="conatiner"style="text-align: center"  >
+<div class="container"style="text-align: center"  >
 
-  <a href="#"><button type="button" class="btn btn-danger btn-lg">Current</button></a>
+  <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">Current</button></a>
 
-  <a href="#"><button type="button" class="btn btn-danger btn-lg">2018-2019</button></a>
+  <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">2018-2019</button></a>
 
-  <a href="#"><button type="button" class="btn btn-danger btn-lg">2017-2018</button></a>
+  <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">2017-2018</button></a>
 
-  <a href="#"><button type="button" class="btn btn-danger btn-lg">2016-2017</button></a>
+  <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">2016-2017</button></a>
 
 </div>
 <br>
