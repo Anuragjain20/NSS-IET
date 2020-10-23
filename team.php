@@ -57,7 +57,7 @@
 <!-- <br> -->
 
 <!--- Program officers-->
-<div class="container-fluid" style="background: linear-gradient(54deg, #9164ff, #8bfff4);">
+<div class="container-fluid">
 <div class="container subheading">Program Officers</div>
 <div class="container">
   <div class="row my-3">

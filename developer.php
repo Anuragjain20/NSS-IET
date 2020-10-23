@@ -17,7 +17,12 @@
 
  <link href="css/aos.css" rel="stylesheet">
  <script src="js/aos.js"></script>
+ <style>
+ .info{
 
+color:#695c5c;
+}
+</style>
 </head>
 <body>
 
@@ -32,7 +37,7 @@
 
   <!--head image of developer page-->
   <div class="text-center my-3">
-    <img src="images/developer/devlop.jpg" alt="developer image" class=" img-fluid">
+    <img src="images/developer/devlop.jpg" alt="developer image" class=" img-fluid team-img">
   </div>
 
 
@@ -49,6 +54,8 @@
         </div>
         <div class="team-content">
           <h3 class="name">Anurag Jain</h3>
+          <h5 class = "info">Information Technology Engineering</h5>
+          <h5 class="info">2019-23</h5>
           
         </div>
         <ul class="social-dev">
@@ -67,6 +74,8 @@
         </div>
         <div class="team-content">
           <h3 class="name">Mansee Pagare</h3>
+          <h5 class = "info">Information Technology Engineering</h5>
+          <h5 class="info">2019-23</h5>
           
         </div>
         <ul class="social-dev">
@@ -85,6 +94,8 @@
         </div>
         <div class="team-content">
           <h3 class="name">Sakshi Shastri</h3>
+          <h5 class = "info">Computer Science Engineering</h5>
+          <h5 class="info">2017-21</h5>
           
         </div>
         <ul class="social-dev">
@@ -107,7 +118,8 @@
       </div>
       <div class="team-content">
         <h3 class="name">Deepam Gupta</h3>
-
+        <h5 class = "info">Computer Science Engineering</h5>
+          <h5 class="info">2017-21</h5>
       </div>
       <ul class="social-dev">
         <li><a href="https://github.com/deepamgupta" target="_blank"><i class="fab fa-github"></i></a></li>
@@ -125,6 +137,8 @@
       </div>
       <div class="team-content">
         <h3 class="name">Sumit Kr Singh</h3>
+        <h5 class = "info">Computer Science Engineering</h5>
+          <h5 class="info">2017-21</h5>
 
       </div>
       <ul class="social-dev">

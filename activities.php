@@ -23,11 +23,11 @@
   <?php include 'includes/navbar.php';?>
 
   <!--events section-main-->
-  <div class="event-mainhead text-center  my-5">Activities</div>
+ 
 
   <!--celebrations-->
-  <div class="container-fluid my-3" id="celebration">
-    <div class="text-center h1 py-5 subheadings" >Celebrations</div>
+  <div class="container-fluid my-2 mt-4 py-2" id="celebration">
+    <div class="text-center h1 py-3 subheadings" >Celebrations</div>
 
     <!--first blog-->
     <div class="blog-card my-5">
@@ -110,8 +110,8 @@
   </div>
 </div>
 <!--health-->
-<div class="container-fluid my-5" id="health">
-  <div class="text-center h1 py-5 subheadings">Health</div>
+<div class="container-fluid my-2 py-2" id="health" style="background-color: #f8f8ff;">
+  <div class="text-center h1 py-3 subheadings">Health</div>
 
   <!--first blog-->
   <div class="blog-card alt my-5">
@@ -174,8 +174,8 @@
 </div>
 
 <!--awareness-->
-<div class="container-fluid my-5" id="awareness">
-  <div class="text-center h1 py-5 subheadings">Awareness</div>
+<div class="container-fluid my-2 py-2"  id="awareness">
+  <div class="text-center h1 py-3 subheadings">Awareness</div>
 
   <!--first blog-->
   <div class="blog-card  my-5">
