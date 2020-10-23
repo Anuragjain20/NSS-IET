@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>    
+<head>   
+ 
   <!--team css-->
   <link rel="stylesheet" href="css/team.css">
 
   <!--head php-->
   <?php include 'includes/head.php';?>
-
+<style>
+.body{
+  background: linear-gradient(54deg, #9164ff, #8bfff4);
+}
+></style>
 
 </head>
 <body>
@@ -56,6 +61,7 @@
 <!-- <br> -->
 
 <!--- Program officers-->
+
 <div class="container subheading">Program Officers</div>
 <div class="container">
   <div class="row my-3">
