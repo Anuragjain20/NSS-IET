@@ -33,3 +33,17 @@
    border: 2px solid black!important;
   box-shadow: 0 0 7px #00000091;
 }
+.card{
+ min-height: 370px;
+ max-width: 300px;
+
+}
+
+@media only screen and (max-width: 576px) {
+   .card{
+      min-height: 0px;
+      max-width: 300px;
+     
+     }
+
+}
