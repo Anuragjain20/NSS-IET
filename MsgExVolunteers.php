@@ -1,3 +1,9 @@
+<!doctype html>
+<html>
+<head>
+    <!--head php-->
+    <?php include 'includes/head.php';?>
+</head>
 <body>
 
     <div class="container">
