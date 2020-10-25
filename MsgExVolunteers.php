@@ -6,7 +6,13 @@
 </head>
 <body>
 
-    <div class="container">
+ <!-- Header -->
+    <?php include 'includes/header.php';?>
+
+ <!--nav-bar-->
+  <?php include 'includes/navbar.php';?> 
+    
+  <div class="container">
         <div class="d-flex flex-nowrap mt-3 p-3">
             <div class="p-4 align-self-center text-justify">
             <img src="Ravi_Waskale.jpg" class="blue-rounded-circle" alt="Ravi_Waskale"> 
