@@ -26,7 +26,7 @@
   <div class="container">
         <div class="d-flex flex-nowrap mt-3 p-3">
             <div class="p-4 align-self-center text-justify">
-            <img src="images/message/Ravi_Waskale.jpg" class="rounded-circle" alt="Ravi_Waskale"> 
+            <img src="images/message/Ravi_Waskale.jpg" class="blue-rounded-circle" alt="Ravi_Waskale"> 
             <h5>RAVI WASKALE</h5>
             <p class="text-center pt-0 mt-0">Electronics & Instrumentation Engineering, 2015-2019</p>
                  <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>मुझे पहले से ही सोशल वर्क करना अच्छा लगता था, और जब मुझे NSS के द्वारा
@@ -46,7 +46,7 @@
     <div class="container">
         <div class="d-flex flex-nowrap mt-3 p-3">
             <div class="p-4 align-self-center text-justify">
-            <img src="images/message/Deepika_Mukati.jpg" class="rounded-circle" alt="Deepika_Mukati"> 
+            <img src="images/message/Deepika_Mukati.jpg" class="green-rounded-circle" alt="Deepika_Mukati"> 
             <h5>DEEPIKA MUKATI</h5> 
             <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
                  <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #99ca11;"></i>
@@ -62,7 +62,7 @@
     <div class="container">
         <div class="d-flex flex-nowrap mt-3 p-3">
             <div class="p-4 align-self-center text-justify">
-            <img src="images/message/Sarvesh_Gupta.jpg" class="rounded-circle" alt="Sarvesh_Gupta"> 
+            <img src="images/message/Sarvesh_Gupta.jpg" class="blue-rounded-circle" alt="Sarvesh_Gupta"> 
             <h5>SARVESH GUPTA</h5> 
             <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
                  <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
@@ -80,7 +80,7 @@
     <div class="container">
         <div class="d-flex flex-nowrap mt-3 p-3">
             <div class="p-4 align-self-center text-justify">
-            <img src="images/message/Himanshu_Mishra.jpg" class="rounded-circle" alt="Himanshu_Mishra"> 
+            <img src="images/message/Himanshu_Mishra.jpg" class="green-rounded-circle" alt="Himanshu_Mishra"> 
             <h5>HIMANSHU MISHRA</h5> 
             <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
                  <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #99ca11;"></i>
@@ -98,7 +98,7 @@
     <div class="container">
         <div class="d-flex flex-nowrap mt-3 p-3">
             <div class="p-4 align-self-center text-justify">
-            <img src="images/message/Shrey_Nougarahiya.jpg" class="rounded-circle" alt="Shrey_Nougarahiya"> 
+            <img src="images/message/Shrey_Nougarahiya.jpg" class="blue-rounded-circle" alt="Shrey_Nougarahiya"> 
             <h5>SHREY NOUGARAHIYA</h5>
             <p class="text-center pt-0 mt-0">Electronics & Telecommunication Engineering, 2016-2020</p>
                  <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
@@ -114,7 +114,7 @@
     <div class="container">
         <div class="d-flex flex-nowrap mt-3 p-3">
             <div class="p-4 align-self-center text-justify">
-            <img src="images/message/Devendra_Kumar.jpg" class="rounded-circle" alt="Devendra_Kumar"> 
+            <img src="images/message/Devendra_Kumar.jpg" class="green-rounded-circle" alt="Devendra_Kumar"> 
             <h5>DEVENDRA KUMAR AHIRWAR</h5> 
             <p class="text-center pt-0 mt-0">Electronics & Telecommunication Engineering, 2016-2020</p>
                  <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #99ca11;"></i>
@@ -131,7 +131,7 @@
     <div class="container">
         <div class="d-flex flex-nowrap mx-3 p-3">
             <div class="p-4 align-self-center text-justify">
-            <img src="images/message/Rakshita_Singhal.jpg" class="rounded-circle" alt="Rakshita_Singhal"> 
+            <img src="images/message/Rakshita_Singhal.jpg" class="blue-rounded-circle" alt="Rakshita_Singhal"> 
             <h5>RAKSHITA SINGHAL</h5> 
             <p class="text-center pt-0 mt-0">Computer Engineering, 2016-2020</p>
                  <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
