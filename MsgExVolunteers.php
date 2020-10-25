@@ -1,9 +1,16 @@
 <!doctype html>
 <html>
 <head>
+ <!--external css-->
+   
+    <link  rel="stylesheet" href="css/MsgExVolunteers.css ">
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>  
+    
     <!--head php-->
     <?php include 'includes/head.php';?>
 </head>
+    
+    
 <body>
 
  <!-- Header -->
