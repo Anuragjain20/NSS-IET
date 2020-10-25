@@ -11,6 +11,10 @@
 
  <!--nav-bar-->
   <?php include 'includes/navbar.php';?> 
+ 
+ <div class="container-fluid text-center font-weight-bold">
+        <h3 style="margin-top: 30px; margin-bottom:30px;">Messages from Ex-Volunteers</h3>
+ </div>   
     
   <div class="container">
         <div class="d-flex flex-nowrap mt-3 p-3">
