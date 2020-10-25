@@ -10,13 +10,20 @@
   <!--head php-->
   <?php include 'includes/head.php';?>
   <style>
-  .act-head{
-    background-color: #24d6da;
-    border-radius: 15px;
-}
+    .act-head{
+      background-color: #24d6da;
+      border-radius: 20px;
+      padding: 5px;
+      margin-left: 10px;
+      margin-right: 10px;
+      display: block;
+      text-align: center;
+      text-transform: capitalize;
+      box-shadow: 4px 2px 4px #888888;
+    }
   }
   
-  </style>
+</style>
 
 </head>
 <body>
@@ -31,7 +38,7 @@
   <?php include 'includes/navbar.php';?>
 
   <!--events section-main-->
- 
+
 
   <!--celebrations-->
   <div class="container-fluid my-2 mt-4 py-2" id="celebration">

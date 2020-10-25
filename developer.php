@@ -18,10 +18,10 @@
  <link href="css/aos.css" rel="stylesheet">
  <script src="js/aos.js"></script>
  <style>
- .info{
+   .info{
 
-color:#695c5c;
-}
+    color:#695c5c;
+  }
 </style>
 </head>
 <body>
@@ -45,18 +45,18 @@ color:#695c5c;
   <!--developers-->
   <div class="container-fluid my-3">
 
-    <h3 align="center" class= "my-2">Developer Team </h3>
+    <h2 align="center" class= "my-2">Developer Team </h2>
     <div class="row">
      <div class="col-10 col-sm-8 col-md-4 col-lg-3  mx-auto my-3" data-aos="flip-up" data-aos-duration="2000">
       <div class="our-team mx-auto">
         <div class="pic-dev">
-        <img class="img-fluid" src="images/developer/Anurag.jpeg" style="height: inherit;">
+          <img class="img-fluid" src="images/developer/Anurag.jpeg" style="height: inherit;">
         </div>
         <div class="team-content">
           <h3 class="name">Anurag Jain</h3>
           <h6 class = "info">Information Technology</h6>
           <h6 class = "info">Engineering</h6>
-          <h6 class="info">2019-23</h6>
+          <h6 class="info">2019-2023</h6>
           
         </div>
         <ul class="social-dev">
@@ -77,7 +77,7 @@ color:#695c5c;
           <h3 class="name">Mansee Pagare</h3>
           <h6 class = "info">Information Technology</h6>
           <h6 class = "info">Engineering</h6>
-          <h6 class="info">2019-23</h6>
+          <h6 class="info">2019-2023</h6>
           
         </div>
         <ul class="social-dev">
@@ -96,9 +96,9 @@ color:#695c5c;
         </div>
         <div class="team-content">
           <h3 class="name">Sakshi Shastri</h3>
-          <h6 class = "info">Computer Science</h6>
+          <h6 class = "info">Electronics & Instrumentation</h6>
           <h6 class = "info">Engineering</h6>
-          <h6 class="info">2017-21</h6>
+          <h6 class="info">2017-2021</h6>
           
         </div>
         <ul class="social-dev">
@@ -123,7 +123,7 @@ color:#695c5c;
         <h3 class="name">Deepam Gupta</h3>
         <h6 class = "info">Computer Science</h6>
         <h6 class = "info">Engineering</h6>
-          <h6 class="info">2017-21</h6>
+        <h6 class="info">2017-2021</h6>
       </div>
       <ul class="social-dev">
         <li><a href="https://github.com/deepamgupta" target="_blank"><i class="fab fa-github"></i></a></li>
@@ -143,7 +143,7 @@ color:#695c5c;
         <h3 class="name">Sumit Kr Singh</h3>
         <h6 class = "info">Computer Science</h6>
         <h6 class = "info">Engineering</h6>
-          <h6 class="info">2017-21</h6>
+        <h6 class="info">2017-2021</h6>
 
       </div>
       <ul class="social-dev">
@@ -174,8 +174,8 @@ color:#695c5c;
 
 
 <script>
-    AOS.init();
-  </script>
+  AOS.init();
+</script>
 
 
 
