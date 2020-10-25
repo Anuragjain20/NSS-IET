@@ -14,12 +14,15 @@
       background-color: #24d6da;
       border-radius: 20px;
       padding: 5px;
-      margin-left: 10px;
-      margin-right: 10px;
-      display: block;
+      padding-left:50px;
+      padding-right: 50px; 
+      display: inline-block;
       text-align: center;
       text-transform: capitalize;
       box-shadow: 4px 2px 4px #888888;
+    }
+    h1{
+      text-align: center;
     }
   }
   
