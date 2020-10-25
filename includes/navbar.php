@@ -20,7 +20,7 @@
                     <a class="dropdown-item" href="our-motto.php">About NSS</a>
                     <a class="dropdown-item" href="team.php">Our Team</a>
                      <a class="dropdown-item" href="messages.php">Messages</a>
-                    <a class="dropdown-item" href="MsgExVolunteers.php">Messages from Ex-volunteers</a>
+                    <a class="dropdown-item" href="MsgExVolunteers.php">Messages from <br> Ex-volunteers</a>
                   </div>
                 </li>
                 
