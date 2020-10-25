@@ -105,7 +105,7 @@
     </div>
 
     <div class="container">
-        <div class="d-flex flex-nowrap mt-3 p-3">
+        <div class="d-flex flex-nowrap mx-3 p-3">
             <div class="p-4 align-self-center text-justify">
             <img src="Rakshita_Singhal.jpg" class="blue-rounded-circle" alt="Rakshita_Singhal"> 
             <h5>RAKSHITA SINGHAL</h5> 
