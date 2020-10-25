@@ -41,10 +41,12 @@ opacity: 0;
 opacity: 1;
 }
 .col-sm-4:hover .background {
-  background-color:rgb(240, 232, 232);
+  background-color:#f7f7f7;
   }
 .text {
-  font-family: 'Rye';font-size:20px;color:rgb(243, 115, 115);
+  font-family: 'Rye';
+    font-size:20px;
+    color:#e3bc10;
   font-weight: 600;  
   text-align:center ;
   margin:auto;
