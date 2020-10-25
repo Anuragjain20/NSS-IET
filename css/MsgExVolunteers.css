@@ -1,8 +1,8 @@
-        .rounded-circle
+        .green-rounded-circle
         {
         width: 180px;
         height: 180px;
-        border:5px solid #fffff7;
+        border:5px solid #99ca11;
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -14,6 +14,23 @@
         -webkit-border-radius:180px;
         border-radius:180px;
         }
+        .blue-rounded-circle
+        {
+        width: 180px;
+        height: 180px;
+        border:5px solid #123c69;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 15px; 
+        -moz-box-shadow: 0px 6px 5px #ccc;
+        -webkit-box-shadow: 0px 6px 5px #ccc;
+        box-shadow: 0px 6px 5px #ccc;
+        -moz-border-radius:180px;
+        -webkit-border-radius:180px;
+        border-radius:180px;
+        }
+        
         
         .d-flex
         {
