@@ -1,6 +1,6 @@
   <!--Intro-->
-<div class="container p-2" style="background-color: #f7f7f7; margin-top:30px;">
-  <h4 class="text-justify"><b> Welcome to the official website of the IET-DAVV unit of NSS.</b></h4><br>
+<div class="container text-justify p-3" style="background-color: #f7f7f7; margin-top:30px;">
+  <h4><b> Welcome to the official website of the IET-DAVV unit of NSS.</b></h4><br>
 <h5> National Service Scheme (NSS) is a voluntary organization launch in Gandhiji's birth centenary, 1969. It is a Central Sector Scheme of Government of India,
 Ministry of Youth Affairs & Sports. 
  The program aims to promote personality development by means of participation in various government led community service activities & programs.
