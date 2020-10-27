@@ -6,7 +6,9 @@
       Ministry of Youth Affairs & Sports. 
      It provides opportunity to the student youth of technical institutions like us to take part in various government led community service activities & programmes. 
       The program aims to promote personality development by means of participation in various community service activities. <br>
-      Read more >>
+  
+      <a href="our-motto.php">Read more >></a>
+      
     </h5>
   </div>
 
