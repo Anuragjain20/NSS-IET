@@ -6,9 +6,10 @@
     }
 
     .about{
-      box-shadow:2px 8px 11px #888888;
+      box-shadow:2px 8px 11px #d4d4d4 ;
       background-color: #fffff7;
       border-radius: 20px;
+      border: 1px solid #cac8c8;
     }
     .s-heading{
 
