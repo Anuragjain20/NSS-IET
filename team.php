@@ -202,13 +202,15 @@
   <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">2016-2017</button></a>
 
 </div>
-<br>
-<br>
+
 
 <hr>
 
+<br>
+
 
 <!---Our Reach --> 
+<div class="jumbotron jumbotron-fluid">
 <div class="subheading"> Our Reach</div>
 <br>
 <br>
@@ -243,7 +245,8 @@
   </div>
 
 </div>
-<hr>
+
+</div>
 </div>
 
 <!--footer-->

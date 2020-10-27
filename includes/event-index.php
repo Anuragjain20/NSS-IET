@@ -11,8 +11,8 @@
       
     </h5>
   </div>
-
   <h4 class="headingshp my-5"  data-aos="fade-in" >Activities</h4>
+
 
   <div class="container-fluid background">
     <div class="row my-5">

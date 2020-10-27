@@ -1,7 +1,6 @@
-.ReadMore:hover
-{ text-decoration : underline;
+.ReadMore:hover{ 
+  text-decoration : underline;
 }
-
 
 .headingshp{
   text-align:center ;
@@ -9,9 +8,9 @@
   margin:auto;
   font-size: 2.4rem;
 }
+
 .background{
   background-color:white;
-
 }
 .image {
   opacity: 1;
@@ -50,9 +49,11 @@
 }
 .text {
   font-family: 'Rye';
+  color:black;
   font-size:20px;
   color:#e3bc10;
   font-weight: 600;  
-  text-align:center ;
+  text-align:center;
   margin:auto;
 }
+

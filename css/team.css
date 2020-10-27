@@ -1,23 +1,23 @@
 .card{
   
   box-shadow: 2px 2px 4px 2px #908d8d;
-  border-radius:10px 10px;
+ border-radius:10px 10px;
 }
 .card:hover{
   
   box-shadow: 2px 2px 20px grey;
-  border-radius:15px 15px;
+border-radius:15px 15px;
 }
 .card-body a:hover{
-  text-decoration:None;
+text-decoration:None;
 }
 
 .card-body a{
-  color:grey;
+color:grey;
 }
 
 .card-text{
-  color:grey;
+color:grey;
 }
 
 
@@ -44,36 +44,36 @@
 }
 
 .img-s{
- border-radius:50%;margin: auto;
- border: 5px solid black;
- width:160px;
- height: 150px!important;
+   border-radius:50%;margin: auto;
+  border: 5px solid black;
+  width:160px;
+  height: 150px!important;
  
 
- 
+  
 }
 .card-title{
   text-align:center;
   color:darkblue;
 }
-
+ 
 
 .heading-team{
   background-color:white;
-  
+ 
   font-size: 40px;
   margin-bottom: 30px;
   text-align: center;
   font-weight: bold;
-  
+   
 }
 .subheading{
-  font-size: 30px;
+    font-size: 30px;
   
-  text-align:center;
-  font-weight: bold;
-  margin-top: 30px ;
-  
+    text-align:center;
+   font-weight: bold;
+   margin-top: 30px ;
+ 
 }
 
 
@@ -97,4 +97,3 @@
   }
 
 }
-

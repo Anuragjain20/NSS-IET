@@ -51,8 +51,9 @@
   color: #350000;
   /*font-weight: 600;*/
   /*font-style: italic;*/
-  font-family: cursive;
+/*   font-family: cursive; */
   font-size: 18px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .parallax-box{
@@ -61,3 +62,4 @@
   padding: 40px 10px 10px 20px;
   margin: 10px;
 }
+
