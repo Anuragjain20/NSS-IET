@@ -18,22 +18,22 @@
 
 
 /*media queries*/
- 
 
-  @media only screen and (max-width: 576px) {
+
+@media only screen and (max-width: 576px) {
     .nss{
         font-size: 3.2vw;
-    
+        
     }
     .institute{
         font-size: 1.9vw;
         line-height: 1.9vw;
     }
-   .head-logo{
-    height: auto;
-    width: 12vw;
+    .head-logo{
+        height: auto;
+        width: 12vw;
 
-   }
-  
-   
-  }
+    }
+    
+    
+}

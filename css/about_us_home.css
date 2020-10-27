@@ -1,6 +1,6 @@
 .parallax {
   /* The image used */
-  background-image: url("../images/nss123.jpg");
+  background-image: url("../images/Nss.jpeg");
   ;
   /* Set a specific height */
   height: 100%; 
@@ -15,7 +15,7 @@
 
 }
 
-.enroll-section {
+/*.enroll-section {
   position: relative;
 }
 
@@ -26,10 +26,10 @@
   height: 100%;
   left: 0;
   top: 0;
-  background: white;
-  opacity: 0.5;
+  background: #d4c245b1;
+  opacity: 0.6;
 }
-
+*/
 .enroll-section .container {
   position: relative;
   z-index: 1;
@@ -44,13 +44,22 @@
   padding-bottom: 90px;
 }
 .htext{
-  color:black;
-  font-weight: 700;
+  color: #731000;
+  /*font-weight: 700;*/
 }
-.dtext{ color:black;
-  font-weight: 400;
+.dtext{
+  color: #350000;
+  /*font-weight: 600;*/
+  /*font-style: italic;*/
+/*   font-family: cursive; */
+  font-size: 18px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
-
-
 }
+
+.parallax-box{
+  background-color: #a3ffecdb;
+  border-radius: 30px 0px 30px 0px;
+  padding: 40px 10px 10px 20px;
+  margin: 10px;
+}
+
