@@ -10,34 +10,37 @@
     <div class="carousel-inner">
       <div class="carousel-item active ">
         <img class="d-block w-100 customcarousel" src="images/carousel/carousel1.jpg" alt="First slide">
-       <div class="carousel-caption py-1">
-          <h3>Event name</h3>
+       <div class="carousel-caption py-2">
+          <h4>Event name</h4>
         </div>
       </div>
       
       <div class="carousel-item">
         <img class="d-block w-100 customcarousel" src="images/carousel/carousel2.jpg" alt="Second slide">
-      <div class="carousel-caption py-1 ">
-          <h3>Event name</h3>
+      <div class="carousel-caption py-2 ">
+          <h4>Event name</h4>
         </div>
       </div>
       
       <div class="carousel-item">
         <img class="d-block w-100 customcarousel" src="images/carousel/carousel3.jpg" alt="Third slide">
-       <div class="carousel-caption py-1">
-          <h3>Event name</h3>
+       <div class="carousel-caption py-2">
+          <h4>Event name</h4>
         </div>
       </div>
       
       <div class="carousel-item">
           <img class="d-block w-100 customcarousel" src="images/carousel/carousel4.jpg" alt="Fourth slide">
-      <div class="carousel-caption py-1">
-          <h3>Event name</h3>
+      <div class="carousel-caption py-2">
+          <h4>Event name</h4>
         </div>
       </div>
       
      <!-- <div class="carousel-item">
           <img class="d-block w-100 customcarousel" src="images/carousel/carousel5.jpg" alt="Fifth slide">
+      <div class="carousel-caption py-2">
+          <h4>Event name</h4>
+        </div>
       </div>-->
    </div>
    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
