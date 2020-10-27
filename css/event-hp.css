@@ -1,6 +1,4 @@
-.ReadMore:hover{ 
-  text-decoration : underline;
-}
+
 
 .headingshp{
   text-align:center ;
@@ -49,7 +47,7 @@
 }
 .text {
   font-family: 'Rye';
-  font-size:30px;
+  font-size:25px;
   color:#e3bc10;
   font-weight: 600;  
   text-align:center;
