@@ -68,7 +68,7 @@
 
       <img src="images/Team/ssk.jpg" alt="image2"class="img-s mt-3 img-fluid">
       <div class="card-body">
-       <h5 class="card-title">Prof. Shailendra Singh Khinchi</h5>
+       <h5 class="card-title">Dr. Shailendra Singh Khinchi</h5>
        <h6 class="card-text"> Faculty, Applied Science Department</h6>
        <a href="mailto:skhinchi@ietdavv.edu.in">skhinchi@ietdavv.edu.in</a>
      </div>
@@ -100,7 +100,7 @@
 
 
 
-
+<!--
 <!--- Faculties-->
 <div class="container subheading">Faculty Advisers</div>
 <br>
@@ -113,7 +113,7 @@
        <div class="card-body">
          <h5 class="card-title">Full Name</h5>
          <h6 class="card-text"> Designation</h6>
-         <a href="mailto:stokekar@ietdavv.edu.in">emailaddress@gmail.com</a>
+         <a href="mailto:     ">emailaddress@gmail.com</a>
        </div>
      </div>
    </div>
@@ -125,7 +125,7 @@
      <div class="card-body">
        <h5 class="card-title">Full Name</h5>
        <h6 class="card-text"> Designation</h6>
-       <a href="mailto:stokekar@ietdavv.edu.in">emailaddress@gmail.com</a>
+       <a href="mailto:    ">emailaddress@gmail.com</a>
      </div>
    </div>
  </div>
@@ -137,7 +137,7 @@
    <div class="card-body">
      <h5 class="card-title">Full Name</h5>
      <h6 class="card-text"> Designation</h6>
-     <a href="mailto:stokekar@ietdavv.edu.in">emailaddress@gmail.com</a>
+     <a href="mailto:   ">emailaddress@gmail.com</a>
    </div>
  </div>
 </div>
@@ -145,7 +145,7 @@
 </div>
 
 </div>
-
+-->
 <!---head- Volunteers-->
 
 <div class="container subheading">Head Volunteers</div>
@@ -155,11 +155,11 @@
     <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
      <div class="card text-center" >
 
-      <img src="images/Team/image2.jfif" alt="image2"class="img-s mt-3 img-fluid">
+      <img src="images/Team/image2.jfif" alt="Ravi_Kumar" class="img-s mt-3 img-fluid">
       <div class="card-body">
-       <h5 class="card-title">Full Name</h5>
-       <h6 class="card-text"> Designation</h6>
-       <a href="mailto:skhinchi@ietdavv.edu.in">emailaddress@gmail.com</a>
+       <h5 class="card-title">Ravi Kumar</h5>
+       <h6 class="card-text"> Head-Boy</h6>
+       <a href="mailto:raviraj18122@gmail.com">raviraj18122@gmail.com</a>
      </div>
    </div>
  </div>
@@ -168,11 +168,11 @@
  <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
    <div class="card text-center" >
 
-    <img src="images/Team/image2.jfif" alt="image2" class="img-s mt-3 img-fluid">
+    <img src="images/Team/image2.jfif" alt="Ankita_Giri" class="img-s mt-3 img-fluid">
     <div class="card-body">
-      <h5 class="card-title">Full Name</h4>
-       <h6 class="card-text">Designation</h5>
-         <a href="mailto:storgal@ietdavv.edu.in">emailaddress@gmail.com</a>
+      <h5 class="card-title">Ankita Giri</h4>
+       <h6 class="card-text">Head-Girl</h5>
+         <a href="mailto:    ">emailaddress@gmail.com</a>
 
        </div>
      </div>
