@@ -28,9 +28,11 @@
   
 <!--motto-->
    <!--page-name-->
-  
+ 
    <div class="container-fluid pagename my-5">About NSS</div>
-
+   
+<div class="container-fluid background"> 
+     
   <div class="container about my-5 py-3">
     <!--motto-->
     <div class=" s-heading mt-3">OUR MOTTO</div>
@@ -72,7 +74,7 @@ All the works that we did in recent years can be broadly categorised into :</p>
 
  </div>
    
-
+   </div>
 
 
 
