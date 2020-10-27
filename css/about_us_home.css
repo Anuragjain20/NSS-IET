@@ -1,6 +1,6 @@
 .parallax {
   /* The image used */
-  background-image: url("../images/Nss.jpeg");
+  background-image: url("../images/nss123.jpg");
   ;
   /* Set a specific height */
   height: 100%; 
@@ -26,8 +26,8 @@
   height: 100%;
   left: 0;
   top: 0;
-  background: #d4c245b1;
-  opacity: 0.6;
+  background: white;
+  opacity: 0.5;
 }
 
 .enroll-section .container {
@@ -44,12 +44,13 @@
   padding-bottom: 90px;
 }
 .htext{
-  color: #731000;
+  color:black;
   font-weight: 700;
 }
-.dtext{
-  color: #350000;
-  font-weight: 900;
+.dtext{ color:black;
+  font-weight: 400;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 
 
 }
