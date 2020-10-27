@@ -3,6 +3,7 @@
 <head>
     <!--head php-->
     <?php include 'includes/head.php';?>
+    <title>Messages | National Service Scheme,IET-DAVV</title>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" rel="stylesheet" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" rel="stylesheet" />
     <style>
@@ -12,17 +13,36 @@
     }
 
     .profile-pic {
-        width: 150px !important;
-        height: 150px;
-        box-shadow: 0px 4px 8px 0px #BDBDBD
+        width: 180px;
+            height: 180px;
+            border:5px solid  #fffff7;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 15px; 
+            -moz-box-shadow: 0px 6px 5px #ccc;
+            -webkit-box-shadow: 0px 6px 5px #ccc;
+            box-shadow: 0px 6px 5px #ccc;
+            -moz-border-radius:180px;
+            -webkit-border-radius:180px;
+            border-radius:50%;
+            object-fit: cover;
+    object-position: top;
     }
     .msg-p{
-         min-height:730px;
+         min-height:800px;
          
     }
     .card{
-        border: 2px solid #212020!important;
+    
+        border: 1px solid #a3863e!important;
+            border-radius: 20px;
+            background-color: #fffff7;
     }
+    .card:hover{
+        box-shadow: 0 4px 8px 0 rgba(99, 99, 99, 0.2), 0 6px 20px 0 rgba(128, 128, 128, 0.19);
+    }
+    
  
 
 
@@ -70,8 +90,9 @@
                 <div class="row justify-content-center"> <img src="images/message/sanjiv.jpg" alt="director iet-davv" class="img-fluid profile-pic mb-4 mt-3"> </div>
                 <h5 class="mb-3 mt-2">Dr. Sanjiv Tokekar</h5>
                 <h6 class="mb-3 mt-2">Director, IET-DAVV</h6>
-                <i class="fa fa-quote-right" style="font-size:40px;"></i>
-                <p class="content mb-5 mx-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum iure ab nihil animi laudantium necessitatibus odio nobis, cumque sequi, ducimus odit? Recusandae rem velit corporis cupiditate excepturi officia maiores eveniet.</p>
+                
+                <p class="content mb-5 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum iure ab nihil animi laudantium necessitatibus odio nobis, cumque sequi, ducimus odit? Recusandae rem velit corporis cupiditate excepturi officia maiores eveniet.
+                <br><i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i></p>
             </div>
 
         </div>   
@@ -84,10 +105,12 @@
                         <div class="row justify-content-center"> <img src="images/message/ssk.jpg" alt="program officer boys unit" class="img-fluid profile-pic mb-4 mt-3"> </div>
                         <h5 class="mb-3 mt-2">Dr. Shailendra Singh Khinchi</h5>
                         <h6 class="mb-3 mt-2">Program Officer</h6>
-                        <i class="fa fa-quote-right" style="font-size:40px;"></i>
-                        <p class="content mb-4 mx-2"> 
+                      
+                        <p class="content mb-4 mx-2"> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
                             <b>" The flower that blooms in adversity is the most rare and beautiful of all " <br><span class="d-block text-right" style="text-align: right;">-  Walt Disney.</span></b>
-                            <br> The quote speaks so much about our NSS volunteers I look at them as the flowers that dare to be different from the rest. Our dignitaries are soaring high with the promise of a bright future of our volunteers. Its uniqueness lies in its flexibility to adapt to respond to the changing perspective of social scenerio  and to be open to the new horizons  of growth and excellence. I would like to appreciate the entire team for a job well done and for their whole hearted involvement to take NSS to such great heights. I  congratulate all for  their tireless efforts and hard work for the launching of NSS IET-DAVV  website. I also thank our Director Dr. Sanjeev Tokekar for his constant support and encouragement. With warm wishes and God's blessings.</p>
+                            <br> The quote speaks so much about our NSS volunteers I look at them as the flowers that dare to be different from the rest. Our dignitaries are soaring high with the promise of a bright future of our volunteers. Its uniqueness lies in its flexibility to adapt to respond to the changing perspective of social scenerio  and to be open to the new horizons  of growth and excellence. I would like to appreciate the entire team for a job well done and for their whole hearted involvement to take NSS to such great heights. I  congratulate all for  their tireless efforts and hard work for the launching of NSS IET-DAVV  website. I also thank our Director Dr. Sanjeev Tokekar for his constant support and encouragement. With warm wishes and God's blessings.
+                            <br><i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i></p>
+                           
                         </div>
                     </div>
                     <div class="col-lg-6 my-5">
@@ -95,14 +118,16 @@
                             <div class="row justify-content-center"> <img src="images/message/suwarna.jpg" alt="Dr. Suwarna Torgal program officer girls unit"class="img-fluid profile-pic mb-4 mt-3"> </div>
                             <h5 class="mb-3 mt-2">Dr. Suwarna Torgal</h5>
                             <h6 class="mb-3 mt-2">Program Officer</h6>
-                            <i class="fa fa-quote-right" style="font-size:40px;"></i>
-                            <p class="content mb-4  mt-5 mx-2"> "The flower that blooms in adversity is the most rare and beautiful of all" -  Walt Disney. The quote speaks so much about our NSS volunteers I look at them as the flowers that dare to be different from the rest. Our dignitaries are soaring high with the promise of a bright future of our volunteers. Its uniqueness lies in its flexibility to adapt to respond to the changing perspective of social scenerio  and to be open to the new horizons  of growth and excellence. I would like to appreciate the entire team for a job well done and for their whole hearted involvement to take NSS to such great heights. I  congratulate all for  their tireless efforts and hard work for the launching of NSS IET-DAVV  website. I also thank our Director Dr. Sanjeev Tokekar for his constant support and encouragement. With warm wishes and God's blessings.</p>
+                           
+                            <p class="content mb-4  mt-5 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br> "The flower that blooms in adversity is the most rare and beautiful of all" -  Walt Disney. The quote speaks so much about our NSS volunteers I look at them as the flowers that dare to be different from the rest. Our dignitaries are soaring high with the promise of a bright future of our volunteers. Its uniqueness lies in its flexibility to adapt to respond to the changing perspective of social scenerio  and to be open to the new horizons  of growth and excellence. I would like to appreciate the entire team for a job well done and for their whole hearted involvement to take NSS to such great heights. I  congratulate all for  their tireless efforts and hard work for the launching of NSS IET-DAVV  website. I also thank our Director Dr. Sanjeev Tokekar for his constant support and encouragement. With warm wishes and God's blessings.
+                            <br><i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i></p>
                         </div>
                     </div>
                 </div>
 
 
             </div>
+            
 
          
 

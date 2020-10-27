@@ -6,6 +6,7 @@
 
  <!--head php-->
  <?php include 'includes/head.php';?>
+ <title>Home | National Service Scheme,IET-DAVV</title>
 
  <!--external css-->
 

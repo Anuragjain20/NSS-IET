@@ -12,8 +12,10 @@
  margin-top: -30px;
  border-radius: 50%;
  border: 2px solid #292626;
- height: 150px!important;
- width: 150px;
+ height: 130px!important;
+ width: 130px;
+ object-fit: cover;
+ object-position: top;
  
 }
 

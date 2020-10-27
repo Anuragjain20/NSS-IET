@@ -65,6 +65,7 @@ function display_activity($activity_type, $color)
   <title>NSS Gallery</title>
   <!--head php-->
   <?php include 'includes/head.php';?>
+  <title>Gallery | National Service Scheme,IET-DAVV</title>
 
   <!--external css-->
 

@@ -9,6 +9,7 @@
 
   <!--head php-->
   <?php include 'includes/head.php';?>
+  <title>Activities | National Service Scheme,IET-DAVV</title>
   <style>
     .act-head{
       background: linear-gradient(to top left, #0066cc 0%, #0e3778 100%);
