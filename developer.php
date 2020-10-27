@@ -44,7 +44,7 @@
 
 
 <!--developers-->
-<div class="container-fluid m-3">
+<div class="container-fluid ">
 
   <h2 align="center" class= "mt-5">Developer Team </h2>
   <div class="row mt-4">
