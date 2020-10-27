@@ -41,21 +41,24 @@
 
             <div class=" footcol-2"> 
               <ul class="footcol-21 ">
+                <a href="activities.php" class="footlinks"><li>Activities</li></a> 
                 <a href="gallery.php" class="footlinks"><li>Gallery</li></a>
-                <a href="team.php" class="footlinks"><li>Team</li></a>
+                <a href="team.php" class="footlinks"><li>Team</li></a>                
+
                 <a href="contact-us.php" class="footlinks"><li>Contact Us</li></a>
-                <a href="#" class="footlinks"><li>Feedback</li></a>
               </ul>
             </div>
             <div class="footcol-2" >
               <ul class="footcol-22 " >
-                <a href="activities.php" class="footlinks"><li>Activities</li></a> 
-                <a href="https://nss.gov.in/" class="footlinks" target="_blank"><li>NSS India</li></a>            
                 <a href="https://www.dauniv.ac.in/" class="footlinks" target="_blank"><li>DAVV</li></a>
-                <a href="http://www.ietdavv.edu.in/" class="footlinks" target="_blank"><li>IET</li></a>
+                <a href="https://nss.gov.in/faq" target="_blank" class="footlinks"><li>FAQs</li></a>
+                <a href="https://nss.gov.in/" class="footlinks" target="_blank"><li>NSS India</li></a>            
+                <a href="https://forms.gle/6ddJbQsPQnUksuWEA" target="_blank" class="footlinks"><li>Feedback</li></a>
+
+
               </ul>
             </div>
-            
+
           </div>
         </div>
 
@@ -68,13 +71,13 @@
              <a href="https://www.facebook.com/NSSIET" class ="mx-2" target="_blank"><i class='fab fa-facebook ' style="color: darkblue;"></i></a>
 
              <a href="https://www.youtube.com/channel/UCS3vch09BK4Zvf8GoIjlmMw/featured" class ="mx-2" target="_blank"><i class='fab fa-youtube' style="color: red;"></i></a>
-             
+
              <!--<a href="#"><i class='fab fa-wordpress' style="color: blue;"></i></a>-->
 
-             
+
            </div>
          </div>
-         
+
          <div class="row my-2">
           <div class="col-12 ">
             <div class=" h4 text-center "><a href="developer.php" class="developers">Developers</a></div>

@@ -11,6 +11,8 @@
   <?php include 'includes/head.php';?>
   <style>
     .act-head{
+      background: linear-gradient(to top left, #0066cc 0%, #0e3778 100%);
+      color: white;
       background-color: #24d6da;
       border-radius: 20px;
       padding: 5px;
