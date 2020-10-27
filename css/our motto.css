@@ -4,10 +4,14 @@
       text-align: center;
       font-weight: bold;
     }
+    
+    .background{
+        background-image: url("images/nss.gif");
+                }
 
     .about{
       box-shadow:2px 2px 20px 0px black;
-      background:linear-gradient(54deg, #9164ff, #8bfff4);
+      background-color : f5fffdb8;
       
     }
     .s-heading{
