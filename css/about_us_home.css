@@ -11,11 +11,11 @@
   background-attachment: fixed;
   background-position:center;
   background-repeat: repeat-y;
-  /*  background-size:cover;*/
+  /*background-size:cover;*/
 
 }
 
-/*.enroll-section {
+.enroll-section {
   position: relative;
 }
 
@@ -26,10 +26,10 @@
   height: 100%;
   left: 0;
   top: 0;
-  background: #d4c245b1;
-  opacity: 0.6;
+  background: #201f1ec9;
+  opacity: 0.5;
 }
-*/
+
 .enroll-section .container {
   position: relative;
   z-index: 1;
@@ -51,7 +51,7 @@
   color: #350000;
   /*font-weight: 600;*/
   /*font-style: italic;*/
-/*   font-family: cursive; */
+  /*   font-family: cursive; */
   font-size: 18px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -61,5 +61,6 @@
   border-radius: 30px 0px 30px 0px;
   padding: 40px 10px 10px 20px;
   margin: 10px;
+  /*background: linear-gradient(to bottom right, #83d7c7f0 30%, #3d82f1e8 100%);*/
 }
 
