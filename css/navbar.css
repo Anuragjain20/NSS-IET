@@ -5,10 +5,10 @@
 }
 
 .dropdown-menu {
-background-color: #123c69;
+    background-color: #123c69;
 
-box-shadow: 2px 3px 6px 1px black;
-font-size: 1.2rem;
+    box-shadow: 2px 3px 6px 1px black;
+    font-size: 1.2rem;
 } 
 .dropdown-item{
     color: white;
@@ -29,7 +29,7 @@ font-size: 1.2rem;
     border-radius: 8px;
 }
 .btn{
-font-size: 1.2rem;
+    font-size: 1.2rem;
 }
 .nav-link{
     color: white !important;

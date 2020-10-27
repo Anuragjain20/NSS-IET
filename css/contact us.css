@@ -1,37 +1,37 @@
 .contact-card{
-   border-radius: 15px 15px!important;
-   background-color: rgb(255 255 255)!important;
-   border: 2px solid #292626!important;
-    box-shadow: 0 0 7px #00000091;
-  
+ border-radius: 15px 15px!important;
+ background-color: rgb(255 255 255)!important;
+ border: 2px solid #292626!important;
+ box-shadow: 0 0 7px #00000091;
+ 
 }
 .contact-card:hover{
-   box-shadow: 0 0 2px  #00000091;
+ box-shadow: 0 0 2px  #00000091;
 }
 .cont-img{
-   margin-top: -30px;
-   border-radius: 50%;
-   border: 2px solid #292626;
-   height: 150px!important;
-   width: 150px;
-   
+ margin-top: -30px;
+ border-radius: 50%;
+ border: 2px solid #292626;
+ height: 150px!important;
+ width: 150px;
+ 
 }
 
- .heading-contact{
+.heading-contact{
 
-    font-size: 40px;
-    margin-bottom: 30px;
-    text-align: center;
-    font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: bold;
 
- } 
+} 
 
 .cont-address{
-   border-radius: 15px !important;
-   
-   background-color: rgb(255 255 255)!important;
-   border: 2px solid black!important;
-  box-shadow: 0 0 7px #00000091;
+ border-radius: 15px !important;
+ 
+ background-color: rgb(255 255 255)!important;
+ border: 2px solid black!important;
+ box-shadow: 0 0 7px #00000091;
 }
 .card{
  min-height: 370px;
@@ -40,10 +40,10 @@
 }
 
 @media only screen and (max-width: 576px) {
-   .card{
-      min-height: 0px;
-      max-width: 300px;
-     
-     }
+ .card{
+  min-height: 0px;
+  max-width: 300px;
+  
+}
 
 }

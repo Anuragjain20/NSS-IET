@@ -1,8 +1,8 @@
     .pagename{
       font-size: 40px;
-    margin-bottom: 30px;
-    text-align: center;
-    font-weight: bold;
+      margin-bottom: 30px;
+      text-align: center;
+      font-weight: bold;
     }
 
     .about{
@@ -16,8 +16,8 @@
       font-size: 30px;
       font-weight:bold;
       color:white;
-    
- 
+      
+      
 
 
     }
@@ -34,6 +34,6 @@
 
     }
     .text-m{
-       color :black;
-       font-weight: bold;
-    }
+     color :black;
+     font-weight: bold;
+   }
