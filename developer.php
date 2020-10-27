@@ -156,10 +156,11 @@
   </div>
 </div>               
 </div>
-<h3  align="center" data-aos="zoom-in-up" data-aos-duration="2000">Special Thanks to</h3>
+<h3  align="center">Special Thanks to</h3>
 <h4  align="center" data-aos="zoom-in-down" data-aos-duration="2000">Dr. Shailendra Singh Khinchi</h4>
 <h4  align="center" data-aos="zoom-in-up" data-aos-duration="2000">Dr. Suwarna Torgal </h4>
 <h4  align="center"data-aos="zoom-in-down" data-aos-duration="2000" >Mr. Tapesh Sarsodia</h4>
+ <h4  align="center"data-aos="zoom-in-up" data-aos-duration="2000" >Mr. Ajeet Bergaley</h4>
 </div>
 
 <div class="text-center my-5">
