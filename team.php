@@ -173,7 +173,7 @@
     <div class="card-body">
       <h5 class="card-title">Ankita Giri</h4>
        <h6 class="card-text">Head-Girl</h5>
-         <a href="mailto:    ">emailaddress@gmail.com</a>
+         <a href="mailto:iamankitagiri9@gmail.com">iamankitagiri9@gmail.com</a>
 
        </div>
      </div>
