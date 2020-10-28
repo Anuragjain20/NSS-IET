@@ -33,6 +33,7 @@
     .text-m{
      color :black;
      font-weight: 400;
+     text-align: justify;
    }
 
    .line_break {
