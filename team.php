@@ -156,7 +156,7 @@
     <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
      <div class="card text-center" >
 
-      <img src="images/Team/image2.jfif" alt="Ravi_Kumar" class="img-s mt-3 img-fluid">
+      <img src="images/Team/Ravi_Kumar.jpeg" alt="Ravi_Kumar" class="img-s mt-3 img-fluid">
       <div class="card-body">
        <h5 class="card-title">Ravi Kumar</h5>
        <h6 class="card-text"> Head-Boy</h6>
@@ -169,7 +169,7 @@
  <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
    <div class="card text-center" >
 
-    <img src="images/Team/image2.jfif" alt="Ankita_Giri" class="img-s mt-3 img-fluid">
+    <img src="images/Team/Ankita_Giri.png" alt="Ankita_Giri" class="img-s mt-3 img-fluid">
     <div class="card-body">
       <h5 class="card-title">Ankita Giri</h4>
        <h6 class="card-text">Head-Girl</h5>
