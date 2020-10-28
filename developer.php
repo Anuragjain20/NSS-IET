@@ -97,7 +97,7 @@
       </div>
       <div class="team-content">
         <h3 class="name">Sakshi Shastri</h3>
-        <h6 class = "info">Electronics & Instrumentation</h6>
+        <h6 class = "info">Electronics & Telecommunication</h6>
         <h6 class = "info">Engineering</h6>
         <h6 class="info">2017-2021</h6>
 
@@ -122,8 +122,8 @@
     </div>
     <div class="team-content">
       <h3 class="name">Deepam Gupta</h3>
-      <h6 class = "info">Computer Science</h6>
-      <h6 class = "info">Engineering</h6>
+      <h6 class = "info">Computer Engineering</h6>
+      
       <h6 class="info">2017-2021</h6>
     </div>
     <ul class="social-dev">
@@ -142,8 +142,7 @@
     </div>
     <div class="team-content">
       <h3 class="name">Sumit Kr Singh</h3>
-      <h6 class = "info">Computer Science</h6>
-      <h6 class = "info">Engineering</h6>
+     <h6 class = "info">Computer Engineering</h6>
       <h6 class="info">2017-2021</h6>
 
     </div>
