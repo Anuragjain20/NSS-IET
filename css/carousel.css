@@ -1,6 +1,11 @@
 .customcarousel {
-    height:50vw;
+	height:50vw;
 }
 .carousel-caption{
-          background-color: #123c69b3;
-      }
+	background-color: #123c69b3;
+}
+@media only screen and (max-width: 600px){
+	.carousel-caption h4{
+		font-size: 2vw;	
+	}
+}
