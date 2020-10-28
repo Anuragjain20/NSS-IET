@@ -1,6 +1,6 @@
 .parallax {
   /* The image used */
-  background-image: url("../images/Nss.jpeg");
+  background-image: url("../images/nss123.jpg");
   ;
   /* Set a specific height */
   height: 100%; 
@@ -11,7 +11,7 @@
   background-attachment: fixed;
   background-position:center;
   background-repeat: repeat-y;
-  /*background-size:cover;*/
+  /*  background-size:cover;*/
 
 }
 
@@ -26,7 +26,7 @@
   height: 100%;
   left: 0;
   top: 0;
-  background: #201f1ec9;
+  background: white;
   opacity: 0.5;
 }
 
@@ -44,23 +44,19 @@
   padding-bottom: 90px;
 }
 .htext{
-  color: #731000;
-  /*font-weight: 700;*/
+  color:black;
+  font-weight: 700;
 }
-.dtext{
-  color: #350000;
-  /*font-weight: 600;*/
-  /*font-style: italic;*/
-  /*   font-family: cursive; */
-  font-size: 18px;
+.dtext{ color:black;
+  font-weight: 400;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 .parallax-box{
-  background-color: #a3ffecdb;
+  background-color:rgba(255, 255, 255, 0.589);
   border-radius: 30px 0px 30px 0px;
   padding: 40px 10px 10px 20px;
   margin: 10px;
   /*background: linear-gradient(to bottom right, #83d7c7f0 30%, #3d82f1e8 100%);*/
 }
+
 
