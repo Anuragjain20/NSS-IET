@@ -160,6 +160,18 @@
   </div>
 </div>
 
+ <div class="container">
+  <div class="d-flex flex-nowrap mt-3 p-3">
+    <div class="p-4 align-self-center text-justify">
+      <img src="images/message/Monika_Jamre.jpg" class="e-rounded-circle" alt="Monika_Jamre"> 
+      <h5>MONIKA JAMRE</h5> 
+      <p class="text-center pt-0 mt-0">Information Technology Engineering, 2016-2020</p>
+      <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
+      मैं NSS से कॉलेज के प्रथम वर्ष से अंतिम वर्ष तक जुड़ी रही हूं। मुझे सोशल वर्क करना अच्छा लगता है। मुझे NSS से जुड़कर बहुत कुछ सीखने को मिला ।
+       मैने यहाँ पर कई सारी एक्टिविटीज़ में भाग लिया जैसे वृक्षारोपण, गुरु पूर्णिमा, ब्लड डोनेशन कैम्प, एड्स डे जिनका अनुभव बहुत अच्छा था। मैंने NSS के द्वारा नए
+       वॉलंटियर्स से बात करके और एक ग्रुप में रहकर एकसाथ काम करना सीखा। मैंने अपना सबसे यादगार समय उमरिया कैम्प में बिताया। </p> 
+     <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
+   </div>
 </body>
 
 
