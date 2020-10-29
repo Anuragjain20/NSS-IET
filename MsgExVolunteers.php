@@ -40,7 +40,6 @@
       छोटे बच्चों के साथ 6 महीने रहकर उन्हें हर तरह की सहायता की।</p>
       <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
     </div>
-
   </div>
 </div>
 
@@ -56,7 +55,6 @@
       It made me confident, developed leadership skills and helped me gain knowledge about different people from different walks of life.</p>
       <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
     </div>
-
   </div>
 </div>
 
@@ -74,7 +72,6 @@
         <br> धन्यवाद! 
         <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
       </div>
-
     </div>
   </div>
 
@@ -92,7 +89,6 @@
        something for the community would certainly be in proudest moments of my life. </p> 
        <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
      </div>
-
    </div>
  </div>
 
@@ -108,7 +104,6 @@
       will stay with me throughout my life and will keep on inspiring me to make this planet a better place.</p> 
       <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
     </div>
-
   </div>
 </div>
 
@@ -125,7 +120,6 @@
      got rid of stage fear. For me the best experience was the 7 day NSS camp. </p> 
      <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
    </div>
-
  </div>
 </div>
 
@@ -156,7 +150,6 @@
       NSS में अपनों सा प्यार मिला एक नया परिवार मिला ✔️ </p> 
       <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
     </div>
-
   </div>
 </div>
 
@@ -171,7 +164,10 @@
        मैने यहाँ पर कई सारी एक्टिविटीज़ में भाग लिया जैसे वृक्षारोपण, गुरु पूर्णिमा, ब्लड डोनेशन कैम्प, एड्स डे जिनका अनुभव बहुत अच्छा था। मैंने NSS के द्वारा नए
        वॉलंटियर्स से बात करके और एक ग्रुप में रहकर एकसाथ काम करना सीखा। मैंने अपना सबसे यादगार समय उमरिया कैम्प में बिताया। </p> 
      <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
-   </div>
+    </div>
+  </div> 
+</div>
+ 
 </body>
 
 
