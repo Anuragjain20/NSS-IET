@@ -50,11 +50,11 @@
       <img src="images/message/Deepika_Mukati.jpg" class="e-rounded-circle" alt="Deepika_Mukati"> 
       <h5>DEEPIKA MUKATI</h5> 
       <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
-      <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #99ca11;"></i>
+      <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
         As an active volunteer, all the NSS meetings, activities (plantation, blood donation camps, unit camps, Traffic control, population control really etc.) 
         helped me in developing a better connection with the society and social issues. 
       It made me confident, developed leadership skills and helped me gain knowledge about different people from different walks of life.</p>
-      <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #99ca11;"></i>
+      <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
     </div>
 
   </div>
@@ -84,13 +84,13 @@
         <img src="images/message/Himanshu_Mishra.jpg" class="e-rounded-circle" alt="Himanshu_Mishra"> 
         <h5>HIMANSHU MISHRA</h5> 
         <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
-        <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #99ca11;"></i>
+        <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
          Working with NSS is one of the greatest experience of my life. I will say, "All people should think to give a little part of there 
          life to help, you will lose nothing but get a different type of happiness". NSS was definitely a boon to me, the maturity and the 
          overall transformation in my personality that it brought about. My NSS camp experience is unforgettable. It gave me a truck loads 
          of experiences, sweet and unforgettable moments. I really miss those days and my friends. Last but not the least, to be able to do
        something for the community would certainly be in proudest moments of my life. </p> 
-       <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #99ca11;"></i>
+       <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
      </div>
 
    </div>
@@ -118,12 +118,12 @@
       <img src="images/message/Devendra_Kumar.jpg" class="e-rounded-circle" alt="Devendra_Kumar"> 
       <h5>DEVENDRA KUMAR AHIRWAR</h5> 
       <p class="text-center pt-0 mt-0">Electronics & Telecommunication Engineering, 2016-2020</p>
-      <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #99ca11;"></i>
+      <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
        NSS help us to develop our personality through community services. If you are preparing for Civil services, 
        it helps a lot and there are so many benefits too. I learnt so many things in 3 years like I learnt to work as a team,
        leadership skills, understood ground realities, working of society, discipline, time management, made a lot of friends, 
      got rid of stage fear. For me the best experience was the 7 day NSS camp. </p> 
-     <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #99ca11;"></i>
+     <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
    </div>
 
  </div>
