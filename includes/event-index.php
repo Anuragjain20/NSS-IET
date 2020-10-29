@@ -1,5 +1,5 @@
   <!--Intro-->
-  <div class="container text-justify p-3" style="background-color: #f7f7f7; margin-top:30px;">
+  <div class="container text-justify intro p-3" style="background-color: #f7f7f7; margin-top:30px;">
     <h4 align="center"><b> Welcome to NSS IET-DAVV 's official website.</b></h4>
     <br>
     <h5> National Service Scheme (NSS) is a voluntary organization launched in Gandhiji's centenary year in 1969. It is a Central Sector Scheme of Government of India,
