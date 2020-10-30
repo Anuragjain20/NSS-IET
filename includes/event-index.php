@@ -19,7 +19,7 @@
         <div class= "background">
           <img src="images/event-section-homepage/celebration.png"class="image" style="width:50%">
           <div class="middle">
-            <a href="activities.php#celebration"><div class="text">CELEBRATIONS</div></a>
+           <div> <a href="activities.php#celebration" class="text">CELEBRATIONS</a></div>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@
         <div class= "background">
           <img src="images/event-section-homepage/health.png" class="image" style="width:60%" >
           <div class="middle">
-            <a href="activities.php#health"><div class="text">HEALTH</div></a>
+            <div> <a href="activities.php#health" class="text">HEALTH</a></div>
           </div>
         </div>
       </div>
@@ -37,7 +37,7 @@
         <div class= "background">
           <img src="images/event-section-homepage/awareness.png" class="image" style="width:50% ">
           <div class="middle">
-            <a href="activities.php#awareness"><div class="text">AWARENESS PROGRAMS</div></a>
+           <div> <a href="activities.php#awareness" class="text">AWARENESS PROGRAMS</a></div>
           </div>
         </div>
       </div>
