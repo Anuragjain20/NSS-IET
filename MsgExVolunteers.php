@@ -50,7 +50,7 @@
       <h5 class="text-center">DEEPIKA MUKATI</h5> 
       <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
       <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
-        As an active volunteer, all the NSS meetings, activities (plantation, blood donation camps, unit camps, Traffic control, population control really etc.) 
+        As an active volunteer, all the NSS meetings, activities (plantation, blood donation camps, unit camps, Traffic control, population control rally etc.) 
         helped me in developing a better connection with the society and social issues. 
       It made me confident, developed leadership skills and helped me gain knowledge about different people from different walks of life.</p>
       <i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i>
