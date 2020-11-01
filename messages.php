@@ -101,7 +101,7 @@
             <h2 class="mb-3 pt-4 heading-msg">Message from the Program Officers</h2>
             <div class="row">
                 <div class="col-lg-6 my-5">
-                    <div class="card  msg-p border-0  px-4 pb-4 ">
+                    <div class="card  msg-p border-0  px-4 ">
                         <div class="row justify-content-center"> <img src="images/message/ssk.jpg" alt="Dr. Shailendra Singh Khinchi, PO boys unit" class="img-fluid profile-pic mb-4 mt-3"> </div>
                         <h5 class="mb-3 mt-2">Dr. Shailendra Singh Khinchi</h5>
                         <h6 class="mb-3 mt-2">Program Officer, Boys Unit</h6>
