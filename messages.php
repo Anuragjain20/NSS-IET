@@ -98,7 +98,7 @@
         </div>   
 -->
         <div class="container-fluid px-3 px-sm-5 my-5 text-center" style="background-color: #f8f8ff;">
-            <h2 class="mb-3 pt-4 heading-msg">Message From the Program Officers</h2>
+            <h2 class="mb-3 pt-4 heading-msg">Message from the Program Officers</h2>
             <div class="row">
                 <div class="col-lg-6 my-5">
                     <div class="card  msg-p border-0  px-4  ">
@@ -124,9 +124,9 @@
                             <h5 class="mb-3 mt-2">Dr. Suwarna Torgal</h5>
                             <h6 class="mb-3 mt-2">Program Officer, Girls Unit</h6>
                            
-                            <p class="content mb-4  mt-5 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
-                                <b>"The larger purpose of education shall be service of Mankind."</b>
-                              <br>  The principles on which NSS as an organization is built, has inherent characters in line with the cause of nation building through service.
+                            <p class="content mb-4 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
+                                <b>"The larger purpose of education shall be service of Mankind."</b>   <br>
+                              The principles on which NSS as an organization is built, has inherent characters in line with the cause of nation building through service.
 
                                 Being  the program officer of NSS, IET-DAVV, my efforts will be towards channelizing potential of our member students to reach out to society to serve mankind.
 
@@ -141,8 +141,8 @@
                                 In this regard I wholeheartedly thank our Director Dr. Sanjiv Tokekar whose motivation and support is appreciated. <br>
 
 
-                                Keep shining like star.
-                              Like NSS, IET-DAVV always rocks with its performance. <br>
+                                Keep shining like a star.
+                                As NSS, IET-DAVV always rocks with its performance. <br>
                                 Best wishes! 
                             <br><i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i></p>
                         </div>
