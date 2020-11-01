@@ -101,7 +101,7 @@
             <h2 class="mb-3 pt-4 heading-msg">Message from the Program Officers</h2>
             <div class="row">
                 <div class="col-lg-6 my-5">
-                    <div class="card  msg-p border-0  px-4  ">
+                    <div class="card  msg-p border-0  px-4 pb-4 ">
                         <div class="row justify-content-center"> <img src="images/message/ssk.jpg" alt="Dr. Shailendra Singh Khinchi, PO boys unit" class="img-fluid profile-pic mb-4 mt-3"> </div>
                         <h5 class="mb-3 mt-2">Dr. Shailendra Singh Khinchi</h5>
                         <h6 class="mb-3 mt-2">Program Officer, Boys Unit</h6>
@@ -125,13 +125,13 @@
                             <h6 class="mb-3 mt-2">Program Officer, Girls Unit</h6>
                            
                             <p class="content mb-4 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
-                                <b>"The larger purpose of education shall be service of Mankind."</b>   <br>
+                                <b>"The larger purpose of education shall be service of mankind."</b>   <br>
                               The principles on which NSS as an organization is built, has inherent characters in line with the cause of nation building through service.
 
                                 Being  the program officer of NSS, IET-DAVV, my efforts will be towards channelizing potential of our member students to reach out to society to serve mankind.
 
                                 The team has proved its mettle in shouldering every responsibility with utmost care and diligence.
-                                I congratulate team NSS, IET-DAVV for their unending efforts to spread smiles and help the society.    <br>
+                                I congratulate team NSS, IET-DAVV for their unending efforts to spread smiles and help the society.
 
                                 I would like to give out this message that we must all remember to do things that makes life worthwhile.
                                 In the words of Dalai Lama, <i>"The goal is not to be better than the other man, but your previous self."</i>
