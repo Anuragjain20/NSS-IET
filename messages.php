@@ -107,7 +107,7 @@
                         <h6 class="mb-3 mt-2">Program Officer, Boys Unit</h6>
                       
                         <p class="content mb-4 mx-2"> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
-                            <b>" The flower that blooms in adversity is the most rare and beautiful of all " <br><span class="d-block text-right" style="text-align: right;">-  Walt Disney.</span></b>
+                            <b>"The flower that blooms in adversity is the most rare and beautiful of all." <br><span class="d-block text-right" style="text-align: right;">-  Walt Disney</span></b>
                             <br> The quote speaks so much about our NSS volunteers I look at them as the flowers that dare to be different from the rest. Our dignitaries are soaring high 
                             with the promise of a bright future of our volunteers. Its uniqueness lies in its flexibility to adapt to respond to the changing perspective of social scenerio
                             and to be open to the new horizons  of growth and excellence. I would like to appreciate the entire team for a job well done and for their whole hearted involvement
@@ -124,9 +124,9 @@
                             <h5 class="mb-3 mt-2">Dr. Suwarna Torgal</h5>
                             <h6 class="mb-3 mt-2">Program Officer, Girls Unit</h6>
                            
-                            <p class="content mb-4  mt-5 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br> 
-                                <b>"The larger purpose of education shall be service of Mankind".<br><br></b>
-                                The principles on which NSS as an organization is built, has inherent characters in line with the cause of nation building through service.
+                            <p class="content mb-4  mt-5 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
+                                <b>"The larger purpose of education shall be service of Mankind."</b>
+                              <br>  The principles on which NSS as an organization is built, has inherent characters in line with the cause of nation building through service.
 
                                 Being  the program officer of NSS, IET-DAVV, my efforts will be towards channelizing potential of our member students to reach out to society to serve mankind.
 
