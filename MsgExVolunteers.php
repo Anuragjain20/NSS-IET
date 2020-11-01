@@ -28,7 +28,7 @@
   <div class="d-flex flex-nowrap mt-3 p-3">
     <div class="p-4 align-self-center text-justify">
       <img src="images/message/Ravi_Waskale.jpg" class="e-rounded-circle" alt="Ravi_Waskale"> 
-      <h5>RAVI WASKALE</h5>
+      <h5 class="text-center">RAVI WASKALE</h5>
       <p class="text-center pt-0 mt-0">Electronics & Instrumentation Engineering, 2015-2019</p>
       <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>मुझे पहले से ही सोशल वर्क करना अच्छा लगता था, और जब मुझे NSS के द्वारा
         सोशल वर्क करने का अवसर मिला तो NSS में पहला यूनिट कैम्प 2016 में जाने का मौका भी मिला जहाँ हमने सभी सीनियर्स और साथियो के साथ बहुत सारी एक्टिविटी की जैसे सुबह प्रभात फेरी , ग्राम दर्शन,
@@ -47,7 +47,7 @@
   <div class="d-flex flex-nowrap mt-3 p-3">
     <div class="p-4 align-self-center text-justify">
       <img src="images/message/Deepika_Mukati.jpg" class="e-rounded-circle" alt="Deepika_Mukati"> 
-      <h5>DEEPIKA MUKATI</h5> 
+      <h5 class="text-center">DEEPIKA MUKATI</h5> 
       <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
       <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
         As an active volunteer, all the NSS meetings, activities (plantation, blood donation camps, unit camps, Traffic control, population control really etc.) 
@@ -62,7 +62,7 @@
   <div class="d-flex flex-nowrap mt-3 p-3">
     <div class="p-4 align-self-center text-justify">
       <img src="images/message/Sarvesh_Gupta.jpg" class="e-rounded-circle" alt="Sarvesh_Gupta"> 
-      <h5>SARVESH GUPTA</h5> 
+      <h5 class="text-center">SARVESH GUPTA</h5> 
       <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
       <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
         जय हिन्द,<br>
@@ -79,7 +79,7 @@
     <div class="d-flex flex-nowrap mt-3 p-3">
       <div class="p-4 align-self-center text-justify">
         <img src="images/message/Himanshu_Mishra.jpg" class="e-rounded-circle" alt="Himanshu_Mishra"> 
-        <h5>HIMANSHU MISHRA</h5> 
+        <h5 class="text-center">HIMANSHU MISHRA</h5> 
         <p class="text-center pt-0 mt-0">Mechanical Engineering, 2015-2019</p>
         <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
          Working with NSS is one of the greatest experience of my life. I will say, "All people should think to give a little part of there 
@@ -96,7 +96,7 @@
   <div class="d-flex flex-nowrap mt-3 p-3">
     <div class="p-4 align-self-center text-justify">
       <img src="images/message/Shrey_Nougarahiya.jpg" class="e-rounded-circle" alt="Shrey_Nougarahiya"> 
-      <h5>SHREY NOUGARAHIYA</h5>
+      <h5 class="text-center">SHREY NOUGARAHIYA</h5>
       <p class="text-center pt-0 mt-0">Electronics & Telecommunication Engineering, 2016-2020</p>
       <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
         Being a part of NSS for 4 years helped me in my personality development. NSS gave me a platform to use my skills for betterment of society and self.
@@ -111,7 +111,7 @@
   <div class="d-flex flex-nowrap mt-3 p-3">
     <div class="p-4 align-self-center text-justify">
       <img src="images/message/Monika_Jamre.jpg" class="e-rounded-circle" alt="Monika_Jamre"> 
-      <h5>MONIKA JAMRE</h5> 
+      <h5 class="text-center">MONIKA JAMRE</h5> 
       <p class="text-center pt-0 mt-0">Information Technology Engineering, 2016-2020</p>
       <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
       मैं NSS से कॉलेज के प्रथम वर्ष से अंतिम वर्ष तक जुड़ी रही हूं। मुझे सोशल वर्क करना अच्छा लगता है। मुझे NSS से जुड़कर बहुत कुछ सीखने को मिला ।
@@ -126,7 +126,7 @@
   <div class="d-flex flex-nowrap mt-3 p-3">
     <div class="p-4 align-self-center text-justify">
       <img src="images/message/Devendra_Kumar.jpg" class="e-rounded-circle" alt="Devendra_Kumar"> 
-      <h5>DEVENDRA KUMAR AHIRWAR</h5> 
+      <h5 class="text-center">DEVENDRA KUMAR AHIRWAR</h5> 
       <p class="text-center pt-0 mt-0">Electronics & Telecommunication Engineering, 2016-2020</p>
       <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
        NSS help us to develop our personality through community services. If you are preparing for Civil services, 
@@ -142,7 +142,7 @@
   <div class="d-flex flex-nowrap mt-3 p-3">
     <div class="p-4 align-self-center text-justify">
       <img src="images/message/Rakshita_Singhal.jpg" class="e-rounded-circle" alt="Rakshita_Singhal"> 
-      <h5>RAKSHITA SINGHAL</h5> 
+      <h5 class="text-center">RAKSHITA SINGHAL</h5> 
       <p class="text-center pt-0 mt-0">Computer Engineering, 2016-2020</p>
       <p> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i>
         Being a स्वयंसेवक itself is a matter of proud for anyone and I am fortunate enough to be one since 2016 (my first year of college). Since then I 
