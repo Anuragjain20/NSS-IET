@@ -106,7 +106,7 @@
                         <h5 class="mb-3 mt-2">Dr. Shailendra Singh Khinchi</h5>
                         <h6 class="mb-3 mt-2">Program Officer, Boys Unit</h6>
                       
-                        <p class="content mb-4 mx-2"> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
+                        <p class="content mb-5 mx-2 pb-2"> <i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
                             <b>"The flower that blooms in adversity is the most rare and beautiful of all." <br><span class="d-block text-right" style="text-align: right;">-  Walt Disney</span></b>
                             <br> The quote speaks so much about our NSS volunteers I look at them as the flowers that dare to be different from the rest. Our dignitaries are soaring high 
                             with the promise of a bright future of our volunteers. Its uniqueness lies in its flexibility to adapt to respond to the changing perspective of social scenerio
@@ -131,10 +131,10 @@
                                 Being  the program officer of NSS, IET-DAVV, my efforts will be towards channelizing potential of our member students to reach out to society to serve mankind.
 
                                 The team has proved its mettle in shouldering every responsibility with utmost care and diligence.
-                                I congratulate team NSS, IET-DAVV for their unending efforts to spread smiles and help the society.
+                                I congratulate team NSS, IET-DAVV for their unending efforts to spread smiles and help the society.    <br>
 
                                 I would like to give out this message that we must all remember to do things that makes life worthwhile.
-                                In the words of Dalai Lama, "The goal is not to be better than the other man, but your previous self."
+                                In the words of Dalai Lama, <i>"The goal is not to be better than the other man, but your previous self."</i>
                                 I hope NSS service among the youth of our country and the students prove their every action through their mindblowing achievements.
                                 Its the fantastic performance of the team NSS, IET-DAVV which is to be saluted.
 
