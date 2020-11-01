@@ -126,7 +126,7 @@
                            
                             <p class="content mb-4 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
                                 <b>"The larger purpose of education shall be service of mankind."</b>   <br>
-                              The principles on which NSS as an organization is built, has inherent characters in line with the cause of nation building through service.
+                              The principles on which NSS as an organization is built, has inherited characters in line with the cause of nation building through service.
 
                                 Being  the program officer of NSS, IET-DAVV, my efforts will be towards channelizing potential of our member students to reach out to society to serve mankind.
 
@@ -136,7 +136,7 @@
                                 I would like to give out this message that we must all remember to do things that makes life worthwhile.
                                 In the words of Dalai Lama, <i>"The goal is not to be better than the other man, but your previous self."</i>
                                 I hope NSS service among the youth of our country and the students prove their every action through their mindblowing achievements.
-                                Its the fantastic performance of the team NSS, IET-DAVV which is to be saluted.
+                                It is the fantastic performance of the team NSS, IET-DAVV which is to be saluted.
 
                                 In this regard I wholeheartedly thank our Director Dr. Sanjiv Tokekar whose motivation and support is appreciated. <br>
 
