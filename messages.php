@@ -112,7 +112,7 @@
                             with the promise of a bright future of our volunteers. Its uniqueness lies in its flexibility to adapt to respond to the changing perspective of social scenerio
                             and to be open to the new horizons  of growth and excellence. I would like to appreciate the entire team for a job well done and for their whole hearted involvement
                             to take NSS to such great heights. I  congratulate all for  their tireless efforts and hard work for the launching of NSS IET-DAVV  website. I also thank our Director
-                            Dr. Sanjeev Tokekar for his constant support and encouragement. With warm wishes and God's blessings.
+                            Dr. Sanjiv Tokekar for his constant support and encouragement. With warm wishes and God's blessings.
                             <br><i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i></p>
                            
                         </div>
@@ -125,13 +125,13 @@
                             <h6 class="mb-3 mt-2">Program Officer, Girls Unit</h6>
                            
                             <p class="content mb-4  mt-5 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br> 
-                                <b>"The larger purpose of education shall be service of Mankind".<br></b>
+                                <b>"The larger purpose of education shall be service of Mankind".<br><br></b>
                                 The principles on which NSS as an organization is built, has inherent characters in line with the cause of nation building through service.
 
                                 Being  the program officer of NSS, IET-DAVV, my efforts will be towards channelizing potential of our member students to reach out to society to serve mankind.
 
                                 The team has proved its mettle in shouldering every responsibility with utmost care and diligence.
-                                I congratulate team NSS, IET-DAVV for their unending efforts to spread smiles and help the society.<br>
+                                I congratulate team NSS, IET-DAVV for their unending efforts to spread smiles and help the society.
 
                                 I would like to give out this message that we must all remember to do things that makes life worthwhile.
                                 In the words of Dalai Lama, "The goal is not to be better than the other man, but your previous self."
@@ -142,7 +142,7 @@
 
 
                                 Keep shining like star.
-                              Like NSS, IET-DAVV always rocks with its performance. 
+                              Like NSS, IET-DAVV always rocks with its performance. <br>
                                 Best wishes! 
                             <br><i class="fa fa-quote-right fa-3x fa-pull-right" aria-hidden="true" style="color: #123c69;"></i></p>
                         </div>
