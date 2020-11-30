@@ -33,7 +33,7 @@
                     <a class="dropdown-item" href="https://drive.google.com/file/d/1-nybr8Zu27U5dnX1mDZRdD7nW-zRv2v-/view " target="_blank">NSS Diary </a>
                     <a class="dropdown-item" href="http://www.nss.dauniv.ac.in/songs.php"   target="_blank" >NSS Geet</a>
                     <a class="dropdown-item" href="http://www.nss.dauniv.ac.in/camp-guide_nss.php" target="_blank">Camp Guidelines</a>
-                    <a class="dropdown-item" href="# " target="_blank">Calender</a>
+                 <!--   <a class="dropdown-item" href="# " target="_blank">Calender</a>-->
                     <a class="dropdown-item" href="https://drive.google.com/file/d/1e8BW1QkxqdmYfLORdK4J5DaSGVwHnbgW/view"   target="_blank">Reports</a>
                   </div>
                 </li>
