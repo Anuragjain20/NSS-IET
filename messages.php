@@ -52,10 +52,15 @@
     .content{
         text-align: justify;
     }
+    @media (max-width:1350px){
+        .msg-p{
+         min-height:950px;
+         
+    }
 
     @media (max-width:1120px){
         .msg-p{
-         min-height:850px;
+         min-height:950px;
          
     }
     }
@@ -121,10 +126,10 @@
                     <div class="col-lg-6 my-5">
                         <div class="card  msg-p border-0  px-4 ">
                             <div class="row justify-content-center"> <img src="images/message/suwarna.jpg" alt="Dr. Suwarna Torgal, PO girls unit"class="img-fluid profile-pic mb-4 mt-3"> </div>
-                            <h5 class="mb-3 mt-2">Dr. Suwarna Torgal</h5>
-                            <h6 class="mb-3 mt-2">Program Officer, Girls Unit</h6>
+                            <h5 class="mb-2 mt-2">Dr. Suwarna Torgal</h5>
+                            <h6 class="mb-1 mt-2">Program Officer, Girls Unit</h6>
                            
-                            <p class="content mb-4 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
+                            <p class="content mb-2 mx-2"><i class="fa fa-quote-left fa-3x fa-pull-left" aria-hidden="true" style="color: #123c69;"></i><br>
                                 <b>"The larger purpose of education shall be service of mankind."</b>   <br>
                               The principles on which NSS as an organization is built, has inherited characters in line with the cause of nation building through service.
 
