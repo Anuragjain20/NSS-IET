@@ -8,7 +8,15 @@
 
     <!--head php-->
     <?php include 'includes/head.php';?>
-
+<style>
+.pd{
+    padding-left:0px!important;
+    padding-right:0px!important;
+}
+.card{
+    max-width:380px;
+}
+</style>
 
 </head>
 
@@ -62,31 +70,31 @@
     <!--- Program officers-->
     <div class="container-fluid">
         <div class="container subheading">Program Officers</div>
-        <div class="container">
-            <div class="row my-3">
+        <div class="container-fluid pd">
+            <div class="row my-3 mx-auto">
 
                 <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
-                    <div class="card text-center">
+                    <div class="card   mx-auto text-center">
 
                         <img src="images/Team/ssk.jpg" alt="image2" class="img-s mt-3 img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Dr. Shailendra Singh Khinchi</h5>
                             <h6 class="card-text"> Faculty, Applied Science Department</h6>
-                            <a href="mailto:skhinchi@ietdavv.edu.in">skhinchi@ietdavv.edu.in</a>
+                            <i class="fas fa-envelope"></i><span><a href="mailto:skhinchi@ietdavv.edu.in"> : skhinchi@ietdavv.edu.in</a></span>
                         </div>
                     </div>
                 </div>
 
 
                 <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
-                    <div class="card text-center">
+                    <div class="card mx-auto text-center">
 
                         <img src="images/Team/suwarna.jpg" alt="image2" class="img-s mt-3 img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Dr. Suwarna Torgal</h4>
                                 <h6 class="card-text"> Faculty, Mechanical Engineering Department
                             </h5>
-                            <a href="mailto:storgal@ietdavv.edu.in">storgal@ietdavv.edu.in</a>
+                            <i class="fas fa-envelope"></i><span><a href="mailto:storgal@ietdavv.edu.in"> : storgal@ietdavv.edu.in</a></span>
 
                         </div>
                     </div>
@@ -153,32 +161,35 @@
         <!---head- Volunteers-->
 
         <div class="container subheading my-2">Head Volunteers</div>
-        <div class="container my-4">
-            <div class="row my-3">
+        <div class="container-fluid pd my-4">
+            <div class="row my-3 mx-auto">
 
                 <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
-                    <div class="card text-center">
+                    <div class="card  mx-auto text-center">
 
                         <img src="images/Team/Ravi_Kumar.jpeg" alt="Ravi_Kumar" class="img-s mt-3 img-fluid">
                         <div class="card-body">
                             <h5 class="card-title">Ravi Kumar</h5>
                             <h6 class="card-text"> Head-Boy</h6>
-                            <a href="mailto:raviraj18122@gmail.com">raviraj18122@gmail.com</a>
+                            <i class="fab fa-whatsapp"></i><span class="card-text"> : 7992357264 </span><br>
+                            <i class="fas fa-envelope"></i><span><a href="mailto:raviraj18122@gmail.com"> : raviraj18122@gmail.com</a><span>
+                            
                         </div>
                     </div>
                 </div>
 
 
                 <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
-                    <div class="card text-center">
+                    <div class="card mx-auto text-center">
 
                         <img src="images/Team/Ankita_Giri.png" alt="Ankita_Giri" class="img-s mt-3 img-fluid">
                         <div class="card-body">
-                            <h5 class="card-title">Ankita Giri</h4>
+                            <h5 class="card-title">Ankita Giri</h5>
                                 <h6 class="card-text">Head-Girl
-                            </h5>
-                            <a href="mailto:iamankitagiri9@gmail.com">iamankitagiri9@gmail.com</a>
-
+                            </h6>
+                            <i class="fab fa-whatsapp"></i><span class="card-text"> : 9516283013</span><br>
+                            <i class="fas fa-envelope"></i><span><a href="mailto:iamankitagiri9@gmail.com"> : iamankitagiri9@gmail.com</a><span>
+                           
                         </div>
                     </div>
                 </div>
@@ -187,33 +198,35 @@
         </div>
 
 
-        <div class="container-fluid my-3">
+        <div class="container-fluid pd my-3">
             <div class="container subheading">Core Leads</div>
-            <div class="container my-4">
-                <div class="row my-3">
+            <div class="container-fluid pd my-4">
+                <div class="row my-3 mx-auto">
 
                     <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
-                        <div class="card text-center">
+                        <div class="card  mx-auto text-center">
 
                             <img src="images/Team/Neha_Kumari.jpeg" alt="Neha Kumari" class="img-s mt-3 img-fluid">
                             <div class="card-body">
                                 <h5 class="card-title">Neha Kumari</h5>
                                 <h6 class="card-text">Cultural Head</h6>
-                                <a href="mailto:nk733979@gmail.com">nk733979@gmail.com</a>
+                                <i class="fab fa-whatsapp"></i><span class="card-text"> : 8084269927</span><br>
+                                <i class="fas fa-envelope"></i><span><a href="mailto:nk733979@gmail.com"> : nk733979@gmail.com</a><span>
                             </div>
                         </div>
                     </div>
 
 
                     <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
-                        <div class="card text-center">
+                        <div class="card  mx-auto text-center">
                             <img src="images/Team/neerajkumarahirwar.jpeg" alt="Neeraj Kumar Ahirwar"
                                 class="img-s mt-3 img-fluid">
                             <div class="card-body">
                                 <h5 class="card-title">Neeraj Kumar Ahirwar</h4>
                                     <h6 class="card-text">Technical Head
                                 </h5>
-                                <a href="mailto:Neeraj09kumar09@gmail.com">Neeraj09kumar09@gmail.com</a>
+                                <i class="fab fa-whatsapp"></i><span class="card-text"> : 8827728108</span><br>
+                                <i class="fas fa-envelope"></i><span><a href="mailto:Neeraj09kumar09@gmail.com"> : neeraj09kumar09@gmail.com</a><span>
 
                             </div>
 
@@ -224,17 +237,18 @@
                 </div>
             </div>
 
-            <div class="container my-4">
-                <div class="row my-3">
+            <div class="container-fluid  pd my-4">
+                <div class="row my-3 mx-auto">
 
                     <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
-                        <div class="card text-center">
+                        <div class="card mx-auto text-center">
                             <img src="images/Team/mansee.jpg" alt="Mansee Pagare" class="img-s mt-3 img-fluid">
                             <div class="card-body">
                                 <h5 class="card-title">Mansee Pagare</h4>
                                     <h6 class="card-text">Literacy Head
                                 </h5>
-                                <a href="mailto:mansipagare13@gmail.com">mansipagare13@gmail.com</a>
+                                <i class="fab fa-whatsapp"></i><span class="card-text"> : 8349739094</span><br>
+                                <i class="fas fa-envelope"></i><span><a href="mailto:mansipagare13@gmail.com"> : mansipagare13@gmail.com</a><span>
 
                             </div>
 
@@ -244,13 +258,14 @@
 
 
                     <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
-                        <div class="card text-center">
+                        <div class="card mx-auto text-center">
                             <img src="images/Team/kushlendra_gupta.jpeg" alt="Kushlendra Gupta"
                                 class="img-s mt-3 img-fluid">
                             <div class="card-body">
                                 <h5 class="card-title">Kushlendra Kumar Gupta</h5>
                                 <h6 class="card-text">Sports Head</h6>
-                                <a href="mailto:Kushlendragupta123@gmail.com">Kushlendragupta123@gmail.com</a>
+                                <i class="fab fa-whatsapp"></i><span class="card-text"> : 9407323164</span><br>
+                                <i class="fas fa-envelope"></i><span><a href="mailto:Kushlendragupta123@gmail.com"> : kushlendragupta123@gmail.com</a><span>
                             </div>
 
                         </div>
