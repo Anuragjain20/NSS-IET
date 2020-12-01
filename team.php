@@ -149,7 +149,7 @@
 -->
 <!---head- Volunteers-->
 
-<div class="container subheading">Head Volunteers</div>
+<div class="container subheading my-2">Head Volunteers</div>
 <div class="container my-4">
   <div class="row my-3">
    
@@ -183,16 +183,85 @@
 </div>
 
 
+<div class="container-fluid my-3">
+<div class="container subheading">Core Leads</div>
+<div class="container my-4">
+  <div class="row my-3">
+   
+    <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+     <div class="card text-center" >
+
+      <img src="images/Team/Neha_Kumari.jpeg" alt="Neha Kumari" class="img-s mt-3 img-fluid">
+      <div class="card-body">
+       <h5 class="card-title">Neha Kumari</h5>
+       <h6 class="card-text">Cultural Head</h6>
+       <a href="mailto:nk733979@gmail.com">nk733979@gmail.com</a>
+     </div>
+   </div>
+ </div>
+
+ 
+ <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+   <div class="card text-center" >
+   <img src="images/Team/neerajkumarahirwar.jpeg" alt="Neeraj Kumar Ahirwar" class="img-s mt-3 img-fluid">
+    <div class="card-body">
+      <h5 class="card-title">Neeraj Kumar Ahirwar</h4>
+       <h6 class="card-text">Technical Head</h5>
+         <a href="mailto:Neeraj09kumar09@gmail.com">Neeraj09kumar09@gmail.com</a>
+
+       </div>
 
 
-<!---button for  all volunteers list --> 
+     </div>
+   </div>
+
+ </div>
+</div>
+
+<div class="container my-4">
+  <div class="row my-3">
+   
+    <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+     <div class="card text-center" >
+     <img src="images/Team/Mansee.jpg" alt="Mansee Pagare" class="img-s mt-3 img-fluid">
+    <div class="card-body">
+      <h5 class="card-title">Mansee Pagare</h4>
+       <h6 class="card-text">Literacy Head</h5>
+         <a href="mailto:mansipagare13@gmail.com">mansipagare13@gmail.com</a>
+
+       </div>
+
+   
+   </div>
+ </div>
+
+ 
+ <div class=" col-12 col-sm-8 col-md-7 col-lg-5 mx-auto my-3">
+   <div class="card text-center" >
+   <img src="images/Team/kushlendra_gupta.jpeg" alt="Kushlendra Gupta" class="img-s mt-3 img-fluid">
+      <div class="card-body">
+       <h5 class="card-title">Kushlendra Kumar Gupta</h5>
+       <h6 class="card-text">Sports Head</h6>
+       <a href="mailto:Kushlendragupta123@gmail.com">Kushlendragupta123@gmail.com</a>
+     </div>
+
+     </div>
+   </div>
+
+ </div>
+</div>
+
+</div>
+
+<!--
+
 <div style="text-align: center" class="container "  >
   <a href="#"><button type="button" class="btn btn-danger btn-lg"><b><i>Volunteers </i></b></button></a>  
 </div>
 <br>
 <br>
 
-<!---buttons for teams of different years --> 
+ 
 <div class="container"style="text-align: center"  >
 
   <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">Current</button></a>
@@ -203,7 +272,7 @@
 
   <a href="#"><button type="button" class="btn btn-danger btn-lg my-2">2016-2017</button></a>
 
-</div>
+</div>-->
 
 
 <hr>

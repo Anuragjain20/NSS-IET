@@ -10,7 +10,12 @@
        <!--head php-->
        <?php include 'includes/head.php';?>
        <title>Contact-Us | National Service Scheme,IET-DAVV</title>
-
+<style>
+.linksc{
+  text-decoration:none!important;
+  color:black;
+}
+</style>
     
 </head>
 <body>
@@ -35,7 +40,7 @@
               <p ><h5>Prof. Shailendra Singh Khinchi</h5></p>
               <p><h6>Faculty, Applied Science Department</h6></p>
               <p><i class='fas fa-phone-alt'></i>&nbsp;:&nbsp;9425956306</p>
-              <p><i class="fa fa-envelope" aria-hidden="true"></i></i>&nbsp;:&nbsp;<a href="mailto:skhinchi@ietdavv.edu.in">skhinchi@ietdavv.edu.in</a></p>  
+              <p><i class="fa fa-envelope" aria-hidden="true"></i></i>&nbsp;:&nbsp;<a href="mailto:skhinchi@ietdavv.edu.in" class="linksc">skhinchi@ietdavv.edu.in</a></p>  
             </div>
           </div>
          </div>
@@ -46,7 +51,7 @@
              <p ><h5>Dr. Suwarna Torgal </h5></p>
               <p><h6>Faculty, Mechanical Engineering Department</h6></p>
               <p><i class='fas fa-phone-alt'></i>&nbsp;:&nbsp;9893010615</p>
-              <p><i class="fa fa-envelope" aria-hidden="true"></i></i>&nbsp;:&nbsp; <a href="mailto:storgal@ietdavv.edu.in">storgal@ietdavv.edu.in</a></p>
+              <p><i class="fa fa-envelope" aria-hidden="true"></i></i>&nbsp;:&nbsp; <a href="mailto:storgal@ietdavv.edu.in" class="linksc">storgal@ietdavv.edu.in</a></p>
             </div>
           </div>
          </div>
@@ -59,7 +64,7 @@
  <div class="mx-sm-5 py-4 cont-address text-center my-5">
  <h5>Address</h5>
  <p>IET-DAVV,Khandwa Road,Indore,452017(M.P.)<br>
- Email : <a href="mailto:nssietdavv@gmail.com">nssietdavv@gmail.com</a>
+ Email : <a href="mailto:nssietdavv@gmail.com" class="linksc">nssietdavv@gmail.com</a>
  
  </div>     
 
