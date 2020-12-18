@@ -25,14 +25,14 @@
     <div class="carousel-item">
       <img class="d-block w-100 customcarousel" src="images/carousel/carousel3.jpg" alt="Third slide">
       <div class="carousel-caption py-2">
-        <h4>Energy Swaraj Yatra On 03 December 2020</h4>
+        <h4>COVID-19 Awareness at Nagora Village</h4>
       </div>
     </div>
     
     <div class="carousel-item">
       <img class="d-block w-100 customcarousel" src="images/carousel/carousel4.jpg" alt="Fourth slide">
       <div class="carousel-caption py-2">
-        <h4>Energy Swaraj Yatra On 03 December 2020</h4>
+        <h4>COVID-19 Awareness at Nagora Village</h4>
       </div>
     </div>
     

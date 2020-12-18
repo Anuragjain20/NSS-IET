@@ -80,7 +80,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Dr. Shailendra Singh Khinchi</h5>
                             <h6 class="card-text"> Faculty, Applied Science Department</h6>
-                            <i class="fas fa-envelope"></i><span><a href="mailto:skhinchi@ietdavv.edu.in"> : skhinchi@ietdavv.edu.in</a></span>
+                            <i class="fas fa-envelope"></i><span><a href="mailto:skhinchi@ietdavv.edu.in" target="_blank"> : skhinchi@ietdavv.edu.in</a></span>
                         </div>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                             <h5 class="card-title">Dr. Suwarna Torgal</h4>
                                 <h6 class="card-text"> Faculty, Mechanical Engineering Department
                             </h5>
-                            <i class="fas fa-envelope"></i><span><a href="mailto:storgal@ietdavv.edu.in"> : storgal@ietdavv.edu.in</a></span>
+                            <i class="fas fa-envelope"></i><span><a href="mailto:storgal@ietdavv.edu.in" target="_blank"> : storgal@ietdavv.edu.in</a></span>
 
                         </div>
                     </div>
@@ -171,8 +171,8 @@
                         <div class="card-body">
                             <h5 class="card-title">Ravi Kumar</h5>
                             <h6 class="card-text"> Head-Boy</h6>
-                            <i class="fab fa-whatsapp"></i><span class="card-text"> : 7992357264 </span><br>
-                            <i class="fas fa-envelope"></i><span><a href="mailto:raviraj18122@gmail.com"> : raviraj18122@gmail.com</a><span>
+                            <i class="fab fa-whatsapp"></i><span class="card-text"><a href ="https://wa.me/7992357264" target="_blank"> : 7992357264 </a></span><br>
+                            <i class="fas fa-envelope"></i><span><a href="mailto:raviraj18122@gmail.com" target="_blank"> : raviraj18122@gmail.com</a><span>
                             
                         </div>
                     </div>
@@ -187,8 +187,8 @@
                             <h5 class="card-title">Ankita Giri</h5>
                                 <h6 class="card-text">Head-Girl
                             </h6>
-                            <i class="fab fa-whatsapp"></i><span class="card-text"> : 9516283013</span><br>
-                            <i class="fas fa-envelope"></i><span><a href="mailto:iamankitagiri9@gmail.com"> : iamankitagiri9@gmail.com</a><span>
+                            <i class="fab fa-whatsapp"></i><span class="card-text"><a href ="https://wa.me/9516283013" target="_blank"> : 9516283013</a></span><br>
+                            <i class="fas fa-envelope"></i><span><a href="mailto:iamankitagiri9@gmail.com" target ="_blank"> : iamankitagiri9@gmail.com</a><span>
                            
                         </div>
                     </div>
@@ -210,8 +210,8 @@
                             <div class="card-body">
                                 <h5 class="card-title">Neha Kumari</h5>
                                 <h6 class="card-text">Cultural Head</h6>
-                                <i class="fab fa-whatsapp"></i><span class="card-text"> : 8084269927</span><br>
-                                <i class="fas fa-envelope"></i><span><a href="mailto:nk733979@gmail.com"> : nk733979@gmail.com</a><span>
+                                <i class="fab fa-whatsapp"></i><span class="card-text"><a href ="https://wa.me/8084269927" target="_blank"> : 8084269927</a></span><br>
+                                <i class="fas fa-envelope"></i><span><a href="mailto:nk733979@gmail.com" target="_blank"> : nk733979@gmail.com</a><span>
                             </div>
                         </div>
                     </div>
@@ -225,8 +225,8 @@
                                 <h5 class="card-title">Neeraj Kumar Ahirwar</h4>
                                     <h6 class="card-text">Technical Head
                                 </h5>
-                                <i class="fab fa-whatsapp"></i><span class="card-text"> : 8827728108</span><br>
-                                <i class="fas fa-envelope"></i><span><a href="mailto:Neeraj09kumar09@gmail.com"> : neeraj09kumar09@gmail.com</a><span>
+                                <i class="fab fa-whatsapp"></i><span class="card-text"><a href ="https://wa.me/8827728108" target="_blank"> : 8827728108</a></span><br>
+                                <i class="fas fa-envelope"></i><span><a href="mailto:Neeraj09kumar09@gmail.com" target="_blank"> : neeraj09kumar09@gmail.com</a><span>
 
                             </div>
 
@@ -247,8 +247,8 @@
                                 <h5 class="card-title">Mansee Pagare</h4>
                                     <h6 class="card-text">Literacy Head
                                 </h5>
-                                <i class="fab fa-whatsapp"></i><span class="card-text"> : 8349739094</span><br>
-                                <i class="fas fa-envelope"></i><span><a href="mailto:mansipagare13@gmail.com"> : mansipagare13@gmail.com</a><span>
+                                <i class="fab fa-whatsapp"></i><span class="card-text"><a href ="https://wa.me/8349739094" target ="_blank">  : 8349739094</a></span><br>
+                                <i class="fas fa-envelope"></i><span><a href="mailto:mansipagare13@gmail.com" target="_blank"> : mansipagare13@gmail.com</a><span>
 
                             </div>
 
@@ -264,8 +264,8 @@
                             <div class="card-body">
                                 <h5 class="card-title">Kushlendra Kumar Gupta</h5>
                                 <h6 class="card-text">Sports Head</h6>
-                                <i class="fab fa-whatsapp"></i><span class="card-text"> : 9407323164</span><br>
-                                <i class="fas fa-envelope"></i><span><a href="mailto:Kushlendragupta123@gmail.com"> : kushlendragupta123@gmail.com</a><span>
+                                <i class="fab fa-whatsapp"></i><span class="card-text"><a href ="https://wa.me/9407323164" target="_blank"> : 9407323164</a></span><br>
+                                <i class="fas fa-envelope"></i><span><a href="mailto:Kushlendragupta123@gmail.com" target="_blank"> : kushlendragupta123@gmail.com</a><span>
                             </div>
 
                         </div>
