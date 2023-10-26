@@ -20,7 +20,7 @@ function display_activity($activity_type, $color)
         $date =  $datearr[0];
         $dateTo = $datearr[1];
       }
-      $name = implode(array_slice($name_date,1,count($name_date)-2)," ");
+      $name = implode(" ",array_slice($name_date,1,count($name_date)-2));
       $detail = array(
         "folder" => $dir . $folder . "/", 
         "name" => $name,
